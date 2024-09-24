@@ -1,0 +1,124 @@
+import torch
+from datasets import load_dataset
+from transformers import (
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    pipeline,
+)
+from peft import PeftModel
+import pandas as pd
+from tqdm import tqdm
+import evaluate
+from transformers import StoppingCriteria, StoppingCriteriaList
+
+# metric = evaluate.load("sacrebleu")
+
+model_name = "NousResearch/Llama-2-7b-hf" #Llama-2-7b-chat-hf
+# new_model = "/raid/home/sriramd/llama-2-7b-translation"#"llama-2-7b-translation"
+
+device_map='auto'
+
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    low_cpu_mem_usage=True,
+    return_dict=True,
+    torch_dtype=torch.float16,
+    device_map=device_map,
+    cache_dir="/raid/home/sriramd/Llama-2-7b-hf" #/raid/home/sriramd/Llama-2-7b-chat-hf
+)
+# model = PeftModel.from_pretrained(base_model, new_model)
+# model = model.merge_and_unload()
+# model = base_model
+
+# Reload tokenizer to save it
+tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+tokenizer.pad_token = tokenizer.eos_token
+tokenizer.padding_side = "right"
+
+def create_stopping_criteria(stop_words, tokenizer, device):
+
+    class StoppingCriteriaSub(StoppingCriteria):
+        def __init__(self, stops = [], device=device, encounters = 1):
+            super().__init__()
+            self.stops = stops = [stop.to(device) for stop in stops]
+
+        def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor) -> bool:
+            last_token = input_ids[0][-1]
+            for stop in self.stops:
+                if tokenizer.decode(stop) == tokenizer.decode(last_token):
+                    return True
+            return False
+
+    stop_word_ids = [tokenizer(stop_word,
+                               return_tensors="pt", 
+                               add_special_tokens=False)["input_ids"].squeeze() 
+                               for stop_word in stop_words]
+
+    stopping_criteria = StoppingCriteriaList([StoppingCriteriaSub(stops=stop_word_ids)])
+    return stopping_criteria
+
+stop_words_list = [">"]
+stopping_criteria = None
+if stop_words_list is not None:
+    stopping_criteria = create_stopping_criteria(stop_words_list, tokenizer, "cuda")
+
+#Validate on the validation set
+valid_dataset = load_dataset("cfilt/iitb-english-hindi")
+# validation_results = {"english": [], "hindi": [], "llama_generation": []}
+# bleu_scores = []
+print('Evaluating')
+with open("/raid/home/sriramd/chinmay/results/4hots_hin_to_eng_llama_7b_hf.txt", 'w') as f:
+    for i in tqdm(range(len(valid_dataset['validation']))):
+        english = valid_dataset['validation'][i]['translation']['en']
+        hindi = valid_dataset['validation'][i]['translation']['hi']
+        prompt = f'''System: You are a Translator from Hindi to English:
+User:                                     
+Example 1:
+[Hindi]: सेंसेक्स में शामिल तीस कंपनियों में से महज नौ ने नुकसान उठाया जबकि बाकी सभी मुनाफे में रहीं।
+[English]: Out of the thirty companies involved in Sensex only nine recorded a loss while the rest of them enjoyed gains. 
+
+Example 2:
+[Hindi]: पिछले साल दिवाली पर कुछ जगहों पर की गई जांच में १०० डेसीबल तक ध्वनि प्रदूषण था।
+[English]: The investigation that was conducted last year at different places, during Diwali, showed that the noise pollution reached a level of 100 decibels.
+
+Example 3:
+[Hindi]: आज नई दिल्ली में मीडिया से बातचीत में पार्टी के राज्य प्रभारी अनिल जैन ने बताया कि बैठक के बाद पार्टी, सरकार के गठन का दावा पेश करने के लिए राज्यपाल से मिलेगी।
+[English]: Briefing media in New Delhi today, party's State-in-charge, Anil Jain said, after the meeting the party will meet the Governor to stake claim for government formation in the state.
+
+Example 4:
+[Hindi]: मध्य रेलवे एवं पश्चिम रेलवे के अधिकारियों के अनुसार मनमाड-मुंबई एक्सप्रेस, गुजरात एक्सप्रेस, सौराष्ट्र एक्सप्रेस, बांद्रा टर्मिनस सूरत इंटरसिटी एक्सप्रेस और मुंबई सेंट्रल-अहमदाबाद शताब्दी एक्सप्रेस जैसी कुछ इंटरसिटी ट्रेनों को रद्द कर दिया गया है। 
+[English]: Some intercity trains like Manmad-Mumbai Express, Gujarat Express, Saurashtra Express, Bandra-Terminus Surat Intercity Express and Mumbai Central-Ahmedabad Shatabdi Express have been cancelled, officials of the Central and Western Railways said.
+
+
+Following the same format above from the examples, What is the Translation of the sentence given below. 
+[Hindi]: {hindi} 
+[English]: '''
+        input_ids = tokenizer(prompt, return_tensors='pt', add_special_tokens=False).input_ids.cuda()
+        output = model.generate(inputs=input_ids, temperature=0.9, stopping_criteria=stopping_criteria, max_new_tokens=512, repetition_penalty=1.1)
+        generated = tokenizer.decode(output[0])
+        # print(f'GENERATED: {generated}', file=f)
+        
+        print(f'GENERATED: {generated}',file=f)
+        print(f'[Actual Hindi]: {hindi}',file=f)
+        print("="*50,file=f)
+        # validation_results['english'].append(english)
+        # validation_results['hindi'].append(hindi)
+        # validation_results['llama_generation'].append(generated)
+        # start = generated.find("[/INST]") + len("[/INST]") + 1
+        # end = generated.find("</s>")
+        # if end == -1:
+        #     prediction = generated[start:]
+        # else:
+        #     prediction = generated[start:end]
+        # if prediction[-1] == '।':
+        #     prediction = prediction[:-1]
+        # hindi = hindi.replace("\'", "\"")
+        # prediction = prediction.replace("\'", "\"")
+        # # print(f'Actual Hindi: {hindi}\nPredicted: {prediction}',file=f)
+        # bleu = metric.compute(predictions=[prediction], references=[[hindi]])
+        # bleu_scores.append(bleu['score'])
+            
+    # print('BLEU Score: ', sum(bleu_scores)/len(bleu_scores))
+
+    # df = pd.DataFrame(validation_results)
+    # df.to_csv('validation_results.csv', index=False)
