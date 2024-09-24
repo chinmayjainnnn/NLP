@@ -1,0 +1,128 @@
+ENGLISH: In turn, to be with these , for the four chief gatekeepers , who were Levites , were entrusted to be over the chambers and the treasures of the house of God .
+Mizo: Kawngkhâr vêngtu hotu palite chu Levi hnamte an ni a , Pathian ina sum dahna leh pindan enkawltu an ni si a .
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.0
+
+ENGLISH: Let us choose for us that which is right .  Let us know among ourselves what is good .
+Mizo: A dik chu thlang ila ,  Kan tâna chu i thlang .  tlâng ang u .
+OUTPUT: A dik chu thlang ila,  Kan tâna chu i thlang. tlâng ang u.
+BLEU Score: 1.0
+Average BLEU Score: 0.5
+
+ENGLISH: that Christ may dwell in your hearts through faith ;  to the end that you ,  being rooted and grounded in love ,
+Mizo: rinna avângin Krista chu in thinlungah chêng sela ,  hmangaihnaah zung kaiin phun ngheh in ni dâwn nia .
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.3333333333333333
+
+ENGLISH: "(Acts 3:13-15) The Messiah was “cut off” as foretold, being impaled on a stake on Passover Day of 33 C.E."
+Mizo: "( Tirh. 3:13-15 ) Messia chu “ tihbo ” a ni ang tih sawi lâwk a nih ang ngeiin, C.E. 33 Kalhlên Kût Nî-ah tihhlum a ni a ."
+OUTPUT: (Acts 3:13-15) Tlanga Mizah "khrang" chu thlai,  hmangaihnaah zung kaiin phun ngheh in ni dâwn nia.
+BLEU Score: 0.015508376470658029
+Average BLEU Score: 0.2538770941176645
+
+ENGLISH: And you shall make of these a sacred anointing oil blended as by the perfumer .
+Mizo: Rimtui siamtu siam angin hriak thih chu hriak thianghlim atân i siam tûr a ni .
+OUTPUT: Tluah tluah chu in tlâng chhak tluah tluah.  Tluah tluah chu in tlâng chhak tluah tluah.
+BLEU Score: 0.01284618972676772
+Average BLEU Score: 0.20567091323948516
+
+ENGLISH: Eat it today , for today is a Sabbath to the Lord ; today you will not find it in the field .
+Mizo: Vawiin chuan hei hi ei rawh u , vawiin hi Lalpa tân Chawlhni a nih hi ; vawiinah zawng leia tla in hmu lo vang .
+OUTPUT: Tlâng a hminga,  tlâng a hminga ia,  tlâng a hminga ia,  tlâng a hminga ia.
+BLEU Score: 0.009271037355785602
+Average BLEU Score: 0.1729376005922019
+
+ENGLISH: "Though we have inherited a bad inclination of the heart, why can we display a measure of goodness?"
+Mizo: "Thinlung sual tak rochung mah ila, engvângin nge ṭhatna engemaw chen chu kan lantîr theih?"
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.1482322290790302
+
+ENGLISH: But David couldn't go before it to inquire of God ;  for he was afraid because of the sword of the angel of Yahweh .
+Mizo: mahse ,  Lalpa khandaih tuar a hlauh avângin Pathian be tûrin chutah chuan Davida chu a kal ngam lo va ni .
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.12970320044415143
+
+ENGLISH: Instill in your children a desire to please “the God of peace”
+Mizo: I fate chu “remna Pathian” tihlâwm duhna nei tûrin zirtîr rawh
+OUTPUT: Tlâng ang u tlâng ang tluh,  chu in thinlungah chêng sela
+BLEU Score: 0.015671287677272196
+Average BLEU Score: 0.11703298791449818
+
+ENGLISH: I will give to you ,  and to your seed after you ,  the land where you are traveling ,  all the land of Canaan ,  for an everlasting possession .  I will be their God .  "
+Mizo: “  I thlah lo la awm tûrte rochun atân kumkhuaa an neih tûrin i mikhualna Kanan ram pum pui hi ka pe a che ,  an Pathian ka ni zêl bawk ang , ” a ti a .
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.10532968912304837
+
+ENGLISH: One of the sons of Ahimelech ,  the son of Ahitub ,  named Abiathar ,  escaped ,  and fled after David .
+Mizo: Ahimeleka fate zînga Ahitupa fapa ,  Abiathara chu a tlân chhuak a ,  Davida hnênah a tlan ta a .
+OUTPUT: 1. Mizo: Tonei Ahimelekh, tôn Ahitub, tôn Abiathar, tôn thuam khunthlu,  tôn thuam khunthlu thuam David.
+BLEU Score: 0.011433361115787456
+Average BLEU Score: 0.09679365930420647
+
+ENGLISH: Proclaim in the palaces at Ashdod ,  and in the palaces in the land of Egypt ,  and say ,   " Assemble yourselves on the mountains of Samaria ,  and see what unrest is in her ,  and what oppression is among them .  "
+Mizo: “  Asdod khaw lal inahte puang ula ,  Aigupta lal inahte pawh hril rawh u ,  Samari tlângah pung khâwm ula ,  Chuta an buai nuai nuaizia leh An intihduhdah nasatzia chu en teh u !
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.08872752102885594
+
+ENGLISH: "10 In some cases, single Christians have come to the conclusion that an uneven yoking would be better than the loneliness they currently feel."
+Mizo: "10 A châng chuan, nupui pasal nei lo Kristiante chuan mal ngawih ngawiha awm ai chuan rual lo taka nghâwngkawl bah dun mai pawh ṭha zâwk tûrah an ngai a ."
+OUTPUT: "Tlâng ang chu in 10,  senghra chu in ia tluah thawh chu in ia tluah chu in ia tluah chu in ia tluah chu in ia tluah chu in ia tluah chu in ia tluah chu in ia tluah chu in ia tluah chu in ia tluah chu in ia tluah chu in ia tluah chu in
+BLEU Score: 0.0040709389705793145
+Average BLEU Score: 0.08221547625514235
+
+ENGLISH: They killed at that time about 10,000 of the Moabites, all strong, able-bodied men; not a man escaped.
+Mizo: Chumi ṭum chuan Moab-ho 10,000 lai, mi âwmkhauh ṭhiau leh mi chak huaisen ṭha ṭhiau an that a; pakhat mah tlân chhuak an awm lo.
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.07634294223691789
+
+ENGLISH: Now therefore stand still ,  that I may plead with you before Yahweh concerning all the righteous acts of Yahweh ,  which he did to you and to your fathers .
+Mizo: Chutichuan ,  ngun takin ngaithla rawh u ,  Lalpan in pute leh in chunga dik taka thil a tih ṭhin dân Lalpa hmaah ka hrilh ang che u .
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.0712534127544567
+
+ENGLISH: "Why should we never assume that our imperfect, sinful nature prevents us from keeping our integrity?"
+Mizo: Engvângin nge kan ṭhat famkim lohna leh sual kan nihna chuan dikna min vawntîr thei lova ngaih tûr a nih loh?
+OUTPUT: "Ti chhâng chhâng thawhpial hmang chhâng, chhâng chhâng thawhpial hmang chhâng."
+BLEU Score: 0
+Average BLEU Score: 0.06680007445730315
+
+ENGLISH: " 'You shall not uncover the nakedness of a woman and her daughter .  You shall not take her son's daughter ,  or her daughter's daughter ,  to uncover her nakedness ;  they are near kinswomen :  it is wickedness .
+Mizo: “  I hmeichhe pawl tawh fanu emaw ,  tunu emaw pâwl suh ,  thil sual a ni ;  i laichîn hnai an ni .
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.06287065831275591
+
+ENGLISH: How does making ourselves available sometimes open the way to disciple making?
+Mizo: Engtin nge thu hril tûra kan chhuah ringawt pawh hian engemaw châng chuan zirtîr siamna kawng a hawn theih?
+OUTPUT: Mizo: Taininga ia ia ia thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga chu thlai a hminga ch
+BLEU Score: 0.002939806889647791
+Average BLEU Score: 0.05954116656702768
+
+ENGLISH: I have winnowed them with a fan in the gates of the land ;  I have bereaved  [ them ]  of children ,  I have destroyed my people ;  they didn't return from their ways .
+Mizo: An ram chhûng khaw tin aṭangin ka zâp darh ang a ,  Ka mite chu ka tiboral ang ,  an fate pawh ka tihlum ang ,  An nun sual an sim loh avângin .
+OUTPUT: 
+BLEU Score: 0
+Average BLEU Score: 0.056407420958236754
+
+ENGLISH: Adoni-bezek fled, but they pursued him and caught him and cut off his thumbs and his big toes.
+Mizo: Adoni-bezeka erawh chu a tlân a, an ûm a, an man a, a kutzungpuite leh kezungpuite an tansak a.
+OUTPUT: Adoni-bezek fela, ta tlâng ta thlâng ta hma, ta hmangaihnaah zung tlâng ta thlâng ta hma.
+BLEU Score: 0.010856782661590052
+Average BLEU Score: 0.05412988904340441
+
+ENGLISH: "Whatever the response from the field turns out to be, working with someone in the ministry provides a fine opportunity to “keep . . . building one another up.” —1 Thess."
+Mizo: "Thlawhhma rawngbâwlnaa mite chhân lêt dân chu eng ang pawh ni se, rawngbâwlnaa tuemaw kan thawhpuina chuan “intihsâwt tawn” theihna hun remchâng min pe a ni.—1 Thes ."
+OUTPUT: "Thinga tluangthuva tih chaktawm thlukhua chaktawm chuang thawhm, tih chaktawm chuang thawhm chaktawm, chaktawm chuang thawhm tih chaktawm chuang thawhm."
+BLEU Score: 0.013834559063444787
+Average BLEU Score: 0.052211063806263475
+
+ENGLISH: Don't you yet perceive ,  neither remember the five loaves for the five thousand ,  and how many baskets you took up  ?
+Mizo: Tûnah pawh in la hrethiam lo cheu maw ?  Mi sângnga tâna chhang panga leh a bâng in dah zât kha in la hre reng lâwm ni ?

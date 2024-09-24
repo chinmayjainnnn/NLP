@@ -1,0 +1,2588 @@
+ENGLISH: In reply, Pakistan got off to a solid start.
+HINDI: जिसके जवाब में पाक ने अच्छी शुरुआत की थी.
+OUTPUT: पाकिस्तान ने स्थापना की.
+BLEU Score: 0.02601300475114445
+Average BLEU Score: 0.02601300475114445
+
+ENGLISH: The European Union has seven principal decision-making bodies, its institutions: the European Parliament, the European Council, the Council of the European Union, the European Commission, the Court of Justice of the European Union, the European Central Bank and the European Court of Auditors.
+HINDI: यूरोपीय संघ के महत्वपूर्ण संस्थानों में यूरोपियन कमीशन, यूरोपीय संसद, यूरोपीय संघ परिषद, यूरोपीय न्यायलय एवं यूरोपियन सेंट्रल बैंक इत्यादि शामिल हैं।
+OUTPUT: एरोपेन यूनियन ने सात महत्वाकांक निर्देशक शासन के साथ अधिकार का आधार बनाया है: ईरपेल पार्लीमेंट, ईरोपेन कॉउन्सिल, कॉउन्सिल ऑफ ईरोपेन यूनियन, ईरोपेन कमीशन, कोर्ट ऑफ जस्टिसी ऑफ ईरोपेन यूनियन, ईरोपेन
+BLEU Score: 0.01332691735545882
+Average BLEU Score: 0.019669961053301634
+
+ENGLISH: The Congress leader represents Sivaganga Lok Sabha segment from Tamil Nadu.
+HINDI: कांग्रेस नेता तमिलनाडु से शिवगंगा लोकसभा क्षेत्र का प्रतिनिधित्व करते हैं.
+OUTPUT: कांग्रेस नेता सिवागंगा लोक सभा सेгमेंट के लिए तमिलनाडु से खड़ा है।
+BLEU Score: 0.05094110796339642
+Average BLEU Score: 0.030093676689999894
+
+ENGLISH: Prompt the user about connection attempts
+HINDI: संबंधन प्रयास के बारे में उपयोक्ता को प्रांप्ट करें
+OUTPUT: जunction उपलब्धि की सुझाव दें
+BLEU Score: 0
+Average BLEU Score: 0.02257025751749992
+
+ENGLISH: Further, the Minister announced that Deposit Insurance and Credit Guarantee Corporation (DICGC) has been permitted to increase Deposit Insurance coverage to Rs.
+HINDI: वित्त मंत्री ने घोषणा कि जमा बीमा और ऋण गारंटी निगम (डीआईसीजीसी) को जमा राशि बीमा का दायरा, जो इस समय 1 लाख रुपये है उसे बढ़ाकर प्रति जमाकर्ता 5 लाख रुपये करने की अनुमति प्रदान कर दी गई है।
+OUTPUT: देखा है, मंत्री ने कहा कि डेपोजिट इंसरेंसी और कредит गारंतनी कॉर्पोरेशन (DICGC) को उठाना है डेपोजिट इंसरेंसी कोरोखा के साथ और क्रेडिट गारंतनी क्रमांक को बढावा देना.
+BLEU Score: 0.015153804040598334
+Average BLEU Score: 0.021086966822119604
+
+ENGLISH: Therefore, brothers, be more diligent to make your calling and election sure. For if you do these things, you will never stumble.
+HINDI: इस कारण हे भाइयों, अपने बुलाए जाने, और चुन लिये जाने को सिद्ध करने का भली भांति यत्न करते जाओ, क्योंकि यदि ऐसा करोगे, तो कभी भी ठोकर न खाओगे।
+OUTPUT: ध्येय से अधिक संचार करें अपने नियुक्ति और चुनाव के लिए. इसके लिए करें अपने नियुक्ति और चुनाव को सुरक्षित रखें, तो आपके पास कभी समाप्त नहीं होगा.
+BLEU Score: 0.015240512444593133
+Average BLEU Score: 0.020112557759198527
+
+ENGLISH: The review committee meeting chaired by the District Judges will be attended by Collectors, SPs, Superintendents of jails and Secretary of District Legal Services Authority.
+HINDI: समिति में जिला एवं सत्र न्यायाधीश, कलेक्टर, पुलिस अधीक्षक व जिला विधिक सेवा प्राधिकरण के सचिव शामिल रहते हैं।
+OUTPUT: चाر्ट की मीटिंग पर द्वारा जिला न्यायालय के चार्ट की मीटिंग की जाएगी, जिसमें जिला न्यायालय के चार्ट, सप्ताहांक न्यायालय के चार्ट, सुप्रींटेंडेंस ऑफ जेल्स और जिला न्यायालय के चार्ट के सदस्य की जाएगी.
+BLEU Score: 0.00728875805926182
+Average BLEU Score: 0.018280586373493283
+
+ENGLISH: Police is present on the spot.
+HINDI: पुलिस मौके पर मौजूद है।
+OUTPUT: पolis अंतर्गत में हैं.
+BLEU Score: 0
+Average BLEU Score: 0.015995513076806623
+
+ENGLISH: Prime Minister Narendra Modi is slated to campaign for BJP in second phase of Assembly elections in Udhampur and Poonch district of Jammu and Kashmir tomorrow
+HINDI: जम्मू एवं कश्मीर विधानसभा के लिए दूसरे चरण के तहत होने वाले मतदान के लिए प्रधानमंत्री नरेंद्र मोदी भारतीय जनता पार्टी (भाजपा) के पक्ष में शुक्रवार को यहां रैलियां करेंगे।
+OUTPUT: प्रधानमंत्री नरेन्द्र मोदी के द्वारा बीजप्पी के साथ जमmu और कश्मीर के दलील में संयुक्त चुनाव के दूसरे भाग में उधमपुर और पूनच जिले में काम करने का प्लान है
+BLEU Score: 0.010118063481312316
+Average BLEU Score: 0.0153424631217517
+
+ENGLISH: It has a battery backup of 3050mAh.
+HINDI: और 3050एमएएच की दमदार बैटरी से लैस है।
+OUTPUT: यहां एक बैटरी बाँक के साथ 3050mAh हैं.
+BLEU Score: 0.023980296761827107
+Average BLEU Score: 0.01620624648575924
+
+ENGLISH: "Similarly, Babu Raghuvansh Prasad Singh ji also worked for poor,"" he said in his address."
+HINDI: "उन्होंने कहा, ""बाबू रघुवंश प्रसाद जी ने भी गरीबों के लिए काम किया।"
+OUTPUT: बाबू रघुवंश प्रसाद सिंह जी भी दुनिया के शाम में अपने सामने से ग़रीब के लिए काम करते थे,"" उसने संधि में कहा।
+BLEU Score: 0.07037324209679535
+Average BLEU Score: 0.02113051881403525
+
+ENGLISH: All 176 passengers died in the incident.
+HINDI: इस विमान हादसे में सभी 176 यात्रियों की मौत हो गई थी.
+OUTPUT: सभी 176 उम्मेदवार मृत्यु में इस संबंध में मृत गए.
+BLEU Score: 0.04179252131328987
+Average BLEU Score: 0.0228523523556398
+
+ENGLISH: I will ask the same question again.
+HINDI: "राहुल ने कहा, ""मैं वही सवाल फिर से पूछता हूं।"
+OUTPUT: मैं एक समीला के साथ एक समाया पूछ सकता हूँ.
+BLEU Score: 0.01310368481704471
+Average BLEU Score: 0.02210245485267095
+
+ENGLISH: Micah also described how true worship would unite former enemies.
+HINDI: मीका ने यह बताया कि सच्ची उपासना कैसे उन लोगों को भी एक कर देगी जो पहले एक - दूसरे के दुश्‍मन थे ।
+OUTPUT: मिका भी एक नए संस्कृति वाले परिचय किया था, जहां पहले संघां के सामने समाज का नया अंदाज मौजूद होगा.
+BLEU Score: 0.019949282861652862
+Average BLEU Score: 0.021948656853312515
+
+ENGLISH: Not invited
+HINDI: आमंत्रित नहीं किया
+OUTPUT: नहीं आया (Nahin Aaya)
+BLEU Score: 0.040824829046386304
+Average BLEU Score: 0.023207068332850765
+
+ENGLISH: These persons of the great crowd conform to divine judgments, beating their swords into plowshares and thus living at peace with their fellow witnesses of Jehovah.
+HINDI: “ बड़ी भीड़ ” के ये लोग, अपनी तलवारों को पीटकर हल के फाल बनाते हुए, और इस तरह अपने संगी यहोवा के गवाहों के साथ शांति से जीकर ईश्‍वरीय न्याय के अनुरूप होते हैं ।
+OUTPUT: ये लोग बड़ा सम्मान के साथ भगवान के निर्णयां की जाने के साथ उनके साथ संघ के साथ शांति में रहते हैं
+BLEU Score: 0.030261051572977482
+Average BLEU Score: 0.023647942285358686
+
+ENGLISH: Sunny Leone plays a paranormal expert in the series.
+HINDI: सनी लियोन श्रृंखला में एक विशेषज्ञ की भूमिका निभाती हैं।
+OUTPUT: सनी लियाना ने परनormal कला की श्रेणी में खेला.
+BLEU Score: 0.02777619034011792
+Average BLEU Score: 0.023890780406226875
+
+ENGLISH: Then after it becomes dry, rinse off with water.
+HINDI: इसके बाद जब य सुख जाए तो इसे साफ पानी से धो लें।
+OUTPUT: फिर बाद में उसे सुराह दें और पानी पीते हैं.
+BLEU Score: 0.018690183721524995
+Average BLEU Score: 0.023601858368187883
+
+ENGLISH: She is also the national spokesperson of BJP.
+HINDI: भाटिया भारतीय जनता पार्टी के प्रवक्ता भी हैं।
+OUTPUT: एक ऐसा व्यक्ति है जो भारतीय जनता पार्टी (BJP) के राष्ट्रीय वक्ता हैं.
+BLEU Score: 0.06541868941754436
+Average BLEU Score: 0.025802744212890853
+
+ENGLISH: By this only, we can build our country and make it great again.
+HINDI: इसके जरिये ही हम देश का निर्माण करेंगे और उसे महान बना पायेंगे।
+OUTPUT: इसे साथ ही हमारा देश बनाएं और एक ऐसा देश बनाएं, जहां हमारे देश का नाम अगागे हो.
+BLEU Score: 0.024218026052883736
+Average BLEU Score: 0.025723508304890497
+
+ENGLISH: Coconut oil and lemon juice pack:
+HINDI: नारियल तेल और नींबू का रस:
+OUTPUT: कोकनट ऑयल और लेमन जुके पाक:
+BLEU Score: 0.039281465090051315
+Average BLEU Score: 0.026369125294660057
+
+ENGLISH: Fortis Healthcares MD and CEO Dr Ashutosh Raghuvanshi, senior Vice President (Corporate Affairs and CSR) Manu Kapila, SRLs CEO Anand Kumar presented the cheque to Indian Council of Medical Research (ICMR) Director General Prof (DR) Balram Bhargav and senior financial advisor Rajiv Roy
+HINDI: फोर्टिस हेल्थकेयर के एमडी और सीईओ डॉ. आशुतोष रघुवंशी, वरिष्ठ वाइस प्रेसिडेंट (कोरपोरेट मामले एवं सीएसआर) मनु कपिला, एसआरएल के सीईओ आनंद कुमार ने चैक भारतीय चिकित्सा अनुसंधान परिषद (आईसीएमआर) के महानिदेशक प्रोफेसर (डॉ.) बलराम भार्गव और वरिष्ठ वित्त सलाहकार राजीव रॉय को सौंपा
+OUTPUT: फॉर्टिस हेल्थकार्स के मेड एंड सीईए डॉक्टर डॉ. अशुतosh राघुवांशी, सेनियर वीपेन्ट कोर्पेट अफेयर्स और CSR के संपादक मानु कपिला, SRLs के चेफ़ा अनंद कुमार ने ICMR के डाइरेक्टर गेंडर प्रोफेस्स (डR
+BLEU Score: 0.01362503208749583
+Average BLEU Score: 0.02578984833069805
+
+ENGLISH: About 55 lakh tonnes of foodgrains are required monthly under the National Food Security Act (NFSA) and other welfare schemes.
+HINDI: मंत्रालय ने बताया कि राष्ट्रीय खाद्य सुरक्षा कानून (एनएफएसए) की योजना व अन्य कल्याणकारी योजनाओं के तहत हर महीने करीब 55 लाख टन अनाज की आवश्यकता होती है।
+OUTPUT: एक महीने में 55 लाख तन से नागरिक फ़ोड़ां की ज़रूरत है |
+BLEU Score: 0.010567253445701707
+Average BLEU Score: 0.02512799637917647
+
+ENGLISH: All our life as well as all our essential being is transformed into the possession of Sachchidananda.
+HINDI: हमारा समस्त जीवन तथा हमारी समस्त मूल सत्ता सच्चिदानन्द की प्राप्ति-रूप हो जाती है।
+OUTPUT: सच्चिदानन्दा सभ्य से संवेदना समझ लिखा हैं, जीवन के समावेश और आवश्यक संसार का प्राप्त हैं.
+BLEU Score: 0.010802314890908065
+Average BLEU Score: 0.024531092983831954
+
+ENGLISH: The whole world is coming here.
+HINDI: पूरी दुनिया यहां आ रही है।
+OUTPUT: पूरा संसार यहां आया है।
+BLEU Score: 0.05231223689135342
+Average BLEU Score: 0.025642338740132817
+
+ENGLISH: The party has fielded Gananan Balachandra Mangasuli from Athani, Bharamgouda Alagouda Kage from Kagwad, and Lakhan Jarkiholi from Gokak Assembly constituencies.
+HINDI: पार्टी ने अथानी से गजानन बालचंद्र मंगसूली, कागवाड़ से भरमगौड़ा अलागौड़ा केज और गोकक विधानसभा क्षेत्रों से लखन जारकीहोली को मैदान में उतारा है।
+OUTPUT: पार्टी ने फील्ड किए गए Gananan Balachandra Mangasuli से अथानी, Bharamgouda Alagouda Kage से कागवद, और Lakhan Jarkiholi से गोकक विधान संसद के लिए निलंबे किए.
+BLEU Score: 0.019933673568014454
+Average BLEU Score: 0.025422774695051338
+
+ENGLISH: The minimum temperature was at 2 degrees Celsius.
+HINDI: भीलवाड़ा में न्यूनतम तापमान 2 डिग्री सेल्सियस दर्ज किया गया।
+OUTPUT: 2 度 Celsius पर सबसे कम ताम्र था.
+BLEU Score: 0.02145851237135921
+Average BLEU Score: 0.025275950164544224
+
+ENGLISH: Small scale industries have large employment potential with small investment.
+HINDI: लघु-उद्योगों में कम पूंजी नियोजन पर ही रोजगार क्षमता अधिक होती है।
+OUTPUT: कlein scale industries काम करने का सम्मान है, उन्हें कम खर्च करके अधिक नौका समझ से नौका प्राप्त कर सकते हैं.
+BLEU Score: 0.009849349468888718
+Average BLEU Score: 0.024725000139699384
+
+ENGLISH: At Rajiv Gandhi Super Specialty Hospital, the death rate was 6% in early June and 7% in early July.
+HINDI: दिल्ली सरकार द्वारा संचालित राजीव गांधी सुपर स्पेशिलिटी अस्पताल में मृत्यु दर जून के शुरू में छह फीसदी थी और जुलाई के प्रारंभ में सात फीसदी हुई।
+OUTPUT: इसे हिंदी में अनुवाद करें:
+BLEU Score: 0.0012328030158643326
+Average BLEU Score: 0.023914924376808522
+
+ENGLISH: Biotechnology, along with rapid advances in engineering and informatics, is radically changing some of the fundamental concepts regarding living organisms.
+HINDI: इंजीनियरी और सूचना विज्ञान में तीव्र परिवर्तन हो रहे हैं।
+OUTPUT: बायोटेक्नोलॉजी एक नए प्रकार के साथ जीवित ओरंगनिज की संस्थानीय समझ की परिवर्तन हैं।
+BLEU Score: 0.0169861974906263
+Average BLEU Score: 0.023683966813935784
+
+ENGLISH: Congress has won most of these seats.
+HINDI: इन जगहों की अधिकांश सीटों पर कांग्रेस ने जीत हासिल की।
+OUTPUT: कांग्रेस ने इसे से अधिक सीटें जीत लीं.
+BLEU Score: 0.044939163285563015
+Average BLEU Score: 0.024369618313020532
+
+ENGLISH: New Delhi, 14th May, 2010
+HINDI: नई दिल्ली, 14 मई, 2010
+OUTPUT: नई दिल्ली, 14th माय, 2010
+BLEU Score: 0.20556680845025987
+Average BLEU Score: 0.03003203050480926
+
+ENGLISH: Several agreements are expected to be signed after the talks.
+HINDI: इसके बाद कुछ समझौतों पर हस्ताक्षर किए जा सकते हैं।
+OUTPUT: कई संबंध अनुभव करेंगे और चर्चा के समाप्ति के बाद.
+BLEU Score: 0.018850319022747353
+Average BLEU Score: 0.029693190762928597
+
+ENGLISH: Algeria military plane crash
+HINDI: अल्जीरिया में एक सैन्य विमान दुर्घटनाग्रस्त
+OUTPUT: अलजेरिया मिलिटरी पलne महान उत्तर
+BLEU Score: 0
+Average BLEU Score: 0.028819861622842464
+
+ENGLISH: The Union Cabinet chaired by Prime Minister Shri Narendra Modi has been apprised of two Bilateral Memorandums of Understanding signed between India and Cuba, and India and Korea in the area of Biotechnology
+HINDI: प्रधानमंत्री श्री नरेन्‍द्र मोदी की अध्‍यक्षता में केंद्रीय मंत्रिमंडल को जैव-प्रौद्योगिकी के क्षेत्र में भारत और क्यूबा तथा भारत और कोरिया के बीच हुए दो द्विपक्षीय समझौता ज्ञापनों (एमओयू) से अवगत कराया गया
+OUTPUT: संघ कानपार चेयर्ड द्वारा प्रधानमंत्री श्री नरेन्द्र मोदी ने जाने की दो भारत-के मुताबिक समझौताओं से सम्बन्धित बीओटेक्नोलॉजी के लिए इंडिया और क्योबा में कृषि का विषय पर संघ कानपार चेयर्ड द्वारा प्रधानमंत्री श्री नर
+BLEU Score: 0.01635904350868638
+Average BLEU Score: 0.02846383824815229
+
+ENGLISH: up and down
+HINDI: ऊपर-नीचे
+OUTPUT: ऊपर-नीचे
+BLEU Score: 0.1778279410038923
+Average BLEU Score: 0.0326128411024784
+
+ENGLISH: Hanan, a college student from Kochi, said the money was donated by various people after her struggle to fund her studies and take care of her family was widely shared on the social media.
+HINDI: कोच्ची की रहने वाली छात्रा हनान ने कहा कि यह पैसा उसके पढ़ाई के लिए किए जा रहे संघर्ष के सोशल मीडिया पर शेयर किए जाने के बाद लोगों ने उसकी और उसके परिवार की मदद के लिए दिया गया था। हनान ने कहा यह पैसा मुझे लोगों से मिला था और जरुरतमंदों की मदद के लिए इसे वापस देकर मैं बहुत खुश हूं।
+OUTPUT: हनन संजीव कोची के संविधान स्तर पर काम करते हैं, जहां वह सामान्य मीडिया पर अपने शिकshा संचालना और परिवार की खर्च की जाने की खबर पर व्यापार करते हैं.
+BLEU Score: 0.00786168996992071
+Average BLEU Score: 0.03194389107186873
+
+ENGLISH: Then they came to meet me.
+HINDI: तो वो मिलने आईं।
+OUTPUT: तभी आये और मैं समझ गaye.
+BLEU Score: 0
+Average BLEU Score: 0.03110326235945113
+
+ENGLISH: Probably a lot of you know the story of the two salesmen who went down to Africa in the 1900s.
+HINDI: शायद आपमें से कई लोग दो विक्रेताओं (सेल्समेन) की कहानी जानते हैं जो १९०० सदी में अफ्रीका गए.
+OUTPUT: समझ आया है कि एक दिन एक दोस्त से मिले और उन्हें बताया गया था कि वह एक दुनिया में से एक सम्मान के साथ चल रहे थे.
+BLEU Score: 0.008517399705356638
+Average BLEU Score: 0.030524137676012815
+
+ENGLISH: In regard to the Census 2021, the activities required to be undertaken in 2018 were discussed.
+HINDI: जनगणना 2021 के संबंध में 2018 में किए जाने वाले आवश्यक कार्यों पर भी चर्चा की गई।
+OUTPUT: 2018 में  Census 2021 के लिए जारी से काम करना चाहिए.
+BLEU Score: 0.03358244811689829
+Average BLEU Score: 0.03060059543703495
+
+ENGLISH: They therefore denied it, so they will soon come to know.
+HINDI: (मगर जब किताब आयी) तो उन लोगों ने उससे इन्कार किया ख़ैर अनक़रीब (उसका नतीजा) उन्हें मालूम हो जाएगा
+OUTPUT: वे और निलाया, तो वे क्रम में जाएंगे.
+BLEU Score: 0.005751876324997854
+Average BLEU Score: 0.02999452911722917
+
+ENGLISH: Hamad Shahwan Aldhaheri, Executive Director of the Private Equities Department at ADIA, said, Reliance Retail has rapidly established itself as one of the leading retail businesses in India and, by leveraging both its physical and digital supply chains, is strongly positioned for further growth.
+HINDI: एडीआईए के कार्यकारी निदेशक हमाद शाहवान अल्दहाहेरी ने कहा,” आरआरवीएल भारत के खुदरा बाजार में तेजी के साथ मजबूती से उभरा है और भौतिक और डिजिटल आपूर्ति श्रंखला में मजबूत पहचान बनाई है।
+OUTPUT: हमाद शाहवान एलधहेरी, PRIVATE EQUITIES  department के अध्यक्ष, ADIA से कहा था, भारत में सबसे प्राचीन रेल बिज़नेस की स्थापना कर चुका है Reliance Retail और, सामान्य और संचित सpply चेन के साथ, अपने साथ अधिक संख्या के लिए सुधार कर रहा है.
+BLEU Score: 0.015318500535118459
+Average BLEU Score: 0.029645099865274152
+
+ENGLISH: I wont comment on it.
+HINDI: मैं उस पर टिप्पणी नहीं करूंगा।
+OUTPUT: मैं इसे टिप्पणी नहीं करूँगा.
+BLEU Score: 0.09554427922043669
+Average BLEU Score: 0.03117763892004537
+
+ENGLISH: Tejashwi slams Nitish government
+HINDI: तेजस्वी का नीतीश सरकार पर बड़ा आरोप
+OUTPUT: तेजाश्वी नितिश सरकार के खास समाज में उलझन देखा
+BLEU Score: 0.023980296761827107
+Average BLEU Score: 0.031014062961904044
+
+ENGLISH: Police has also started investigation into the matter.
+HINDI: साथ ही पुलिस (Police) ने यह भी बताया कि मामले की जांच शुरू कर दी गई है.
+OUTPUT: पुलिस भी मामला की जांच शुरू कर दी है.
+BLEU Score: 0.1769859637293783
+Average BLEU Score: 0.03425788297895903
+
+ENGLISH: Was he not a terrorist?
+HINDI: क्या वो आतंकी नहीं था।
+OUTPUT: वह नहीं इस्लामिक हीन था
+BLEU Score: 0.05372849659117709
+Average BLEU Score: 0.03468115718792029
+
+ENGLISH: Zenan, and Hadashah, and Migdal-gad,
+HINDI: फिर सनान, हदाशा, मिगदलगाद,
+OUTPUT: ज़ेनन, और हदाशा, और मिग्दल-गद.
+BLEU Score: 0.06500593260343691
+Average BLEU Score: 0.03532636517548447
+
+ENGLISH: This increases borrowing.
+HINDI: इससे उधारी बढ़ती जाती है।
+OUTPUT: इसे लोन करना उतार देता है.
+BLEU Score: 0
+Average BLEU Score: 0.034590399234328544
+
+ENGLISH: The hand tried the knob again.
+HINDI: हैंडिल पर वह हाथ एक बार फिर घूमा।
+OUTPUT: हाथ एक बार और नाकाब क्रमांक प्रवेश करा.
+BLEU Score: 0.11868405219520975
+Average BLEU Score: 0.036306596233530206
+
+ENGLISH: Sleep is very important in order to be healthy.
+HINDI: सेहतमंद रहने के लिए सुबह का नाश्ता बहुत जरूरी होता है।
+OUTPUT: स्leep है और स्वास्थ्य के लिए very important है.
+BLEU Score: 0.04038503063059995
+Average BLEU Score: 0.036388164921471594
+
+ENGLISH: Friends, when we talk about Planet, you are also observing that today ISA, i.e. International Solar Alliance is becoming a big global movement.
+HINDI: दोस्तों, जब हम पृथ्वी के बारे में बात करते हैं, तो आप यह भी देख रहे होंगे कि आज आईएसए, अर्थात अंतर्राष्ट्रीय सौर गठबंधन एक बड़ा वैश्विक आंदोलन बन रहा है।
+OUTPUT: दोस्तों, जब तक बात करते हैं पलेंट, तुम्से भी देखते हैं कि आज ISA की बेस्ट ग्लोबल मुवमेंट बन रही है।
+BLEU Score: 0.05373277909396075
+Average BLEU Score: 0.03672825539544197
+
+ENGLISH: Bollywood Celebrities like Salman Khan, Shilpa Shetty Kundra, R Madhavan and others were present at the event.
+HINDI: इसके अलावा सलमान खान, सलीम खान, हेमा मालिनी, धर्मेंद्र, शत्रुघ्न सिन्हा आदि बॉलीवुड सितारे इस समारोह में पहुंचे।
+OUTPUT: बॉलीवुड सेलेब्रिटीज़ जैसे सलमान खान, शिल्पा शेटी कुंद्रा, R मधवन और अथlete और अन्य संख्या से इतने ही थे इतने ही थे इतने ही थे इतने ही थे.
+BLEU Score: 0.03392268780792677
+Average BLEU Score: 0.036674302172605144
+
+ENGLISH: That was nice of him, Cahill said.
+HINDI: काहिल ने कहा, यह शानदार था।
+OUTPUT: उसका अपना कर्म ठीक था, Cahill ने कहा.
+BLEU Score: 0.04939382737115371
+Average BLEU Score: 0.03691429321408719
+
+ENGLISH: "Speaking to IANS, Vijendra Singh, Karni Sena spokesperson, said: ""Rajputs can never even think of attacking a school bus."
+HINDI: करणी सेना के प्रवक्ता विजेंद्र सिंह ने कहा, “राजपूत कभी भी स्कूल बस पर हमला करने के बारे में सोच भी नहीं सकते।
+OUTPUT: राजपूत समझ में स्कूल बस पर हमारे सिर में ही नहीं कर सकते हैं.
+BLEU Score: 0.03994198862354488
+Average BLEU Score: 0.036970361647595665
+
+ENGLISH: Police reached the spot and took up investigation.
+HINDI: मौके पर पहुंची पुलिस ने तफ्तीश की।
+OUTPUT: पुलिस ने स्थल पर आने का निर्देश दिया और अंक की एक जांच की.
+BLEU Score: 0.030934588294313718
+Average BLEU Score: 0.03686062031389963
+
+ENGLISH: "No child of God should ever suffer such horror,"" Trump said."
+HINDI: राष्ट्र पति ट्रंप ने कहा कि ईश्वर के किसी भी संतान का अंजाम इतना खौफनाक नहीं होना चाहिए।
+OUTPUT: ना चिल्ड ऑफ गोद को ऐसे हॉरर से सुFFER नहीं शुल्क समझाया गया था, Trump ने कहा।
+BLEU Score: 0.01284618972676772
+Average BLEU Score: 0.036431791196272274
+
+ENGLISH: I have several choices to pick from.
+HINDI: मेरे पास कई विकल्‍प हैं।
+OUTPUT: मैं कई चुनाव कर सकता हूँ.
+BLEU Score: 0.033031643180138064
+Average BLEU Score: 0.03637213947669097
+
+ENGLISH: But all was not over.
+HINDI: लेकिन पूरी तरह से खत्म नहीं हुई.
+OUTPUT: लगा था नहीं समाप्त हो गया.
+BLEU Score: 0.034052233956373766
+Average BLEU Score: 0.03633214110565102
+
+ENGLISH: What is JCPOA?
+HINDI: क्या है जेसीपीओए?
+OUTPUT: जे.पी.ओ.आ (JPOA) stands for Joint Comprehensive Plan of Action. It is an international agreement between Iran and the P5+1 countries (China, France, Germany, Russia, the United Kingdom, and the United States) that aims to limit Iran's nuclear program in exchange for relief from economic sanctions.
+BLEU Score: 0
+Average BLEU Score: 0.03571634210386032
+
+ENGLISH: One way is to obey the direction provided by the faithful and discreet slave class, which consists of Jesus spirit - anointed brothers still alive on earth.
+HINDI: एक तरीका है, विश्‍वासयोग्य और सूझ - बूझ से काम लेनेवाला दास वर्ग हमें जो निर्देशन देता है, उसे मानना ।
+OUTPUT: एक तरीका है कि प्रेरणा के साथ नियमित है, जिसका संस्कृतिक चरवाह कlas है, जिसमें उत्साहित और निर्वाण करें हैं और उनके साथ नियम करें हैं.
+BLEU Score: 0.047077806821680744
+Average BLEU Score: 0.035905699849157334
+
+ENGLISH: Anushka Sharma and Virat Kohli celebrated their first Diwali together post their wedding.
+HINDI: टीम इंडिया के कप्तान विराट कोहली और उनकी पत्नी व बॉलीवुड स्टार अनुष्का शर्मा ने शादी के बाद अपनी पहली दिवाली खास अंदाज में मनाई।
+OUTPUT: अनुष्का शर्मा और विरात कोहली ने उनके विवाह के बाद पहले दिवाली के साथ मनाया.
+BLEU Score: 0.025671829680885088
+Average BLEU Score: 0.03573793148574303
+
+ENGLISH: That year, a party of Kolkar nearly caught Raja but he escaped thanks to timely warning of a Kurumba guard.
+HINDI: उस साल, कोलकर के एक दल ने राजा को लगभग पकड़ ही लिया था, लेकिन एक कुरुम्बा गार्ड के समय पर चेतावनी देने से वे बच गये।
+OUTPUT: कभी के साल थे, कोलकार की पार्टी ने Raja को सुभाषित करने का अनुभव किया, लेकिन उनके लिए सुझावपूर्ण तकनीकी कर्मचारी के साथ उन्हें उतारना सुCCESSFUL हुआ।
+BLEU Score: 0.01935526899434156
+Average BLEU Score: 0.03547369499394623
+
+ENGLISH: Due to this, he got injuries.
+HINDI: इस कारण चोटें लगी थीं।
+OUTPUT: क्या हुआ उसे चोट पहुँची।
+BLEU Score: 0
+Average BLEU Score: 0.0349106204702328
+
+ENGLISH: The fate of 15 candidates would be decided tomorrow.
+HINDI: मुख्यमंत्री प्रेम सिंह तमांग सहित 15 उम्मीदवारों के भाग्य का फैसला कल होगा।
+OUTPUT: 15 कandidates का जन्म क्या होगा कल.
+BLEU Score: 0.019566761078768414
+Average BLEU Score: 0.034670872667241164
+
+ENGLISH: Mumbai, June 5(ANI): It's official
+HINDI: मुंबई, 19 जून (आईएएनएस)।
+OUTPUT: मुंबई, ५ जून (आंशु न्यूज़ इंडिया): सचमुच कराया है
+BLEU Score: 0.04913270548144422
+Average BLEU Score: 0.03489336240284428
+
+ENGLISH: Add onions, green chillies, coriander, ginger and garlic.
+HINDI: हींग, राई, कढ़ी पत्ता, अदरक प्यूरी व हरी मिर्च डालें।
+OUTPUT: ऑड ऑनियन्स, घरेला चिली, कोरियंदर, झर्झर, घर्मेलिया.
+BLEU Score: 0.02062457446156057
+Average BLEU Score: 0.03467716864615817
+
+ENGLISH: Odisha Chief Minister Naveen Patnaik held discussion with ArcelorMittal Group Chairman Lakshmi Mittal on investment in the state via video conferencing.
+HINDI: ओडिशा के मुख्यमंत्री नवीन पटनायक ने आर्सेलरमित्तल समूह के चेयरमैन लक्ष्मी मित्तल से राज्य में निवेश पर वीडियो कॉन्फ्रें सिंग के जरिए चर्चा की।
+OUTPUT: ओडिशा चief Minister Naveen Patnaik ने विडियो कон्फ्रेंसिंग से ArcelorMittal Group के चाIR Lakshmi Mittal से स्थान के लिए वितरण की वाली बातचीत की.
+BLEU Score: 0.011328360454400999
+Average BLEU Score: 0.03432867897165433
+
+ENGLISH: During Ghamand Chand 's time the famous Kangra fort had remained in the hands of the Muslim governor, Nawab Saif Ali Khan, who frequently alternated his allegiance between Delhi and Kabul as dictated by circumstances.
+HINDI: घमंडचंद के समय में कांगड़ा का प्रसिद्ध किला मुस्लिम सूबेदार नवाब सैफ हिमाचल प्रदेश अली खान के हाथों में रहा जो अक्सर परिस्थितियों के अनुसार दिल्ली और काबुल के प्रति बारी बारी अपनी निष्ठा जताता रहता था।
+OUTPUT: उद्गम चंद के समय में समझ के लिए कांग्रा किला का सम्मान हार्दिक करने वाले मुसलमान नौबा सफ़ी अली खान थे, जिन्हें उत्तर से काबुल तक और दिल्ली तक अपना झलक देखने की क्षमता थी।
+BLEU Score: 0.038016654758067044
+Average BLEU Score: 0.03438291390968981
+
+ENGLISH: "Edulji was against the formation of the panel and wanted Johri to be sacked on the basis of the allegations while Rai felt that ""principles of natural justice"" demanded an investigation before any action."
+HINDI: एडुल्जी समिति के गठन के खिलाफ थी और चाहती थी कि आरोपों के आधार पर जौहरी को बर्खास्त किया जाए जबकि राय का मानना था कि प्राकृतिक न्याय के सिद्धांत के अनुसार किसी कार्रवाई से पहले जांच जरूरी है.
+OUTPUT: एडुलजी ने पैनल की तरह की समीकरण का संरक्षण करना पसंद करते थे, जहिरी को अकाउंट के आधार पर घटना के बाद उसको उत्तराधिकार देना था, राय ने कहा कि "नैच्नल जस्टिस" के साथ समझ में आकांक्षा की जांच करनी चाहिए।
+BLEU Score: 0.028006570816358187
+Average BLEU Score: 0.03429050314022124
+
+ENGLISH: With a view to promote Port led development, the Sagarmala Programme was approved by the Cabinet on 25-03-2015.
+HINDI: इस निर्णय से आर्थिक इस्तेमाल के लिए बांस को काटने संबंधी अनुमति लेने की आवश्यकता नहीं होगी। इस फैसले को प्रधानमंत्री श्री नरेन्द्र मोदी की अध्यक्षता में सम्पन्न होने वाली मंत्रिमंडल की बैठक में मंजूरी दी गई।
+OUTPUT: संयुक्त अभियान के साथ पोर्ट की विकास प्रोत्साहित करने के साथ, सगरमाला प्रोग्राम् का काबिनेट 25-03-2015 को राज्य प्रांत में चुना लिया.
+BLEU Score: 0.006510688093168524
+Average BLEU Score: 0.03389364863954906
+
+ENGLISH: The complaint, filed by Heera Lal Gupta, father of Pawan Kumar Gupta, cited some recent media reports which alleged that witness charged money to appear for interviews on various news channels, advocate A P Singh said.
+HINDI: पवन कुमार गुप्ता के पिता हीरा लाल गुप्ता की शिकायत में कुछ हालिया खबरों का जिक्र किया गया, जिनमें आरोप लगाया गया कि चश्मदीद ने कई समाचार चैनलों पर इंटरव्यू के लिए पैसे लिये।
+OUTPUT: दाखिल किया गया दस्तावेजांचे माध्यम से, पवन कुमार गuptा के पिता हेरा लाल गuptा ने दर्शन किया गया है, जिसमें काँटेकर मीडिया रिपोर्ट्स का आधार बनाया गया है, जिसमें न्यूज चेंनल्स पर महामारी कराने का आरोप किया गया है.
+BLEU Score: 0.019049156651279906
+Average BLEU Score: 0.033684571287601606
+
+ENGLISH: Make exercise a part of your daily routine.
+HINDI: नियमित रूप से व्यायाम आदि को दिनचर्या का हिस्सा बनाने का।
+OUTPUT: दैनिक रूट में व्यायाम का हिसABCD करें.
+BLEU Score: 0.022702294218557836
+Average BLEU Score: 0.033532039661642664
+
+ENGLISH: The Union Home Secretary Shri Rajiv Gauba has called on the States and Union Territories to step up their preparedness by advance planning and deployment of human, physical and financial resources ahead of the monsoon season
+HINDI: केन्‍द्रीय गृह सचिव श्री राजीव गाबा ने मानसून सीजन के दस्‍तक देने से पहले अग्रिम योजना बनाने के साथ-साथ मानव, भौतिक एवं वित्‍तीय संसाधनों की तैनाती के जरिए अपनी बेहतर तैयारियां सुनिश्चित करने के लिए राज्‍यों और केन्‍द्र शासित प्रदेशों का आह्वान किया है
+OUTPUT: संघ लोक सेना के अधिकारी श्री राजीव गाुड़ा ने देखा है कि सत्रेंद्र और उपायजक संतुष्टि के साथ मonsoon सौ सौ महीने के पहले से राज्य और  union टेरिटोरी अपने तैयारी को उठावा दें
+BLEU Score: 0.012527569750499231
+Average BLEU Score: 0.03324430719710645
+
+ENGLISH: People started gathering.
+HINDI: लोगों की भीड जमा होने लगी।
+OUTPUT: लोगों ने समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज की समाज में समाज क
+BLEU Score: 0.003279163301859273
+Average BLEU Score: 0.032839372820143646
+
+ENGLISH: This, in a way, is one of the challenges of how to interpret a really good idea.
+HINDI: यह एक प्रकार की चुनौती है कि किस प्रकार एक अच्छे विचार का विवेचन करें.
+OUTPUT: इसका अनुभव करना एक चallenges है, कि एक दिखाया जा रहा है अच्छा उद्देश्य का समझ करना.
+BLEU Score: 0.015936357366603364
+Average BLEU Score: 0.03261399928076311
+
+ENGLISH: So, temperature does not know who is good and who is bad right.
+HINDI: इसलिए, तापमान यह नहीं जानता कि कौन अच्छा है और कौन है।
+OUTPUT: तम्बाकुले तम्बाकुले हमारे सामने आये हैं, जहां हमारे दिमाग़ का स्वागत करते हैं! तम्बाकुले नहीं जानते कि हमें क्या लगा है, न क्या हमें पसंद करते हैं!
+BLEU Score: 0.008531104334876973
+Average BLEU Score: 0.032297119084106714
+
+ENGLISH: Inconceivable that the Government would break into a lawyers office (early in the morning) almost unheard of, Trump tweeted.
+HINDI: ट्रंप ने ट्वीट किया, ‘यह कल्पना के परे है कि सरकार एक वकील के कार्यालय (सुबह) में पहुंच जाएगी – ऐसा शायद ही कभी सुना.
+OUTPUT: निष्कर्ष है कि सरकार का कान्त्रिक का वकील कार्यालय (EARLY मORNING) से बाहर आए, त्रुम्प ट्वीट करते हैं.
+BLEU Score: 0.04469394132307655
+Average BLEU Score: 0.032458116775521906
+
+ENGLISH: The films premise is both interesting and exciting.
+HINDI: फिल्म की कहानी काफी रोचक व दिलचस्प है।
+OUTPUT: फिल्म का प्रेम्यांसाठी  both इंटरेस्टिंग और उत्तम है।
+BLEU Score: 0.03303164318013808
+Average BLEU Score: 0.03246546967814519
+
+ENGLISH: Director: Shyam Benegal
+HINDI: पटकथा : श्याम बेनेगल
+OUTPUT: DIR: श्याम बेंगल
+BLEU Score: 0.16990442448471224
+Average BLEU Score: 0.03420520328329161
+
+ENGLISH: Obtain loans from a bank or an individual.
+HINDI: किसी बैंक या व्यक्ति से ऋण प्राप्त कर सकती है.
+OUTPUT: लोन क्या करें बан्क या अंडान से.
+BLEU Score: 0.025124218547395095
+Average BLEU Score: 0.034091690974092904
+
+ENGLISH: Prime Minister Modi said the Supreme Court verdict on Ayodhya will not be matter of victory or loss for anyone.
+HINDI: प्रधानमंत्री मोदी ने ट्वीट कर कहा, ‘अयोध्या पर सुप्रीम कोर्ट का जो भी फ़ैसला आएगा, वह किसी की हार-जीत नहीं होगा।
+OUTPUT: प्रधानमंत्री मोदी ने कहा कैसे अयोध्या का सुप्रीम कोर्ट का जवाब नहीं करेगा किसी के साथ सारा विजय या हार का मात्रा नहीं होगा.
+BLEU Score: 0.07164684238257436
+Average BLEU Score: 0.03455533481864206
+
+ENGLISH: are doing.
+HINDI: कर रहे हैं.
+OUTPUT: हमारे सामने कर रहे हैं.
+BLEU Score: 0.5081327481546147
+Average BLEU Score: 0.04033066912761733
+
+ENGLISH: The next thing happening is Mr. India sitting next to me and I am working with him.
+HINDI: अगला जो हुआ वह ये कि मिस्टर इंडिया मेरे बगल में बैठे हैं और मैं उनके साथ काम कर रही हूं।
+OUTPUT: मृत्यु के बाद मेरा अगला काम मृत्यु से अपने साथ सौभाग्य के साथ मेरा अगला काम करना है|
+BLEU Score: 0.012034130950069917
+Average BLEU Score: 0.039989746980899896
+
+ENGLISH: The rath [vehicle] will be modeled on the proposed Ram temple and is being prepared in Mumbai, said Anil Kumar Singh, Muslim Rashtriya Manch coordinator for the Awadh region.
+HINDI: मुस्लिम राष्ट्रीय मंच के अवध क्षेत्र के संयोजक अनिल कुमार सिंह बताते हैं, ‘यात्रा कि लिए इस्तेमाल होने वाला रथ बिलकुल राममंदिर के मॉडल पर बन रहा है.
+OUTPUT: रथ की संस्करण आधार पर राम मंदिर के सांख्य की गई हैं, मumbai में अनिल कुमार सिंह ने कहा था, उसके साथ मुसलमान राष्ट्रीय मंच कोordinator एक अधिकारी हैं, अधिकार के सांख्य की गई हैं.
+BLEU Score: 0.03948864231460671
+Average BLEU Score: 0.03998378144915831
+
+ENGLISH: Recently, Ronaldo equalled Josef Bican's all-time highest goal record of 759 strikes.
+HINDI: बीते दिनों रोनाल्डो ने जोसेफ बिकान के 759 गोलों के रिकॉर्ड को पीछे छोड़ दिया।
+OUTPUT: रोनाल्दो ने जोzef बिकान्स के सभ्य संख्या रिकॉर्ड से समझाया और 759 गोल उठाया.
+BLEU Score: 0.018693000799960027
+Average BLEU Score: 0.0397333016768148
+
+ENGLISH: He was later taken to a hospital and treated.
+HINDI: बाद में उसे अस्पताल ले जाया गया और इलाज किया गया।
+OUTPUT: उसे फिर अस्पताल में दर्शन किया गया और चुकाने की एक समस्या से उबराया गया.
+BLEU Score: 0.0342347495586902
+Average BLEU Score: 0.039669365024278466
+
+ENGLISH: The main occupation of the people of Mota Vadala village is agriculture, farming, animal husbandry and diamond industry.
+HINDI: खारी खीजडीया गाँव के लोगों का मुख्य व्यवसाय खेती, खेतमजूरी, पशुपालन और रत्नकला कारीगरी है।
+OUTPUT: मोता वादला गाव के लोगों का मains occupation कृपा और खेती है, जो खेती और पशुपालक कार्य करते हैं और रत्न उद्योग में भी शामला है।
+BLEU Score: 0.04269823452354303
+Average BLEU Score: 0.039704179616224036
+
+ENGLISH: They should stay away from the technology and spend more time studying.
+HINDI: उन्हें तकनीक से दूर रहना चाहिए और पढ़ाई पर ध्यान देना चाहिए.
+OUTPUT: इसे अधिक समय में पढ़ना चाहिए, तकनीक से कम समय में रहना चाहिए.
+BLEU Score: 0.04841524713034601
+Average BLEU Score: 0.039803169019793604
+
+ENGLISH: The accused will not be spared.
+HINDI: इसके दोषियों को बख्‍शा नहीं जाएगा।
+OUTPUT: आपके ख़याल से, गalus नहीं करेंगे.
+BLEU Score: 0.02777619034011792
+Average BLEU Score: 0.03966803442788714
+
+ENGLISH: The passenger booking the service will furnish the PNR to the Rail Yatri Sevak for the purpose of verification.
+HINDI: सेवा की बुकिंग करने वाला यात्री रेल यात्री सेवक को सत्‍यापन के उद्देश्‍य से अपना पीएनआर बताएगा ।
+OUTPUT: दर्শक सेवक की जांच के लिए पासेंजर नं. (PNR) उतारेगा.
+BLEU Score: 0.014126508859988748
+Average BLEU Score: 0.039384239699354937
+
+ENGLISH: People are in distress due to skyrocketing prices of diesel and petrol.
+HINDI: डीजल-पेट्रोल की बढ़ी कीमतों की वजह से लोग त्रस्त हैं।
+OUTPUT: लोगों को डीजल और पेट्रोल के से उछले मूल्यों के कारण देखा जा रहा है।
+BLEU Score: 0.013217947626377298
+Average BLEU Score: 0.03909669802822331
+
+ENGLISH: except the devoted amongst Your worshippers.
+HINDI: "सिवाय उनके जो तेरे चुने हुए बन्दे होंगे। """
+OUTPUT: अपने पर्वतांत के समझ में सदा निर्वन करते हैं ।
+BLEU Score: 0
+Average BLEU Score: 0.03867173391922089
+
+ENGLISH: The act of avoiding the liability of taxation.
+HINDI: कराधान के दायित्व से बचने की कार्रवाई।
+OUTPUT: जांच करना (Jaanch Karna)
+BLEU Score: 0
+Average BLEU Score: 0.03825590882331528
+
+ENGLISH: So thats a good thing.
+HINDI: तो यह अच्छी बात है।
+OUTPUT: ऐले एक ढेरा सुभाषित है.
+BLEU Score: 0
+Average BLEU Score: 0.03784893106987576
+
+ENGLISH: Rajeev Goyal will be appointed as CFO of AFS.
+HINDI: राजीव गोयल को एएफएस का सीएफओ नियुक्त किया जाएगा।
+OUTPUT: राजीव गोयल को AFS के फ़ोन्स का नौका पद प्राप्त करेगा.
+BLEU Score: 0.09058752341587764
+Average BLEU Score: 0.038404074147202094
+
+ENGLISH: He had sustained the shoulder injury during his short stint in the Indian Premier League (IPL).
+HINDI: उन्हें इंडियन प्रीमियर लीग के दौरान मामूली हैमस्ट्रिंग चोट लग गयी थी।
+OUTPUT: उसने इंडियन प्रीमीर लीग (IPL) में उस साथ संबंध में शुल्य उर्फा कर दिया.
+BLEU Score: 0.013679192123121896
+Average BLEU Score: 0.0381465232927846
+
+ENGLISH: Earlier on Wednesday, the Enforcement Directorate had issued a provisional attachment order for the plot in Panchkula, Haryana which was illegally allotted to the Associated Journals Limited, by Bhupinder Singh Hooda.
+HINDI: प्रवर्तन निदेशालय के मुताबिक हरियाणा के पंचकुला स्थित प्लाट को जब्त किया गया है जिसे हरियाणा के पूर्व मुख्यमंत्री भूपेंद्र सिंह हुड्डा की ओर से एसोसिएटेड जर्नल्स लिमिटेड को यह संपत्ति आवंटित की गई थी।
+OUTPUT: पिछले विjesday के साथ, एंFORस एक्सेक्शन डाइरेक्टर ने पंचकुला, हरियाणा में अवैध अनुभाग करने के लिए प्लॉट के सम्मान कराया था, जो भुपिंदर सिंह हूदा ने अलोट किया था.
+BLEU Score: 0.008648024585901885
+Average BLEU Score: 0.03784241505869302
+
+ENGLISH: India is a member of the FATF as well as the APG.
+HINDI: भारत एपीजी और एफएटीएफ दोनों का सदस्य है।
+OUTPUT: भारत भी FATF का सदस्य है और APG का.
+BLEU Score: 0.05307712171072445
+Average BLEU Score: 0.03799787124901987
+
+ENGLISH: Really, there is no reason for us to worry about anything.
+HINDI: वाकई, यहोवा पर भरोसा रखने से हमें किसी भी बात की चिंता करने की ज़रूरत नहीं । ”
+OUTPUT: क्या करें, हमारे सामने किसी का कारण परेशानी करना अभी भी नहीं चाहिये.
+BLEU Score: 0.014317499041762431
+Average BLEU Score: 0.03775867557015868
+
+ENGLISH: The Ministry said, overall 766 routes have been sanctioned so far under the UDAN scheme.
+HINDI: मंत्रालय ने कहा कि उड़े देश का आम नागरिक यानी उड़ान योजना के तहत अब तक कुल 766 मार्गों को मंजूरी दी गई है।
+OUTPUT: सरकार ने कहा था, संशोधन के साथ 766 रास्ते की सанCTION कर दी गई हैं अभियान के साथ.
+BLEU Score: 0.026095171736158027
+Average BLEU Score: 0.037642040531818674
+
+ENGLISH: but those who disbelieve in the Everlasting Life deviate from the Path.
+HINDI: किन्तु जो लोग आख़िरत पर ईमान नहीं रखते वे इस मार्ग से हटकर चलना चाहते है
+OUTPUT: लगभग उम्मेदवार जीवन से विवेक ही रास्ता से ऊपर हटाते हैं.
+BLEU Score: 0.012204811114796843
+Average BLEU Score: 0.0373901867752145
+
+ENGLISH: There is high prevalence of Anaemia and other ailments, especially among women and adolescent girls.
+HINDI: एनीमिया एवं अन्य बीमारियां विशेष रूप से महिलाओं और युवा लड़कियों में बहुत थी।
+OUTPUT: एक उत्तम प्रेvalence एक नम्बर के लिए आनेमिया एवं 其他 रोग के लिए है, खासकर महिलाओं और अधिकार उम्मेदवार की तरफ से.
+BLEU Score: 0.019900763312868126
+Average BLEU Score: 0.037218721839309146
+
+ENGLISH: The owner of the unidentified vehicle fled from the spot after the accident.
+HINDI: हादसे के बाद से अज्ञात वाहन चालक वाहन को लेकर मौके से फरार हो गया।
+OUTPUT: owner of the unidentified vehicle उसे सुरक्षा के साथ उधर गया था अपnea स्थल से निकाला गया था.
+BLEU Score: 0.012109013026441871
+Average BLEU Score: 0.036974938258601694
+
+ENGLISH: The Prime Minister, Shri Narendra Modi interacted with Karnataka Chief Minister, Shri B S Yediyurappa on the rainfall and flood situation in various parts of Karnataka.
+HINDI: प्रधानमंत्री श्री नरेन्द्र मोदी ने कर्नाटक के मुख्यमंत्री श्री बी एस येदियुरप्पा के साथ राज्य के विभिन्न हिस्सों में बारिश और बाढ़ की स्थिति पर बातचीत की।
+OUTPUT: प्रधानमंत्री, श्री नरेन्द्र मोदी कarnataka चुनाव में संबंधित विषयों का सम्बन्ध किया उत्तर कARNATAKA में विशेषज्ञों की समझ करते हुए.
+BLEU Score: 0.04073667958734362
+Average BLEU Score: 0.03701110884830114
+
+ENGLISH: Volunteers don 't get paid, not because they' re worthless, but because they 're priceless. - Sherry Anderson
+HINDI: “स्वयंसेवकों को मेहनताना नहीं दिया जाने का कारण यह नहीं कि वे मूल्यहीन होते हैं, बल्कि यह है कि वे अमूल्य होते हैं. ”-शैरी एंडरसन
+OUTPUT: नेत्राओंका नहीं पेश करते, न उनका मूल नहीं है, बUT उनका मूल अनेक है! - Sherry Anderson
+BLEU Score: 0.008683728271751297
+Average BLEU Score: 0.03674132427138162
+
+ENGLISH: Put Faith in Jehovahs Promises
+HINDI: यहोवा के वादों पर विश्‍वास कीजिए
+OUTPUT: पुत्र से आशा करें जहवाहां के उम्मेदन
+BLEU Score: 0.033031643180138064
+Average BLEU Score: 0.036706327279954785
+
+ENGLISH: Every time
+HINDI: हर बार ये …
+OUTPUT: हर समय
+BLEU Score: 0.05501080739920602
+Average BLEU Score: 0.03687739718761134
+
+ENGLISH: But before jumping into such issues, you might say, Do you mind if I ask about...
+HINDI: बोलने में सब्र ” दिखाइए ।
+OUTPUT: क्या आपको उतरना चाहता है मेरे प्रश्न के बारे में?
+BLEU Score: 0.018850319022747353
+Average BLEU Score: 0.03671047979719593
+
+ENGLISH: Auto Expo is co-organised by the Society of Indian Automobile Manufacturers (SIAM), the Confederation of Indian Industry (CII) and the Automotive Component Manufacturers Association of India (ACMA).
+HINDI: सोसायटी ऑफ इंडियन ऑटोमोबाइल मैन्‍यूफैक्‍चरर्स (सियाम) इस ऑटो एक्‍सपो का आयोजन ऑटोमोटिव कम्‍पोनेंट मैन्‍यूफैक्‍चरर्स एसोसिएशन ऑफ इंडिया (एकमा) और कन्‍फेडरेशन ऑफ इंडियन इंडस्‍ट्री (सीआईओ) के साथ मिलकर कर रही है।
+OUTPUT: ऑटो एक्सपो को-संस्थान्त संघ ऑफ इंडियन एमोटर मॉनुफायर्स (सीएम) और इंडियन इंस्टिट्यूट ऑफ इंडियन इंडस्ट्री (CII) एवं एक्सपो कंपोज्य मनifacturers एसोसिए ऑफ इंडियन एमोटर प्रोडक्ट्स (ACMA) के साथ.
+BLEU Score: 0.048034600402898434
+Average BLEU Score: 0.03681437081192715
+
+ENGLISH: He screamed.
+HINDI: ’ वह चीख़ी।
+OUTPUT: उसने क्या कहा । (Usne kya kahaa)
+BLEU Score: 0
+Average BLEU Score: 0.036479694713636907
+
+ENGLISH: The Vice President of India, Shri M Venkaiah Naidu today urged the youth to take a firm resolve to shun negativism and join the forces of growth.
+HINDI: उपराष्ट्रपति, श्री एम वेंकैया नायडू ने छात्रों से नकारात्मकता छोड़कर रचनात्‍मक दृष्टि विकसित करने का आग्रह किया है।
+OUTPUT: विमोचन प्रेसिडेंट ऑफ इंडिया, श्री म्वेनकाईय वेंकाईय नायुका आज युवाओं को एक सुनिश्चित विचार करना चाहता है कि वे उत्साह के साथ विकास की सेवा करें.
+BLEU Score: 0.014203609079723397
+Average BLEU Score: 0.03627900925747553
+
+ENGLISH: He is at present lodged in a prison in London.
+HINDI: ऐसे में उसे अभी लंदन की जेल में दिन गुजरने होंगे.
+OUTPUT: इसे लंदन में कौन सी जाने के समय में से बंद हैं.
+BLEU Score: 0.021972813874997166
+Average BLEU Score: 0.03615127537013197
+
+ENGLISH: Considering that crop segment constitutes a dominant component of the GVA computation, its performance is very critical.
+HINDI: यह ध्यान में रखते हुए कि फसल खंड जीवीए कंप्यूटेशन का एक प्रमुख घटक हैं, इसका प्रदर्शन बहुत महत्वपूर्ण है।
+OUTPUT: किसान संहita constituents a dominant component of the GVA computation, its performance is very critical.
+BLEU Score: 0.009091091175882193
+Average BLEU Score: 0.03591180471354569
+
+ENGLISH: In both conditions your doctor can prescribe you some analgesics or other medicines, or he can refer you to another specialist or surgeon.
+HINDI: इन दोनों अवस्थाओं में आराम पहुंचाने के लिये आपका डाक्टर आप को दर्द नाशक अन्य दवाईयों का नुस्खा लिख कर दे सकता है या सर्जन या अन्य विशेषग्य से आप की सहायता करने को कह सकता है.
+OUTPUT: दोनों संदर्भात् मेडिकल करें आपके लिए अनलेजिक्स या अन्य दवाएँ या उन्हें अन्य सpecialist या चुनाव दें.
+BLEU Score: 0.009897037622951592
+Average BLEU Score: 0.03568360500222469
+
+ENGLISH: However, Prasad, who is also the Information Technology Minister, said it would not be wise to restrict the social media just because of a challenge, as the social media has empowered the common man by increasing his access to information and power to ask questions.
+HINDI: सूचना प्रौद्योगिकी मंत्री प्रसाद ने हालांकि कहा कि सिर्फ एक चुनौती पेश करने के कारण सोशल मीडिया को प्रतिबंधित करना बुद्धिमानी नहीं होगी क्योंकि सोशल मीडिया आम आदमी की जानकारी बढ़ाकर और उसकी प्रश्न करने की क्षमता बढ़ाकर उसे सशक्त भी कर रहा है।
+OUTPUT: हानि करें, प्रसाद, जिसे भी संधि मंत्री है, साबित है कि समाज में सोशल मीडिया की सीमा से निपटने का विचार नहीं होगा, क्योंकि समाज में सोशल मीडिया ने समाज के साथ समाज की जानकारी और समाज के समाज की शक्ति को बढ़ाया है।
+BLEU Score: 0.018440431524622675
+Average BLEU Score: 0.035533664363289016
+
+ENGLISH: Data integrity and security are pressing issues for electronic commerce.
+HINDI: डेटा अखंडता और सुरक्षा इलेक्ट्रॉनिक कॉमर्स के लिए बहुत गर्म और अहम मुद्दे हैं।
+OUTPUT: डाटा integrity और security हैं इलेक्ट्रॉनिक कृपांत में प्रेरनायक संकेताएं.
+BLEU Score: 0.01706602014357155
+Average BLEU Score: 0.0353744605338087
+
+ENGLISH: He repeated this assertion several times.
+HINDI: ’’ यही उक्ति उन्होंने आगे चलकर कई बार दोहराई।
+OUTPUT: इस कार्य के साथ उसने कई बार कहा गया.
+BLEU Score: 0.0446323613785333
+Average BLEU Score: 0.03545358789145592
+
+ENGLISH: And they swear by Allah that they are from among you while they are not from among you. but they are a people who are afraid.
+HINDI: और (मुसलमानों) ये लोग ख़ुदा की क़सम खाएंगे फिर वह तुममें ही के हैं हालॉकि वह लोग तुममें के नहीं हैं मगर हैं ये लोग बुज़दिल हैं
+OUTPUT: उसे अलLAह के नाम पर कहते हैं कि वे समाज से हैं जब तक कि वे नहीं समाज से हैं । बल्क वे एक लोग हैं जब तक कि वे इस समाज से डर रहे हैं।
+BLEU Score: 0.008388487457231183
+Average BLEU Score: 0.035224222633538756
+
+ENGLISH: With everyones cooperation we will soon defeat Corona completely in the state, he said.
+HINDI: ’’ सोरेन ने कहा, ‘‘सभी के सहयोग से हम कोरोना को हरायेंगे।
+OUTPUT: सभी के साथ हम कोरोना से समप्राय करेंगे, उसने कहा।
+BLEU Score: 0.03960111677234158
+Average BLEU Score: 0.03526100325655391
+
+ENGLISH: She shared pictures on her Instagram stories.
+HINDI: उन्होंने अपने दोस्तों के साथ की फोटोज इंस्टाग्राम स्टोरी में शेयर की।
+OUTPUT: उसने उनके इंस्टाग्राम स्टोरीज पर चित्रे साझा करने की कलम दी.
+BLEU Score: 0.020255986027125642
+Average BLEU Score: 0.03513596144630867
+
+ENGLISH: FCRA Comes into Force W.E.F May 2011
+HINDI: मई 2011 से एफसीआरए प्रभावी
+OUTPUT: फ्स क्रा कम पर विधान 2011 के समय से लेकर सरकार के निर्णय का प्रभाव स्वरूप है
+BLEU Score: 0.013679192123121896
+Average BLEU Score: 0.034958632774216215
+
+ENGLISH: On Wednesday morning, Sonu Singh, Devendra Singh and Abhishek Singh came to the village.
+HINDI: बीते बुधवार को गांव के रहने वाले दबंग सोनू, अभिषेक और देवेन्द्र ने दलित परिवार पर ताबड़तोड़ फायरिंग कर दी थी।
+OUTPUT: वसुदाय शान्ति के समय सोनू सिंह, देवेंद्र सिंह और अभिषेक सिंह यादव उस वास्ता में आए।
+BLEU Score: 0.012817749512462208
+Average BLEU Score: 0.034777150124529706
+
+ENGLISH: The insect life at high elevations is also remarkable for the pronounced predominance of wingless and flightless forms.
+HINDI: उच्च-तुंगता पर कीट जीवन इस मायने में भी अद्भुत है कि वहां बिना पंख के और न उड़ने वाले कीटों की प्रमुखता है.
+OUTPUT: हाइ ऊँचाई के भी लिए जीव जीवित है, और उसमें विंगलेस्स और उफान संकेत के प्रचलन का प्रमाण है.
+BLEU Score: 0.02203823930718979
+Average BLEU Score: 0.03467358174390092
+
+ENGLISH: There's no doubt he's the best.
+HINDI: वह नि:संदेह सर्वश्रेष्ठ है।
+OUTPUT: उसे ना इतना सुरक्षित है. (Usse na itna surakshit hai.)
+BLEU Score: 0
+Average BLEU Score: 0.034393956084675915
+
+ENGLISH: "United Nations: Pakistan's ""mindset"" that unleashes terrorist attacks on India and Afghanistan must change, India has told the Security Council."
+HINDI: UN में भारत ने पाक को लिया आड़े हाथ, कहा- आतंकवाद पर पाकिस्तानी मानसिकता में बदलाव जरूरी Description: भारत ने सुरक्षा परिषद से कहा है कि आतंकवाद पर पाकिस्तान की मानसिकता बदलने की जरूरत है। Times Now
+OUTPUT: पाकिस्तान का सुनवाई में भारत और अफगानिस्तान पर हमला करना चाहता है, भारत ने वन सुरक्षा कौंसल से कहा है.
+BLEU Score: 0.032671237560503906
+Average BLEU Score: 0.03438017433648254
+
+ENGLISH: The monastery, framed by a green valley, is located at a distance of 10 km from Kullu and can be easily accessed by visitors
+HINDI: यह मठ कुल्‍लू से 10 किमी
+OUTPUT: मनासारा, एक सौ नदी के सामने में है, कुल्लु से 10 किलोमेतर दistaance के साथ उपलब्ध है उपायाज़ के साथ
+BLEU Score: 0.01837177448896075
+Average BLEU Score: 0.03425312354404189
+
+ENGLISH: He was speaking on the occasion of inauguration of National Conference on 'Ushering Second Green Revolution in Indian Agriculture through Public-Private Partnership' organized by the Ministry of Agriculture in collaboration with the Confederation of Indian Industry (CII) today (December 11, 2012) at Vigyan Bhawan, New Delhi.
+HINDI: वह आज (11 दिसम्बर, 2012) विज्ञान भवन, नई दिल्ली में भारतीय उद्योग परिसंघ के सहयोग से कृषि मंत्रालय द्वारा आयोजित सार्वजनिक-निजी साझीदारी के माध्यम से भारतीय कृषि में दूसरी हरित क्रांति पर राष्ट्रीय सम्मेलन के उद्घाटन के अवसर पर बोल रहे थे।
+OUTPUT: वह दिन का उत्साह के संबंध में राष्ट्रीय कン्फ्रेंस का शुभामुंग के संबंध में राष्ट्रीय कृषि मंत्रालय साथ संपर्क करते हुए 11 दिसम्बर, 2012 को विज्ञान भवन, नई दिल्ली में आया.
+BLEU Score: 0.1683910986612003
+Average BLEU Score: 0.03530932807252346
+
+ENGLISH: Later this report was also circulated widely in social media.
+HINDI: बाद में इस रिपोर्ट को सोशल मीडिया में भी व्यापक रूप से प्रसारित किया गया।
+OUTPUT: उधारण के साथ यह रपORT भी सामाजिक मीडिया में वायरल हुआ.
+BLEU Score: 0.03104578053097407
+Average BLEU Score: 0.0352760191073551
+
+ENGLISH: Many Egyptian and Roman slaves were harshly exploited.
+HINDI: मिस्र और रोम में गुलामों के साथ बहुत बुरा सलूक किया जाता था ।
+OUTPUT: एक्ट में ईजित और रोमन नौकाएं उत्पीढ़ रखा गया.
+BLEU Score: 0.016824108947695062
+Average BLEU Score: 0.035132981044101924
+
+ENGLISH: The primary treatment is epinephrine.
+HINDI: इसका प्राथमिक उपचार एपिनेफ्रीन है।
+OUTPUT: मुख्य उपचार एपिनेफ्रीन है.
+BLEU Score: 0.11362193664674995
+Average BLEU Score: 0.035736742241045366
+
+ENGLISH: Quality Time
+HINDI: क्वॉलिटी टाइम
+OUTPUT: कुल्ला समय
+BLEU Score: 0
+Average BLEU Score: 0.035463942681953416
+
+ENGLISH: The overarching goal is to develop cash - less eco system by enabling the farming community to avail all new banking facilities at par with urban area of the country.
+HINDI: इस सब के पीछे अतिमहत्वपूर्ण लक्ष्य यह है कि देश के शहरी क्षेत्रों के समान ग्रामीण कृषि समुदायों को बैंकिंग की सभी नई सुविधाओं का इस्तेमाल करने में सक्षम बनाना है ताकि एक नकदीरहित वातावरण का निर्माण किया जा सके.
+OUTPUT: कार्यालय के सामने का उचित समय प्राप्त करना है और इसे उन्हें देखने के लिए उनके साथ काम करना है.
+BLEU Score: 0.005515757588967432
+Average BLEU Score: 0.03523706249185504
+
+ENGLISH: You don 't say?
+HINDI: क्या कहा!
+OUTPUT: तुम्ने क्या कहा?
+BLEU Score: 0.16990442448471224
+Average BLEU Score: 0.03624959904819231
+
+ENGLISH: However, in each case, Jehovahs discipline is motivated by love, and its goal is to benefit the recipient.
+HINDI: इसलिए यहोवा जब सुधारने के लिए अनुशासन देता है, तो उसका मकसद सिर्फ दंड देना नहीं होता ।
+OUTPUT: हtheless, in each case, Jehovah's discipline is motivated by love, and its goal is to benefit the recipient.
+BLEU Score: 0.008282282660969604
+Average BLEU Score: 0.03604088773186975
+
+ENGLISH: Malaysia is the worlds second-largest producer of palm oil after Indonesia.
+HINDI: मलेशिया अपने पड़ोसी देश इंडोनेशिया के बाद दूसरा सबसे बड़ा पाम तेल उत्पादक है।
+OUTPUT: मालेशिया दुनिया का दूसरा प्रोड्युसर है जबकि इंधन के साथ.
+BLEU Score: 0.01706602014357155
+Average BLEU Score: 0.035900333157141626
+
+ENGLISH: Whereas, the moment you got the moment you got that high acid soluble and heat stable proteins, which are responsible for the foaming of the milk.
+HINDI: जबकि, जिस क्षण आपको वह क्षण मिला, उस उच्च अम्ल में घुलनशील और स्थिर स्थिर प्रोटीन थे, जो दूध के झाग के लिए जिम्मेदार हैं।
+OUTPUT: कहानी से जहानी पाया जब तक आई थी उसके साढ़े असाध्य रेखा और घर्म स्थिर पroteins, जिन्हें दूध का फ़ोम करना है।
+BLEU Score: 0.009424388965893711
+Average BLEU Score: 0.035705657096911855
+
+ENGLISH: WHAT would we do without sugar?
+HINDI: चीनी के बिना आप क्या करेंगे?
+OUTPUT: क्या हमारे साथ चक्कर नहीं होगा?
+BLEU Score: 0.039281465090051315
+Average BLEU Score: 0.03573175788518295
+
+ENGLISH: Every time she has to pass him, he and his friends grope her.
+HINDI: जब उसे उसके गुंडे होने की बात पता चलती है तो वो उसके साथ रिश्ता तोड़ देती है।
+OUTPUT: उसके साथ पास करना है, उनके और उनके फिल्मों में उसे घुसना चाहते हैं.
+BLEU Score: 0.02729967835246154
+Average BLEU Score: 0.03567065585958352
+
+ENGLISH: Woman dies during childbirth
+HINDI: महिला की प्रसव से पहले मौत
+OUTPUT: महिला दURING चौदह से समय मौत की है
+BLEU Score: 0.039281465090051315
+Average BLEU Score: 0.035696632904407034
+
+ENGLISH: China has opposed India's bid to get an NSG membership saying India was yet to sign the NPT.
+HINDI: चीन का तर्क है कि भारत एनएसजी में प्रवेश पाने की योग्यता नहीं रखता, क्योंकि उसने एनपीटी (परमाणु अप्रसार संधि) पर हस्ताक्षर नहीं किए हैं।
+OUTPUT: चीन ने भारत के अंतर्गत एनसीजी सदस्यता की उम्मेदावा कर दी हैं, क्योंकि भारत अभी न्यूटरल प्रौद्योगिकी सौदा का सम्झार्थ नहीं कर पाएँ.
+BLEU Score: 0.019434963546171094
+Average BLEU Score: 0.035580478123276776
+
+ENGLISH: The house is painted which means that people were living there for long.
+HINDI: घर पर पेंट किया हुआ था जिसका मतलब है कि लोग लंबे समय से वहां रह रहे थे।
+OUTPUT: घर पेश कर दिया था जो लोगों के साथ लंग समय में जीवित थे।
+BLEU Score: 0.015179921662582774
+Average BLEU Score: 0.0354357933256832
+
+ENGLISH: The meeting was also attended by six Shiv Sena ministers.
+HINDI: बैठक में शीला कैबिनेट के सभी छह मंत्री मौजूद थे.
+OUTPUT: सभ्यता भी सिद्धांत के साथ सपना सेना मंत्रिमंडल के दस मंत्री से भी समेत आयी.
+BLEU Score: 0.01618861356572822
+Average BLEU Score: 0.0353002498062469
+
+ENGLISH: I will keep on coming.
+HINDI: आगे भी मैं आता रहूंगा।
+OUTPUT: मैं आया रहूँगा.
+BLEU Score: 0.06257106818159155
+Average BLEU Score: 0.03549095482985071
+
+ENGLISH: So when you meet in battle those who disbelieve, then smite the necks until when you have overcome them, then make (them) prisoners, and afterwards either set them free as a favor or let them ransom (themselves) until the war terminates. That (shall be so). and if Allah had pleased He would certainly have exacted what is due from them, but that He may try some of you by means of others. and (as for) those who are slain in the way of Allah, He will by no means allow their deeds to perish.
+HINDI: तो जब तुम काफिरों से भिड़ो तो (उनकी) गर्दनें मारो यहाँ तक कि जब तुम उन्हें ज़ख्मों से चूर कर डालो तो उनकी मुश्कें कस लो फिर उसके बाद या तो एहसान रख (कर छोड़ दे) या मुआवेज़ा लेकर, यहाँ तक कि (दुशमन) लड़ाई के हथियार रख दे तो (याद रखो) अगर ख़ुदा चाहता तो (और तरह) उनसे बदला लेता मगर उसने चाहा कि तुम्हारी आज़माइश एक दूसरे से (लड़वा कर) करे और जो लोग ख़ुदा की राह में यहीद किये गए उनकी कारगुज़ारियों को ख़ुदा हरगिज़ अकारत न करेगा
+OUTPUT: जब तक के लिए आप नाकाम करें तो उन्हें समझ कर दें, और उनके सामने में लड़ना चाहते हैं, उनके सामने में लड़ना चाहते हैं, और उनके सामने में लड़ना
+BLEU Score: 0.0012042941150643186
+Average BLEU Score: 0.03525285301933136
+
+ENGLISH: A police investigation into the matter is currently underway.
+HINDI: ऐसे में अभी पुलिस जांच की जा रही है।
+OUTPUT: पOLICE अंतर्गत मामला की जांच कर रही है.
+BLEU Score: 0.03155984539112946
+Average BLEU Score: 0.03522738400120582
+
+ENGLISH: Thereafter, his condition began to deteriorate.
+HINDI: इसके बाद उनकी स्थिति में सुधार आने लगा था.
+OUTPUT: थाने बाद, उसका संदेह शुरू कर दिया.
+BLEU Score: 0.025518615589394285
+Average BLEU Score: 0.03516088558742629
+
+ENGLISH: Ranbir Kapoor has been a part of several movies and has worked with many leading ladies of Bollywood.
+HINDI: नरगिस बॉलीवुड की कई फिल्मों में काम कर चुकी हैंl उन्होंने रणबीर कपूर के साथ फिल्म रॉकस्टार में भी काम किया थाl
+OUTPUT: रंभीर कपूर का काम का समावेश हैं, जिसमें उन्हें बॉलीवुड की सबसे अच्छी लेडिंग लड़कियां से काम करना पड़ा हैं.
+BLEU Score: 0.02310128340501537
+Average BLEU Score: 0.035078847477341864
+
+ENGLISH: He was residing in a rented house there.
+HINDI: वह उसके साथ किराये के मकान में रहती थी।
+OUTPUT: वह उसे हरेखा के साथ रहता था.
+BLEU Score: 0.03226013518927287
+Average BLEU Score: 0.0350598021240441
+
+ENGLISH: Her family and relatives were informed about the incident.
+HINDI: साथ ही परिजनों और रिश्तेदारों को घटना की सूचना दे दी है.
+OUTPUT: उसके परिवार और परिजनों को इतना समझाया गया था.
+BLEU Score: 0.022111541438690575
+Average BLEU Score: 0.03497290104561891
+
+ENGLISH: A speeding train has hit the car when it was about to cross the railway track.
+HINDI: इसमें एक तेज रफ्तार ट्रेन पटरी पार करहि गाड़ी से टकरा गई।
+OUTPUT: एक चल रहा ट्रेन ने कार को रेलवे पास पर सामना किया जब वह सड़क पर रास्ता पर पूरा करने का समय था.
+BLEU Score: 0.009410489957951634
+Average BLEU Score: 0.03480248497170113
+
+ENGLISH: This would help reduce the price.
+HINDI: इससे कीमतों में आगे और कमी लाने में मदद मिलेगी।
+OUTPUT: यह करें की खासा मूल्य कम हो जाएगा.
+BLEU Score: 0
+Average BLEU Score: 5.22037274575517
+
+ENGLISH: In this movie, she was seen along with Sushant Singh Rajput.
+HINDI: फिल्म में उनके अपोजिट सुशांत सिंह राजपूत नजर आए थे.
+OUTPUT: इस मूवी में वह देखी थी सुशांत सिंह राजपूत से.
+BLEU Score: 0.10600313379512592
+Average BLEU Score: 2.6631879397751477
+
+ENGLISH: I love you so dearly that even if you are dead, you will be alive to me.
+HINDI: मैं तुम्हें इतना प्यार करता हूं कि अगर तुम जीवित न रहीं तो भी तुम मेरे लिए जीवित रहोगी।
+OUTPUT: मैं तुम्से प्रेम करता हूँ, तुम नींद में हो या जीवन में, मैं तुम्से जीवन में जीवित रखता हूँ.
+BLEU Score: 0.012285946074705657
+Average BLEU Score: 1.7795539418750004
+
+ENGLISH: Everything else is an excuse.
+HINDI: बाकी सब बहाने हैं.
+OUTPUT: किसी  else का उत्तर एक तलाश है.
+BLEU Score: 0.02777619034011792
+Average BLEU Score: 1.3416095039912799
+
+ENGLISH: The rainfall has affected road and rail traffic.
+HINDI: लगातार बारिश होने से रोड और रेल नेटवर्क पर काफी असर पड़ा है।
+OUTPUT: पानी पर प्रभाव से राज्य एवं रेल व्यवस्था में अपराध हुआ.
+BLEU Score: 0.02062457446156057
+Average BLEU Score: 1.077412518085336
+
+ENGLISH: If you pull a knife, you have to use ii.
+HINDI: यदि चाकू निकाले, तो इस्तेमाल करना होगा.
+OUTPUT: यदि आपने निर् partiellement, तो आपको प्रयोग करना होगा.
+BLEU Score: 0.12278260149096115
+Average BLEU Score: 0.9183075319862736
+
+ENGLISH: The law and order situation in the state is abysmal.
+HINDI: प्रदेश में कानून व्यवस्था की दयनीय स्थिति चिंता का विषय है।
+OUTPUT: सांसद का स्थिति राज्य में अधिकार और उच्चार संबंधी है।
+BLEU Score: 0.027007097700389556
+Average BLEU Score: 0.7909788985168615
+
+ENGLISH: The exhibition will be open from December 22 - 31, 2015 (11:00 A.M- 8:00 P.M) on all days.
+HINDI: इस प्रदर्शनी का शुभारंभ 22 से 31 दिसम्‍बर, 2015 तक सभी दिवसों में सुबह 11 बजे से सांय 8 बजे तक होगा।
+OUTPUT: दिसंबर 22, 2015 से दिसंबर 31, 2015 तक संग्रहालय का उत्कृष्ट हो जायगा (11:00 आईज़ से 8:00 पूर्वाह्न).
+BLEU Score: 0.052381754867968186
+Average BLEU Score: 0.6986542555607499
+
+ENGLISH: A special CBI court in Ranchi on Monday convicted RJD chief and former Bihar chief minister Lalu Prasad Yadav in the fourth case of fodder scam in which he figured as an accused.
+HINDI: बिहार के रोडरेज केस में मुख्य आरोपी रॉकी यादव समेत चार आरोपी दोषी करार।
+OUTPUT: लालु प्रसाद यादव के सामने राज्य के संयुक्त अदालत में रानची में मंगल की एक से चार मामले में उछाल हुआ है, जहां वह अंकित थे.
+BLEU Score: 0.009498525867740094
+Average BLEU Score: 0.6220813967059711
+
+ENGLISH: Read: Nirav Modi Firm Files For Bankruptcy After PNB Scam
+HINDI: पढ़ें: नीरव मोदी की गिरफ्तारी से उछले PNB के शेयर
+OUTPUT: निराव मोदी कंपनी नौका दर्शन करती है फ़िलिंग्स के बाद पNB स्काम का मामला से
+BLEU Score: 0.017395797375642234
+Average BLEU Score: 0.5616128367729382
+
+ENGLISH: Aayush Sharma is married to Salman's sister Arpita Khan.
+HINDI: आखिरकार अर्पिता खान से अर्पिता खान शर्मा हो ही गईं सलमान की बहन।
+OUTPUT: आयुष शर्मा सलमान की चौधरी अरपिता खन के साथ विवाह कर चुका है.
+BLEU Score: 0.03342866121562732
+Average BLEU Score: 0.5135960935404553
+
+ENGLISH: Nearby roads have been cordoned off.
+HINDI: आसपास के रास्तों को बंद कर दिया गया।
+OUTPUT: समझ में सड़कें संकलन कर दी गई हैं.
+BLEU Score: 0.023980296761827107
+Average BLEU Score: 0.47279477714223633
+
+ENGLISH: And when mankind are gathered (on the Day of Resurrection), they (false deities) will become enemies for them and will deny their worshipping.
+HINDI: और जब लोग इकट्ठे किए जाएँगे तो वे उनके शत्रु होंगे औऱ उनकी बन्दगी का इनकार करेंगे
+OUTPUT: और जनसमुदाय को उत्साहित करने के दिन में, उसे फalse deities) बनाए गए हैं, उन्हें उनके पूजन से मुकाबला करना चाहते हैं और उन्हें उनके पूजन से मुकाबला करना चाहते हैं.
+BLEU Score: 0.0063161840849674045
+Average BLEU Score: 0.43691180844552335
+
+ENGLISH: During this brief period, Korea had some success in modernizing the military, economy, real property laws, education system, and various industries.
+HINDI: कोरिया में रूस, जापान, फ्रांस और अमेरिका के राजनीतिक अतिक्रमण से प्रभावित हो कर, इस संक्षिप्त अवधि ने सैनिक, अर्थव्यवस्था, भू संपत्ति कानून, शिक्षा प्रणाली और विभिन्न उद्योगों के आंशिक रूप से सफल आधुनिकीकरण को देखा.
+OUTPUT: करियर के एक  short अंतर्गत, कोरेा कुछ संपदान करने का सफलता पाया, सेना, अर्थविज्ञान, सम्पत्ति कानून, शिकsha प्रणाली और विभागों की विभागों में अनुसंधान करना.
+BLEU Score: 0.01577545640301219
+Average BLEU Score: 0.40683064044248685
+
+ENGLISH: Satellite image shows China is building a dam on the Galwan river
+HINDI: सैटेलाइट इमेज से पता चलता है कि चीन गलवान नदी पर बांध बना रहा है
+OUTPUT: satellite image देखते हैं चीन गलवान नदी पर दम बना रहा है
+BLEU Score: 0.23879190165893138
+Average BLEU Score: 0.3956280578569165
+
+ENGLISH: PM Narendra Modi urges netizens not to use social media platforms to spread dirt
+HINDI: प्रधानमंत्री मोदी ने सोशल मीडिया के जरिये गंदगी ना फैलाने की अपील की | PM narendra Modi says Social media should not be used to spread dirt - Hindi Oneindia
+OUTPUT: प्रधानमंत्री नरेंद्र मोदी ने कहा कि सोशल मीडिया पлатфор्म्स पर निर्वाह नहीं करें, क्योंकि इसके अंदर से उचाई नहीं होती
+BLEU Score: 0.018817197551587818
+Average BLEU Score: 0.37207737908783345
+
+ENGLISH: In the transport and communication sectors, the production of commercial vehicles, cargo handled at major ports, cargo handled by the civil aviation, passengers handled by the civil aviation and the total stock of telephone connections (including WLL and cellular) registered growth rates of (-)19.18 per cent, 1.9 per cent, (-)5.6 per cent, (-) 4.7 per cent and 42.7 per cent, respectively during Q1 of 2009-10 over Q1 of 2008-09.
+HINDI: परिवहन और संचार क्षेत्रों में व्यावसायिक वाहनों, प्रमुख बन्दरगाहों पर सामान लादने-उतारने, नागर विमानन द्वारा सामान लादने-उतारने, नागर विमानन द्वारा यात्रियों की आवाजाही और टेलीफोन कनेक्शनों के समूचे भंडार के मामले में पिछले वर्ष की पहली तिमाही की तुलना में 2009-10 की आलोच्य अवधि के दौरान (-) 19.18 प्रतिशत, 1.9 प्रतिशत, (-) 5.6 प्रतिशत, (-) 4.7 प्रतिशत और 42.7 प्रतिशत विकास दरें दर्ज की गई हैं।
+OUTPUT: सectors में ट्राnsपोर्ट और कॉम्म्यंिक व्हिडेंस का निर्माता, महानगर पोर्ट्स में करगे हादसा, महानगर प्रवास का पासेंजर्स और सभी टेलिफ़ोन संख्याओं (इनक्लुज और
+BLEU Score: 0.001653752159663036
+Average BLEU Score: 0.35028775397441164
+
+ENGLISH: "May this festival light up our lives and usher in peace, prosperity and happiness in our lives."""
+HINDI: मैं कामना करता हूं कि यह प्रकाशोत्सव हमारे जीवन में शांति, समृद्धि और आनंद का सृजन करें।
+OUTPUT: इस उत्सव का लाइट हमारे जीवन में उजागर करे और हमारे जीवन में शांति, संतुष्टि और सुख का प्राप्त करें।""
+BLEU Score: 0.17337056134697476
+Average BLEU Score: 0.3404590210506651
+
+ENGLISH: Get out
+HINDI: बाहर हो गयीं।
+OUTPUT: निकाल दें
+BLEU Score: 0
+Average BLEU Score: 0.32254012520589326
+
+ENGLISH: But you box like one.
+HINDI: एक तरह लेकिन आप बॉक्स.
+OUTPUT: लगता है कि आप कॉक लिखते हैं.
+BLEU Score: 0.03303164318013808
+Average BLEU Score: 0.3080647011046055
+
+ENGLISH: The Minister informed that millets include Jowar, Bajra, Ragi, little millets include Kutki, Kodo, Sawa, Kangni and Cheena
+HINDI: राजस्थान, उत्तराखंड, महाराष्ट्र, अंडमान और निकोबार दीप समूह, असम, त्रिपुरा
+OUTPUT: मंत्री ने कहा था कि मिलेट्स में जOWAR, Bajra, Ragi, और छोटे मिलेट्स में Kutki, Kodo, Sawa, Kangni और Cheena शामिल हैं
+BLEU Score: 0.010511846841633778
+Average BLEU Score: 0.2938955175682735
+
+ENGLISH: In India, they have dressed Kareena Kapoor Khan, Sonakshi Sinha, Deepika Padukone, Katrina Kaif, Priyanka Chopra to name a few.
+HINDI: करीना कपूर, सोनाक्षी सिन्हा, कंगना राणाउत, दीपिका पादुकोण ने नियोन रंग की ड्रेसेज को फिल्मों में जबरदस्त तौर पर पहना और हिट करा दिया।
+OUTPUT: इंदिरा में करेना कपूर खान, सोनाक्षी सिन्हा, दीपिका पादुकोण, कातरिना कैफ, प्रियंका चोपड़ा आदि के समान में दबाव दे रहे हैं.
+BLEU Score: 0.13401910076814988
+Average BLEU Score: 0.28662840771372244
+
+ENGLISH: During the raid they seized several documents.
+HINDI: छापेमारी के दौरान उसने कई दस्तावेज जब्त किए थे।
+OUTPUT: उन्हें दुबारा में सeveral पत्रों को सेize कर लिया गya.
+BLEU Score: 0
+Average BLEU Score: 0.2741663030305171
+
+ENGLISH: And when you look inside of it, you have 7 plus 3 times 3.
+HINDI: और जब तुम उस के अंदर देखो, तुम 7 प्लस 3 3 बार।
+OUTPUT: और जब आप इसमें देखें, तो 7 से 3 बढ़ाएँ और 3 बार 3 करके उतराएँ.
+BLEU Score: 0.030064545690526145
+Average BLEU Score: 0.2639953964746841
+
+ENGLISH: Karnataka were the defending champions.
+HINDI: कर्नाटक डिफेंडिंग चैंपियन थे।
+OUTPUT: कर्नाटका थे अर्धार्थियों के साथ-साथ.
+BLEU Score: 0
+Average BLEU Score: 0.25343558061569676
+
+ENGLISH: India beat Afghanistan by 11 runs
+HINDI: रोमांचक मुकाबले में भारत ने अफगानिस्तान को 11 रन से हराया
+OUTPUT: भारत अफगानिस्तान के साथ 11 रनों के साथ जीता
+BLEU Score: 0.025271148634948993
+Average BLEU Score: 0.24466002553951416
+
+ENGLISH: He published the news in the newspaper.
+HINDI: उसने समाचार पत्र में समाचार प्रकाशित करवाया।
+OUTPUT: इसे अखबार में पUBLISH किया.
+BLEU Score: 0.03455747170954952
+Average BLEU Score: 0.23687844947173767
+
+ENGLISH: The first sitting of the 17th Lok Sabha begins from today.
+HINDI: 17th Lok Sabha First session begins today:  17वीं लोक सभा का पहला सत्र सोमवार को शुरू हो गया.
+OUTPUT: संसद का पहला सीट 17 लोक सभा के समय से शुक्ल प्रारम्भ हुआ.
+BLEU Score: 0.029424728455584886
+Average BLEU Score: 0.22946938800687508
+
+ENGLISH: When I was 22, I had to make a big decision, says Deborah.
+HINDI: डॆबरा कहती है: “जब मैं 22 साल की थी, तब मुझे एक बहुत बड़ा फैसला करना था । ”
+OUTPUT: मैं 22 साल की थी एक बड़ा ऐसा निर्णय करना था, साYS Deborah.
+BLEU Score: 0.18894448043123793
+Average BLEU Score: 0.22807197740081864
+
+ENGLISH: To update the mobile number
+HINDI: मोबाइल नंबर अपडेट करवाने के लिए
+OUTPUT: मобाइल नंबर की अपडेट करें
+BLEU Score: 0.05231223689135342
+Average BLEU Score: 0.22221331938383646
+
+ENGLISH: But as evening drew in, a bunch of uninvited party-poopers gate-crashed.
+HINDI: लेकिन जैसे-जैसे शाम ढ़लने लगी, कुछ बिन बुलाए मेहमान आ धमके.
+OUTPUT: केंद्रीय समय पर संवेदना से एक संवेदना से न आने वाले पार्टी पहचाने गए.
+BLEU Score: 0.013217947626377298
+Average BLEU Score: 0.215471533198112
+
+ENGLISH: I am still a long way from achieving that but I am trying.
+HINDI: मुझे वो हासिल करने में अभी लंबा वक्त तय करना है, लेकिन मैं कोशिश कर रही हूं।
+OUTPUT: मैं अभी भी सम्मान की ओर पहले हैं लेकिन मैं उसे प्राप्त करता रहा हूँ.
+BLEU Score: 0.025405213326725105
+Average BLEU Score: 0.20953196070213115
+
+ENGLISH: But spirit anointing does not bring extraordinary understanding, for Paul had to instruct and counsel certain anointed ones.
+HINDI: मगर आत्मा से अभिषिक्‍त होने से किसी को बढ़िया समझ हासिल नहीं होती, क्योंकि पौलुस को कुछ अभिषिक्‍त मसीहियों को कई बातें सिखानी पड़ीं और ताड़ना देनी पड़ी ।
+OUTPUT: परम भक्ति नहीं अत्यधिक समझ देती है, क्योंकि पाउल ने कुछ निर्वाण के साथ समझित करने का आदेश दिया.
+BLEU Score: 0.01582331396625117
+Average BLEU Score: 0.2036620017101348
+
+ENGLISH: The minister said this
+HINDI: यह कहा था मंत्री ने
+OUTPUT: मंत्री ने कहा था
+BLEU Score: 0.18713114109010565
+Average BLEU Score: 0.20317579992719276
+
+ENGLISH: After this, he was removed.
+HINDI: इसके बाद उन्होंने उसे निर्वस्त्र कर दिया.
+OUTPUT: इसके बाद उसका निर्माता हुआ.
+BLEU Score: 0.06846046760764757
+Average BLEU Score: 0.1993267904323486
+
+ENGLISH: Use as default for new folders
+HINDI: नए फ़ोल्डर के लिए डिफ़ॉल्ट के रूप में प्रयोग करें@ info
+OUTPUT: नए फॉलдер के साथ यह खास का समारोह चुनें
+BLEU Score: 0.02043370997308395
+Average BLEU Score: 0.19435753819736903
+
+ENGLISH: Priced from Rs 40.
+HINDI: कीमत 40 रूपये है।
+OUTPUT: रुpe 40 से सale हैं.
+BLEU Score: 0.040824829046386304
+Average BLEU Score: 0.19020800551761274
+
+ENGLISH: There is no response from the government yet.
+HINDI: सरकार की और से इसपर अभी कोई प्रतिक्रिया नहीं मिल पाई है।
+OUTPUT: सरकार के लिए अस yet नहीं हुआ.
+BLEU Score: 0.020034704329441457
+Average BLEU Score: 0.18572976074950298
+
+ENGLISH: The movie was written by Salim Khan and Javed Akhtar.
+HINDI: इस एक्शन-थ्रिलर फिल्म के संवाद और स्क्रीनप्ले जावेद अख्तर तथा सलीम खान की जोड़ी ने लिखे थे।
+OUTPUT: फ़िल्म का संस्करण सलीम खान और जावेद अख़्तर ने कराया.
+BLEU Score: 0.029051817443414188
+Average BLEU Score: 0.1817123775878084
+
+ENGLISH: The Union Finance Minister, Shri Arun Jaitley launches the countrys First Agri-commodity Options Contracts in Guar Seed on the occasion of Makar Sankranti. FM: A significant step in the direction of agricultural trade as this will ensure that the farmers will receive a better price for their commodities.
+HINDI: ग्वार बीज में देश के पहले एग्री-कमोडिटी ऑप्शंस का अनावरण केंद्रीय वित मंत्री श्री अरुण जेटली द्वारा मकर संक्रांति के पावन अवसर पर किया जाएगा जो अपनी तरह का यह पहला अनोखा हेजिंग टूल है और यह किसानों के लिए बेहद महत्वपूर्ण बदलाव लाने में सहायक साबित होगा
+OUTPUT: उत्साह के समकान में एक महत्वपूर्ण क्रम का सुनिश्चित करना जा रहा है, कि फ़रमर्स को उनके संरक्षित कमाद का अधिक उत्पादन कराने का निर्णय करेंगे.
+BLEU Score: 0.0051459869478619165
+Average BLEU Score: 0.1772982178218097
+
+ENGLISH: Only the latter, measured by alpha, allows the evaluation of the manager's true performance (but then, only if you assume that any outperformance is due to skill and not luck).
+HINDI: केवल परवर्ती घटक जिसे अल्फा द्वारा मापा जाता है, प्रबंधक के सच्चे प्रदर्शन के मूल्यांकन की अनुमति देता है (लेकिन तभी जब आप यह मान लें कि कोई भी बहिर्प्रदर्शन कौशल की वजह से न कि भाग्य से हुआ है). कारक मॉडलों का इस्तेमाल करके पोर्टफोलियो प्रतिफल का मूल्यांकन किया जा सकता है।
+OUTPUT: महीना के साथ, अल्पा के साथ माने जाता है की मानेजर का सच प्रदर्शन (लेकिन तब, तो हमारे माने की ओर से अंश की तरह का सुझाव है).
+BLEU Score: 0.024415057111239653
+Average BLEU Score: 0.17356936024350314
+
+ENGLISH: India is, and will remain, sensitive to Bhutan and its interests.
+HINDI: भारत भूटान और उसके हितों के प्रति संवेदनशील है और रहेगा।
+OUTPUT: भारत हमारा संवेदना है और भारत का संवेदना हमारे साथ रखेगा।
+BLEU Score: 0.04411629359322707
+Average BLEU Score: 0.1704871443708775
+
+ENGLISH: Rahul Gandhi and Congress must apologise and seek forgiveness, says BJP after Rafale verdict
+HINDI: राफेल पर 'सुप्रीम फैसले' के बाद BJP ने राहुल गांधी और कांग्रेस के खिलाफ खोला मोर्चा, कहा-माफी मांगें राहुल
+OUTPUT: राहुल गांधी और कांग्रेस की इजाज़त करें और माफ़ की चाहें, कहते भाजपा फ़राह के दलिल पर
+BLEU Score: 0.12382811752342573
+Average BLEU Score: 0.16940205072326237
+
+ENGLISH: "Our troops retaliated effectively and strongly"", the official said."
+HINDI: एक अधिकारी ने कहा, 'हमारे सैनिकों ने प्रभावी और दृढ़ता से जवाबी कार्रवाई की।
+OUTPUT: जवानों ने प्रतिरक्षा के साथ सशस्त्र और मighty उत्तराधिकार किया और सफलतापूर्वक समाप्त किया
+BLEU Score: 0.015815216252224023
+Average BLEU Score: 0.1659114408489206
+
+ENGLISH: He informed that electronics skill development programme for youths have also been started.
+HINDI: उन्होने कहा कि कम पढ़े लिखे युवाओं के लिए ड्राइवर स्किल प्रोग्राम भी शुरू किया गया है।
+OUTPUT: इलेक्ट्रॉनिक्स के सुविधा विकास प्रोग्राम युवाओं के साथ शुरु किया गया है.
+BLEU Score: 0.03611948985310407
+Average BLEU Score: 0.16302717527123578
+
+ENGLISH: "The delegation, led by senior Congress leaders Rahul Gandhi and Priyanka Gandhi Vadra, met top NHRC officials and made a ""detailed"" 31-page representation which included videos and photographs as ""evidence"" of alleged atrocities and human rights violations in the state."
+HINDI: वरिष्ठ कांग्रेस नेता राहुल गांधी और प्रियंका गांधी की अगुआई में एक प्रतिनिधिमंडल एनएचआरसी के शीर्ष अधिकारियों से मिला और 31 पृष्ठ की व्यापक प्रस्तुति सौंपी, जिसमें राज्य में कथित अत्याचार और मानवाधिकार उल्लंघनों के सबूत के रूप में वीडियो और तस्वीर शामिल हैं।
+OUTPUT: संघ के साथ नई दलिता की संपledge में राहुल गांधी और प्रियंका गांधी वाद्रा ने नाइट एच.आर.एस. अधिकारियों से मुलाकात की, जिसमें 31 पाठ का संचालन था, जिसमें वीडियो और फोटोग्राफ़ से अभिभावक दलिता और समाज
+BLEU Score: 0.11824203898147173
+Average BLEU Score: 0.16205358535189307
+
+ENGLISH: Pradhan Mantri Awas Yojana is a programme to provide affordable house to all by 2022, each of which will have toilet, electricity connection, LPG, drinking water, and bank account under the Jan Dhan Yojana
+HINDI: प्रधानमंत्री आवास योजना 2022 तक सभी को किफायती आवास उपलब्ध कराने का कार्यक्रम है, जिनमें से प्रत्येक आवास शौचालय, बिजली के कनेक्शन, एलपीजी, पेयजल से युक्त होगा और सभी का जनधन योजना के तहत बैंक खाता होगा
+OUTPUT: प्रधानमंत्री आवास योजना का प्रोग्राम है, जो सभ्यता के साथ 2022 तक सभ्यता के साथ 2022 तक एक सभ्यता के साथ एक सभ्यता के साथ एक सभ्यता के साथ एक सभ्यता के साथ एक सभ्यता के साथ एक सभ्यता के साथ एक सभ्यता के साथ एक
+BLEU Score: 0.031091006235412864
+Average BLEU Score: 0.15926714749835094
+
+ENGLISH: The banks which accused Mallya of financial fraud include the State Bank of India, Bank of Baroda, Corporation Bank, Federal Bank, IDBI Bank, Indian Overseas Bank, Jammu and Kashmir Bank, Punjab National Bank, Punjab and Sind Bank, UCO Bank, Union Bank of India and the State Bank of Mysore.
+HINDI: माल्या के खिलाफ इस दावे में भारतीय स्टेट बैंक, बैंक ऑफ बड़ौदा, कारपोरेशन बैंक, फेडरल बैंक लिमिटेड, आईडीबीआई बैंक, इंडियन ओवरसीज बैंक, जम्मू एंड कश्मीर बैंक, पंजाब एंड सिंध बैंक, पंजाब नेशनल बैंक, स्टेट बैंक ऑफ मैसूर, यूको बैंक, यूनाइटेड बैंक ऑफ इंडिया और जेएम फाइनेंशियल एसेट रीकंस्ट्रक्शंस कंपनी प्राइवेट लिमिटेड सूचीबद्ध आवेदक हैं.
+OUTPUT: बैंकें जिन्हें Mallya के financial संरक्षण के आरोप कर रहे हैं स्टेट बैंक ऑफ इंडिया, बॉनक ऑफ बरोडा, कॉरपोरेशन बैंक, एफेक्ट बैंक, इडी बिज़नेस बैंक, जमmu और कश्मीर बैंक, पंजाब नाचल बैंक, पंजाब और
+BLEU Score: 0.08208917858553258
+Average BLEU Score: 0.15765927314600056
+
+ENGLISH: Shri Bhakta was a veteran Parliamentarian who understood the pulse of the people.
+HINDI: श्री भक्त एक वरिष्ठ सांसद थे जो लोगों की भावनाओं को समझते थे।
+OUTPUT: श्री भक्त था वeteran पर्लिमेंटारियन जिसे लोगों का स्वर प्रतिक्रिया समझ गया.
+BLEU Score: 0.036362270465000714
+Average BLEU Score: 0.15518382411169446
+
+ENGLISH: The police is investigating his death.
+HINDI: उनकी हत्या के मामले की पुलिस जांच चल रही है.
+OUTPUT: पुलिस ने उसके मृत्यु की जांच की.
+BLEU Score: 0.026997729811594123
+Average BLEU Score: 0.15262010222569244
+
+ENGLISH: The work is arranged according to the months.
+HINDI: उसी आधार पर महीनों का नामकरण हुआ है।
+OUTPUT: काम मांसें आया है।
+BLEU Score: 0.029556479778261396
+Average BLEU Score: 0.15020709002084084
+
+ENGLISH: Prime Minister Narendra Modi extended greetings to President on his birthday.
+HINDI: प्रधानमंत्री नरेंद्र मोदी ने शीला दीक्षित के आवास पर उनको भावभीनी श्रद्धांजलि अर्पित की।
+OUTPUT: प्रधानमंत्री नरेन्द्र मोदी निर्वाण से राष्ट्रपति के जन्मदिन पर शुभकामनाएं दे दिये.
+BLEU Score: 0.020345970436499224
+Average BLEU Score: 0.14770976079806505
+
+ENGLISH: "Reacting on issues of shortage of medical supplies in Kashmir, Raveesh Kumar said, ""Not even in one incident any hospital has reported shortage of drug or of any disposable item."
+HINDI: रवीश कुमार ने कहा कि कश्मीर में किसी भी अस्पताल से दवाई अथवा अन्य सामान कम होने की बात सामने नहीं आई है।
+OUTPUT: कश्मीर में चिकित्सा सुरक्षा के विषेष में संपत्ति का समावेश हुआ है। रवीश कुमार ने कहा था, "कोई अस्पताल नहीं कहा गया है कि दवा या कि एक संपत्ति के साथ किसी भी दौरा में काम नहीं किया गया है।"
+BLEU Score: 0.07978199887317745
+Average BLEU Score: 0.14642810491268982
+
+ENGLISH: They did better this time.
+HINDI: वे इस बार ज्यादा बेहतर प्रदर्शन कर रहे हैं।
+OUTPUT: उन्हें उधार करने का समय आया.
+BLEU Score: 0
+Average BLEU Score: 0.1437164733402326
+
+ENGLISH: This was Delhis second win in three outings.
+HINDI: घर में दिल्ली की तीन मैचों में यह दूसरी जीत है।
+OUTPUT: यह दिल्ली के दुसरे जीत थी स्थान तीन में.
+BLEU Score: 0.028556529017323657
+Average BLEU Score: 0.14162265617072514
+
+ENGLISH: The military officers were waiting with a car for Gandhiji.
+HINDI: सैन्य अधिकारी एक गाड़ी लेकर गांधीजी की प्रतीक्षा कर रहे थे।
+OUTPUT: सेना अठारhod थे गांधीजी के साथ एक कार वaiting कर रहे थे.
+BLEU Score: 0.039073802494525016
+Average BLEU Score: 0.139791426640793
+
+ENGLISH: This has been happening in our country.
+HINDI: हमारे देश में ऐसा ही चलता रहा है।
+OUTPUT: इस समय में हमारा देश में हुआ है.
+BLEU Score: 0.050712153369465586
+Average BLEU Score: 0.13822863237287497
+
+ENGLISH: There will be happiness in your married life.
+HINDI: आपके प्रेम जीवन में खुशियां आएंगी।
+OUTPUT: मैं आज का सफर करता हूँ, तुम्से मेरे साथ रहकर उसका सुख उठाना चाहता हूँ.
+BLEU Score: 0
+Average BLEU Score: 0.13584538009058403
+
+ENGLISH: Around 11 o 'clock Pranjol and Rajvir slipped out of bed and tiptoed down the staircase.
+HINDI: रात करीब 11 बजे प्रांजल और राजवीर अपने बिस्तरों से खिसक गए और दबे पांव सीढियां उतरे।
+OUTPUT: 11 बजे पर प्राञ्जल और राजवीर ने बाढ़े के बारे में चार छोटे घंटे में बाढ़े के सामने से उठाए।
+BLEU Score: 0.030452555559828284
+Average BLEU Score: 0.13405906103074072
+
+ENGLISH: To realise rapid economic growth, we need to put in right environment in place.
+HINDI: तीव्र आर्थिक विकास प्राप्त करने के लिए हमें सही वातावरण बनाने की जरूरत है।
+OUTPUT: समझ में सम्पूर्ण परिवर्तन की जा रही है।
+BLEU Score: 0.015603043420373072
+Average BLEU Score: 0.13208479407056792
+
+ENGLISH: Well try our best to win the match.
+HINDI: हम खिताब जीतने का पूरा प्रयास करेंगे।
+OUTPUT: करें हमारे लिए मATCH की जीत का प्रयास करें.
+BLEU Score: 0.025098621243978974
+Average BLEU Score: 0.1303309223848861
+
+ENGLISH: This was the first meeting between the two leaders.
+HINDI: दोनों नेताओं की यह पहली द्विपक्षीय मुलाकात थी.
+OUTPUT: इस मामले में दोनों नेताओं का पहला मुलाकात हुआ.
+BLEU Score: 0.05307712171072445
+Average BLEU Score: 0.12908489334175446
+
+ENGLISH: In April 2007, there was an estimate of over 4 million Iraqi refugees around the world, including 1.9 million in Iraq, 2 million in neighboring Middle East countries, and around 200,000 in countries outside the Middle East.
+HINDI: अप्रैल 2007 में, दुनिया भर में 4 मिलियन से अधिक इराकी शरणार्थियों का अनुमान था, जिसमें इराक में 1.9 मिलियन, पड़ोसी मध्य पूर्व देशों में 2 मिलियन और मध्य पूर्व के बाहर के देशों में लगभग 200,000 शामिल थे।
+OUTPUT: अप्रैल 2007 में इराक में से उचाई 400만 से अधिक याचिका नेत्रलाई विशेषज्ञ थे, जहां 1900 से अधिक थे इराक में, 200 से अधिक थे देशांचल में साथ ही 200 से अधिक थे देशांचल में साथ ही.
+BLEU Score: 0.03868526789974356
+Average BLEU Score: 0.12764997865219876
+
+ENGLISH: New increase of 02 posts of Inspector General
+HINDI: महानिदेशक के 2 पदों की नई बढ़ोतरी
+OUTPUT: नई उठान 02 नए पद इंसपेक्टर जeneral के साथ
+BLEU Score: 0.028517539529041507
+Average BLEU Score: 0.12610103429089942
+
+ENGLISH: After completing a Masters from the Delhi School of Social Work, Nandita Das started teaching.
+HINDI: दिल्ली स्कूल ऑफ सोशल वर्क से मास्टर्स पूरा करने के बाद, नंदिता दास ने पढ़ाना शुरू किया।
+OUTPUT: एक दिल्ली स्कूल ऑफ सोशल वर्क के बाद नन्दिता दास ने ताल्लुक दिखाया.
+BLEU Score: 0.25608891792067445
+Average BLEU Score: 0.12810084788520365
+
+ENGLISH: Many people do that.
+HINDI: इतने लोग कर रहे हैं।
+OUTPUT: उधार करते हैं लोग.
+BLEU Score: 0.05372849659117709
+Average BLEU Score: 0.1269739940777184
+
+ENGLISH: Hes just a child.
+HINDI: वह सिर्फ एक बच्चा है।
+OUTPUT: उसका बच्चा है.
+BLEU Score: 0.06257106818159155
+Average BLEU Score: 0.1260127563777762
+
+ENGLISH: Don't you fight with your brother?
+HINDI: तुम्हारे भाई से तुम्हारी बनती नहीं है क्या?
+OUTPUT: नहीं आपके भाई से लड़ाई करते हैं?
+BLEU Score: 0.06164542728425844
+Average BLEU Score: 0.1250661780087539
+
+ENGLISH: Successive U. S. administrations have ignored the fact that India must see her problems and her relationships in a different perspective.
+HINDI: एक के बाद एक अमरीकी सरकारों ने इस तथ्य की उपेक्षा की है कि भारत को अपनी समस्याओं और अपने सम्बंधों पर एक भिन्न परिप्रेक्ष्य में विचार करना है।
+OUTPUT: संतुष्टि के साथ अमेरिका राज्य ने अपने साथ भारत के संपादन का निश्चित कराना चाहा, क्योंकि भारत के समस्याओं और संबंधों का नए राशि देखना चाहता था.
+BLEU Score: 0.01801210737536247
+Average BLEU Score: 0.12351466973870473
+
+ENGLISH: This increased production from 60 to 80 instruments per year.
+HINDI: वर्षा ६० इंच से ८० इंच के बीच होती है।
+OUTPUT: इसे इकाई 60 से 80 इंструमेंट्स पर संख्या बढाया.
+BLEU Score: 0.021105340631872645
+Average BLEU Score: 0.12205167932289286
+
+ENGLISH: All the vehicles are being checked thoroughly.
+HINDI: हर आने-जाने वाले वाहन की सघन जांच की जा रही है।
+OUTPUT: All the vehicles are being checked thoroughly.
+BLEU Score: 0
+Average BLEU Score: 0.12033264158595071
+
+ENGLISH: I am in favour it.
+HINDI: मैं इसके पक्ष में हूं।
+OUTPUT: मैं इसे सहमत करता हूँ.
+BLEU Score: 0.040824829046386304
+Average BLEU Score: 0.11922836641179008
+
+ENGLISH: Verily, those who disbelieve, and die while they are disbelievers, it is they on whom is the Curse of Allah and of the angels and of mankind, combined.
+HINDI: बेशक जिन लोगों नें कुफ्र एख्तेयार किया और कुफ़्र ही की हालत में मर गए उन्ही पर ख़ुदा की और फरिश्तों की और तमाम लोगों की लानत है हमेशा उसी फटकार में रहेंगे
+OUTPUT: वह उनके साथ क्रूर हो जाते हैं, जो निंदा करते हैं, उन्हें क्रूर हो जाता हैं, और उन्हें क्रूर हो जाता हैं.
+BLEU Score: 0.00555087508173553
+Average BLEU Score: 0.11767114050315922
+
+ENGLISH: PM Modi on violent protests
+HINDI: हिंसक विरोध प्रदर्शन पर पीएम मोदी का ट्वीट
+OUTPUT: प्रधानमंत्री मोदी ने विवादास्पद प्रेरणा के संबंध में कहा
+BLEU Score: 0.023980296761827107
+Average BLEU Score: 0.11640504802016824
+
+ENGLISH: But the money was never paid.
+HINDI: लेकिन उन्हंे कभी भी एक पैसा तक नहीं दिया गया।
+OUTPUT: लेना पैसा निभाया नहीं हुआ.
+BLEU Score: 0.024925978674400287
+Average BLEU Score: 0.115185327095558
+
+ENGLISH: Double Stack Long Haul Container Train Operation
+HINDI: डबल स्टैक लॉन्ग हॉल कंटेनर ट्रेन का परिचालन
+OUTPUT: दوबाई स्टक लंग हाल कन्टेनर ट्रेन ऑपरेशन
+BLEU Score: 0.028634401465295497
+Average BLEU Score: 0.11404649912673874
+
+ENGLISH: As per the FICCI-EY Media and Entertainment Repot 2019, the size of the Industry has increased from Rs91,810 crore in 2013 to Rs 1,67,500 crore in 2018, a growth of 82.44 per cent in the last 5 years.
+HINDI: फिक्की-ईवाई मीडिया और मनोरंजन रिपोर्ट, 2019 के अनुसार इस उद्योग का आकार 2013 में 91,810 करोड़ रुपये से 2018 में 1,67,500 करोड़ रुपये तक बढ़ गया है। पिछले पांच वर्षों में 82.44 प्रतिशत की वृद्धि हुई है।
+OUTPUT: संपादकीय निर्देशालय में 2019 में राष्ट्रीय संहिता का आकार से बढ़ा है, जहां 2013 में Rs91,810 करोड़ के साथ 2018 में Rs 1,67,500 करोड़ का आकार दर 82.44 प्रतिशत का विकास पेश किया गया है लेकिन इसके बाद
+BLEU Score: 0.023480087201163912
+Average BLEU Score: 0.11287031195887415
+
+ENGLISH: These include New Zealand, Austria, South Africa, Ireland and Turkey.
+HINDI: ये देश हैं आयरलैंड, न्यूजीलैंड, दक्षिण अफ्रीका, टर्की और ऑस्ट्रिया।
+OUTPUT: न्यूज़ ZEलând, ऑस्ट्रिया, सुरत अफ्रीका, इरेलंड और तुर्कीया.
+BLEU Score: 0.04167227247694064
+Average BLEU Score: 0.11195751658090064
+
+ENGLISH: Krishnapuram is a village in Krishna district of the Indian state of Andhra Pradesh.
+HINDI: जंगंगूडॆं (कृष्णा) में भारत के आन्ध्रप्रदेश राज्य के अन्तर्गत के कृष्णा जिले का एक गाँव है।
+OUTPUT: कृष्णपुराम एक गाँव है, एक दिशा में एक स्थान के साथ एक उत्तराखंड स्त्रेत के राज्य क्रेडांत क्रेडांत के एक जिले में स्थान के साथ.
+BLEU Score: 0.020876149875884896
+Average BLEU Score: 0.11080458788843209
+
+ENGLISH: Bollywood's most rooted for couple Ranveer Singh and Deepika Padukone just announced their much-awaited wedding date.
+HINDI: बॉलीवुड के पॉवर कपल दीपिका पादुकोण और रणवीर सिंह ने अपनी शादी की तारीख का ऐलान कर दिया है। दोनों ने अभी सिर्फ अपनी शादी की तारीख का ही खुलासा किया, शादी कहां होंगी और शादी में कौन-कौन मेहमान आएंगे इस बारे में कोई डिटेल सामने नहीं आई हैं। इससे भी ज्‍यादा बड़ी बात जो लोग सोच रहे हैं कि दीपिका अपनी शादी में कौनसे डिजाइनर का लहंगा पहनेंगी? दीपिका की ब्राइडल आउटफिट्स के ल‍िए जिस डिजाइनर का नाम सामने आ रहा है वो है सब्‍यसाची का।
+OUTPUT: रन्वीर सिंह और दीपिका पादुकोणे का सबसे पसंदादेखा शादी अनुंतरान्तर कार्यक्रम की तिथि अनुंतरान्तर के साथ कहा गया है।
+BLEU Score: 0.00043012178799575296
+Average BLEU Score: 0.10942490706217664
+
+ENGLISH: It was almost a prototype of the Academic Association of Derozio which had ceased functioning with the demise of its mentor.
+HINDI: यह संस्था डिरोजियों की अकादमीय संस्था का लगभग आदि रूप थी, जो उसने संरक्षक की मृत्यु से निष्क्रिय पड़ी थी।
+OUTPUT: उन्होंने अकादेमिक संघ देरोजियों का प्रोटोटायप प्रसारित किया था, जो उनके में संघ का मौक़ा उठा था।
+BLEU Score: 0.021400047286221472
+Average BLEU Score: 0.10833818039827596
+
+ENGLISH: The injured have been referred to a hospital in critical condition.
+HINDI: घायलों को गंभीर हालत में उपचार के लिए अस्पताल में भर्ती कराया गया है।
+OUTPUT: देखरेखा घायलों को अस्पताल में सम्भावना संबंधी संबंध में शांति से देखा गया है।
+BLEU Score: 0.05437427682227521
+Average BLEU Score: 0.10768008401320277
+
+ENGLISH: To ensure the health and safety of students, guidelines issued by the Government of India for Social Distancing and other measures pertaining to COVID-19 will strictly be adhered to by all the examination centers.
+HINDI: छात्रों के स्वास्थ्य और सुरक्षा को सुनिश्चित करने के लिए, भारत सरकार द्वारा सामाजिक दूरी के लिए जारी दिशानिर्देश और COVID-19 से संबंधित अन्य उपायों का सभी परीक्षा केंद्रों पर सख्ती से पालन किया जाएगा.
+OUTPUT: क covid-19 से जुड़ी सभ्यता और सुरक्षा के लिए सरकार के निर्देशानुसार सभ्यता के लिए संबंधित निर्देशों को सभ्यता के लिए पूरा करेंगे हर परीक्षा स्थल.
+BLEU Score: 0.023446342673728394
+Average BLEU Score: 0.10666521965971514
+
+ENGLISH: Of the cattle are some for burden and some for meat: eat what Allah hath provided for you, and follow not the footsteps of Satan: for he is to you and avowed enemy.
+HINDI: और चारपायों में से कुछ तो बोझ उठाने वाले (बड़े बड़े) और कुछ ज़मीन से लगे हुए (छोटे छोटे) पैदा किए ख़ुदा ने जो तुम्हें रोज़ी दी है उस में से खाओ और शैतान के क़दम ब क़दम न चलो
+OUTPUT: के गाय कुछ कर्त्ता हैं, उधार और मांस के लिए । इस बारिश को अलlah ने दिया है, और न जाने सतान के पास की जाएं, क्योंकि उसे आपके एवं मांस के साथ एक प्रतिदिन में एक साथ ही हैं ।
+BLEU Score: 0.007039372171487214
+Average BLEU Score: 0.10547919766580767
+
+ENGLISH: In the present case, no such hint is at hand.
+HINDI: वर्तमान मामले में ऐसा कोई शपथपत्र नहीं है.
+OUTPUT: संपूर्ण मामला में ऐसा चेतावनी नहीं मिली.
+BLEU Score: 0.06164542728425844
+Average BLEU Score: 0.10496350624955414
+
+ENGLISH: Money is not that important.
+HINDI: धन आदि पदार्थ कोई महत्व की वस्तुए नहीं हैं।
+OUTPUT: деньги не так важны.
+BLEU Score: 0
+Average BLEU Score: 0.10374300036293142
+
+ENGLISH: Security campaigns are currently ongoing in the area.
+HINDI: वर्तमान में क्षेत्र में सुरक्षा अभियान जारी हैं।
+OUTPUT: सुरक्षा कampaigns are currently ongoing in the area.
+BLEU Score: 0.023980296761827107
+Average BLEU Score: 0.10282618767786125
+
+ENGLISH: Kochadhaman is a village in Kishanganj district of Bihar state of India.
+HINDI: जोशीगांव चकडाक, काफलीगैर तहसील में भारत के उत्तराखण्ड राज्य के अन्तर्गत कुमाऊँ मण्डल के बागेश्वर जिले का एक गाँव है।
+OUTPUT: कोचढ़मन हमारे प्रांत किशांगञ्ज जिला बihार राज्य का सम्मान है.
+BLEU Score: 0.009031565546286669
+Average BLEU Score: 0.10176033969909337
+
+ENGLISH: Doctor's wives spread breast cancer awareness
+HINDI: स्तन कैंसर को लेकर जागरुकता फैलाने के लिए जुटे चिकित्सक विशेषज्ञ
+OUTPUT: डक्टर स्वामि कैंसर समाजात्मक उत्साह प्राप्त करते हैं
+BLEU Score: 0.019090277826420414
+Average BLEU Score: 0.10083146259940041
+
+ENGLISH: Indirect Tax Revenue (Provisional) collections have increased from Rs 2,69,909 crore in April-October 2013 to Rs.2,85,126 crore during April-October 2014.
+HINDI: अप्रत्‍यक्ष कर राजस्‍व (अंतरिम) का संग्रह अप्रैल-अक्‍टूबर 2013 के 2,69,909 करोड़ रुपये से बढ़कर अप्रैल-अक्‍टूबर 2014 के दौरान 2,85,126 करोड़ रुपये के स्‍तर को छू गया।
+OUTPUT: आँकhen ताके कर लें (Provisional) लागे न्याय की लगाने में 2013 में अप्रैल-ऑक्टोबर 2013 में Rs.2,69,909 crore से उछाल दिया है और 2014 में अप्रैल-ऑक्टोबर 2014 में Rs.2,85,126 crore से उछाल दिया है.
+BLEU Score: 0.008071364532479952
+Average BLEU Score: 0.0998007948431013
+
+ENGLISH: The Special Court has granted anticipatory bail to P Chidambaram and his son Karti Chidambaram in both ED and CBI cases in Aircel-Maxis matter.
+HINDI: स्पेशल कोर्ट ने ईडी और सीबीआई के मामले में पी. चिदंबरम और कार्ति चिदंबरम को अग्रिम जमानत दे दी है।
+OUTPUT: पी. चिदंबरम और उसके सon कार्ती चिदंबरम के सPECIAL Court ने एक्सपेक्टिव बेहाल देखरे देखरे के सम्बन्ध में Aircel-Maxis माтер के लिए ED और CBI के सम्बन्ध में चिदंबरम ए और उसके सोन का एक समय सुरक्षा के लिए देखरे देखरे का एक समय सुरक्षा के लिए दे
+BLEU Score: 0.058609033660640374
+Average BLEU Score: 0.09934813812681052
+
+ENGLISH: Watch PM Modi's speech for more information.
+HINDI: जानें पीएम मोदी के भाषण की बड़ी बातें.
+OUTPUT: देखें PM मोदी का भाषण के साथ अधिक जानकारी.
+BLEU Score: 0.02984745896009824
+Average BLEU Score: 0.09859269596195495
+
+ENGLISH: Jaitley, however, refused to hazard a guess on how much the GST would help in boosting GDP growth.
+HINDI: जेटली ने हालांकि यह कहने से मना कर दिया कि सकल घरेलू उत्पाद विकास (जीडीपी) दर को बढ़ावा देने में जीएसटी कितना कारगर साबित होगा।
+OUTPUT: जायतली, उनके पास GST का खर्च करना नहीं कर पाया, GDP का उपलब्ध करने की क्षमता के बारे में कभी अनुमान नहीं कर सका.
+BLEU Score: 0.008301095462822575
+Average BLEU Score: 0.0976218185372331
+
+ENGLISH: Forgive me, Ma.
+HINDI: मम्मी मुझे माफ कर देना, मम्मी।
+OUTPUT: माँ मज़बूत करो.
+BLEU Score: 0
+Average BLEU Score: 0.09658328855279445
+
+ENGLISH: Jarasandh ka akhara is a primarily a battlefield
+HINDI: जरासन्धा का अखाड़ा मुख्य रूप से एक युद्धभूमि है।
+OUTPUT: जरासंध का अखारा है एक प्रIMARY बत्तल फ़ल्क से ।
+BLEU Score: 0.02777619034011792
+Average BLEU Score: 0.0958590033084505
+
+ENGLISH: COVID-19 cases rise in Pakistan, Iran, US
+HINDI: पाकिस्‍तान, ईरान, स्‍पेन और अमरीका में कोविड-19 के मामलों में बढ़ोतरी
+OUTPUT: कोविड-19 मामले पहले पाकिस्तान, इरान, US में उठ सकते हैं
+BLEU Score: 0.0221625475730487
+Average BLEU Score: 0.09509133189454005
+
+ENGLISH: Although there were difficulties to overcome, Pauls willingness to preach where he was directed resulted in many joyful blessings.
+HINDI: ग्रेजुएट क्लास के सदस्य, मिशनरी सेवा की तैयारी में पाँच महीने का बाइबल अध्ययन और प्रशिक्षण खत्म कर चुके थे ।
+OUTPUT: थोथ करने से पहले पाउल का इरादा था कि वह प्रेच करें जहां वह निर्देश पाए, उसमें से मानो मनाहार सुख की उम्मेदात थी.
+BLEU Score: 0.00956240657444202
+Average BLEU Score: 0.09420959039639472
+
+ENGLISH: That is a cause for great worry.
+HINDI: यह बड़ी चिंता का एक कारण है।
+OUTPUT: उसका महत्वाकांक है.
+BLEU Score: 0
+Average BLEU Score: 0.0932482680454111
+
+ENGLISH: Could it be a cause for stumbling others?
+HINDI: कहीं यह दूसरों के “ठोकर खाने ” की वजह तो नहीं बन जाएगा?
+OUTPUT: क्या है उदारता की कारण लगाने के समय में किसी के साथ मुकेश?
+BLEU Score: 0.017502413882486995
+Average BLEU Score: 0.09248315840740177
+
+ENGLISH: PM Modi's advice
+HINDI: पीएम मोदी ने दिया ये सुझाव
+OUTPUT: पीएम मोदी का संविधान
+BLEU Score: 0.10305224267080783
+Average BLEU Score: 0.09258884925003583
+
+ENGLISH: They hit Bhandari with hockey sticks and rods and he sustained head injury.
+HINDI: उन्हें भंडारी को हाकी स्टिक और छड़ों से मारा, उसे सिर में चोट लगी है।
+OUTPUT: वे भंडारी के साथ हँकेबाज़ और रोड़ें उतारे और उसके संन्यास में हेड इंजरी हुई।
+BLEU Score: 0.016273889955107996
+Average BLEU Score: 0.09183325559365041
+
+ENGLISH: The prizes to the winning teams were given by the chief guest.
+HINDI: मुख्यातिथि द्वारा विजेता टीमों को पुरस्कार दिए गए।
+OUTPUT: मानक से जीतneams के लिए पुरस्कार देने की क्रिया कर चुका था.
+BLEU Score: 0.01553712569276035
+Average BLEU Score: 0.09108525432011229
+
+ENGLISH: Each year, millions of microprocessors are built and used into toys, appliances and vehicles.
+HINDI: प्रत्येक साल लाखों माइक्रोप्रोसेसरों का निर्माण व उपयोग खिलौनों, उपकरणों और वाहनों में किया जाता है।
+OUTPUT: एक साल में क्रमांक मिले और उन्हें खाली से संयंत्र बनाया जाता है खाली से संयंत्र बनाया जाता है खाली से संयंत्र बनाया जाता है.
+BLEU Score: 0.010275474580767148
+Average BLEU Score: 0.09030069335176913
+
+ENGLISH: Government hospitals in Delhi, including those run by the Centre, the city government or civic bodies employ about 20,000 nurses.
+HINDI: ” दिल्ली में केंद्र, दिल्ली सरकार और नगर निकायों द्वारा संचालित सरकारी अस्पतालों में करीब 20,000 नर्सें कार्यरत हैं.
+OUTPUT: देल्ही सरकार अस्पतालों में सरकार द्वारा चाहेता है 20,000 नर्सिंग अधिकारियon.
+BLEU Score: 0.022393028921480054
+Average BLEU Score: 0.08964773503993942
+
+ENGLISH: Am I an active participant in the study?
+HINDI: ‘ क्या मैं अध्ययन में जोश के साथ हिस्सा लेता हूँ?
+OUTPUT: मैं इस सौदा में क्रांतिकारी भी हूँ?
+BLEU Score: 0.0423682412589593
+Average BLEU Score: 0.08919745414678723
+
+ENGLISH: Following section 80PA shall be inserted after section 80P by the Finance Act, 2018, w.e.f. 1-4-2019 :
+HINDI: वित्त अधिनियम, 2018 द्वारा 1.4.2019 से धारा 80त के पश्चात् धारा 80तक अंतःस्थापित की जाएगीः
+OUTPUT: सection 80PA के साथ नए सection 80P का पाठ लिया जायेगा, 2018 के Finance Act से, 1-4-2019 तक का अनुसार करेंगे.
+BLEU Score: 0.019900763312868126
+Average BLEU Score: 0.08854371178042951
+
+ENGLISH: They do everything...
+HINDI: उन्होंने वह सब कुछ किया है जो क .
+OUTPUT: उनकी से हर चीज़ करते हैं...
+BLEU Score: 0
+Average BLEU Score: 0.08771620045537877
+
+ENGLISH: This was stated by the Union Minister of Agriculture and Farmers Welfare Shri Radha Mohan Singh while addressing a gathering at North Zone Regional Farmers Fair-2018 in Varanasi
+HINDI: माननीय केन्द्रीय कृषि एवं किसान कल्याण मंत्री श्री राधा मोहन सिंह ने दिनांक 23 फरवरी 2018 को वाराणसी में आयोजित उत्तर क्षेत्रीय किसान मेला -2018 में किसानों को सम्बोधित किया।
+OUTPUT: इसे अधिकार के संस्थान में देखा गया था, जहां उत्तर क्षेत्रीय किसान महोत्सव-2018 में वाराणसी में सभ्यता का सम्मेलन किया गया.
+BLEU Score: 0.039791617478097244
+Average BLEU Score: 0.08727245431670025
+
+ENGLISH: We have never favoured corruption.
+HINDI: "उन्होंने कहा, ""हमने भ्रष्टाचार को कतई बर्दाश्त नहीं किया है."
+OUTPUT: हमारा नहीं कर्राई प्रेरित करते थे.
+BLEU Score: 0.010859480700217564
+Average BLEU Score: 0.08657141786150316
+
+ENGLISH: Paytm refutes report on Chinas Ant Group considering stake sale
+HINDI: पेटीएम ने चीनी एंट समूह की हिस्सेदारी बिक्री की खबरों का खंडन किया
+OUTPUT: पेट्म का रिपोर्ट पर चीनी एंट ग्रुप का उत्कृष्ट बेचना से इस्तीफा दे रहा है
+BLEU Score: 0.030934588294313718
+Average BLEU Score: 0.08606562850180142
+
+ENGLISH: West Bengal BJP womens wing leader arrested in connection with child trafficking racket: Roopa Ganguly and Kailash Vijayvargiya have also been mentioned in the case.
+HINDI: भाजपा नेता जूही बाल तस्करी के आरोप में गिरफ्तार, कैलाश विजयवर्गीय और रुपा गांगुली का नाम भी मामले से जुड़ा
+OUTPUT: पश्चिम बंगाल बीजेपी महिला विंग के नेता की गिरफ्त से बच्चे का नक्रावास का संबंध: रूपा गणगुली और कैलाश विजायवर्गिया के नाम में केस में में मention किया गया है.
+BLEU Score: 0.009812163258584559
+Average BLEU Score: 0.08537866034645712
+
+ENGLISH: The footage doesnt show a great deal more than what weve already seen in leaked photos and renders we still cant tell whether the phone is using a new form of ultra-thin glass from Samsung.
+HINDI: फुटेज में हालांकि पहले से ही देखी जा चुकीं तस्वीरों से ज्यादा कुछ नहीं है लेकिन हम अभी भी यह नहीं बता सकते कि फोन सैमसंग के अल्ट्रा-थिन ग्लास की नई फॉर्म यूज कर रहा है या नहीं।
+OUTPUT: इस फootage नहीं देखा जाता है क्या हमारे सामने की बाढ़ की और छपे में देखा गया है कि मोबाइल नए प्रकार के उत्तम धारणा से सamsung से उपलब्ध है।
+BLEU Score: 0.008283969733745658
+Average BLEU Score: 0.08469031489455792
+
+ENGLISH: Ranote is a village in the Thathri tehsil of Doda district in the union territory of Jammu and Kashmir, India.
+HINDI: ठाठरी (Thathri) भारत के जम्मू और कश्मीर राज्य के डोडा ज़िले में स्थित एक नगर है।
+OUTPUT: रानोते हा गाव ठेका तहसिल थाथरी जिला दोदा जिला  union territory जम्मु और कश्मीर, भारत में था.
+BLEU Score: 0.02560744480557418
+Average BLEU Score: 0.08416745763713329
+
+ENGLISH: Also a transparent, stable and investor friendly business environment and an enhanced cooperation between Chambers of Commerce and financial sectors of the two countries would also be covered under the pact.
+HINDI: समझौते के दायरे में एक पारदर्शी, स्थिर और निवेशक अनुकूल कारोबारी माहौल और दोनों देशों के उद्योग मंडल और वित्तीय क्षेत्रों के बीच बेहतर सहयोग भी लाया गया है।
+OUTPUT: इसे स्पष्ट, सुधार्‍म्‍सढ़ां और निवेशक उत्‍साह के साथ संपर्क का भाग भी देखा जायेगा.
+BLEU Score: 0.0136352834976593
+Average BLEU Score: 0.08354875435520807
+
+ENGLISH: In the first phase, a list has been drawn up comprising big time defaulters who are mostly the big farmers and haven't repaid even a single loan installment, he added.
+HINDI: उन्होंने कहा कि पहले चरण में उन बड़े डिफाल्टरों की सूची बनाई है जो बड़े किसान हैं और कर्ज की कोई भी किश्त नहीं लौटाई।
+OUTPUT: इसमें पहले सौदा में समूह बनाया गया है जिसे बढाई समय के बड़े दागर और नहीं पाए सिर्फ़ एक लोन संस्करण के समावेश के साथ, वह ने कहा कि इसके अलावा कोई और लोन संस्करण नहीं कर पाया है.
+BLEU Score: 0.01387195318363841
+Average BLEU Score: 0.08294286912762922
+
+ENGLISH: A triangular process which is situated lateral to the occiputal bone.
+HINDI: एक त्रिकोणीय प्रक्रिया जो ऑसिप्युचल हड्डी के पार्श्व में स्थित है।
+OUTPUT: त्रिकोणीय प्रक्रिया जिसे लेवल तौर पर ओक्सीपुल बाण में स्थित है.
+BLEU Score: 0.05094110796339642
+Average BLEU Score: 0.08266699187621342
+
+ENGLISH: I love playing tennis.
+HINDI: मुझे टेनिस देखने का शौक है।
+OUTPUT: मैं टेनिस के खेल पसंद करता हूँ.
+BLEU Score: 0.02777619034011792
+Average BLEU Score: 0.08219783972633225
+
+ENGLISH: Swaralipi (Bengali: ) is any system used in sheet music in order to represent aurally perceived music through the use of written notes for Indian classical music.
+HINDI: स्वरलिपि भारतीय शास्त्रीय संगीत को लिखित रूप में निरूपित करने के लिए प्रयुक्त प्रणाली है।
+OUTPUT: स्वरालिपि (Bengali: ) है कि भारतीय संगीत में उपयोग की जाती है, जहां लेखित नोटेज से संगीत का सुन्याता रूप ले लिया जाता है.
+BLEU Score: 0.009498525867740094
+Average BLEU Score: 0.08158174384617468
+
+ENGLISH: There were two other youths with them, who were not from here.
+HINDI: उनके साथ दो और युवक भी थे, जो वहां से नहीं थे।
+OUTPUT: उनके साथ दो Other युवा थे, जिन्हें यहां से नहीं थे.
+BLEU Score: 0.11302127100918531
+Average BLEU Score: 0.08184594155342688
+
+ENGLISH: Railway Minister Suresh Prabhu has ordered a probe into the accident.
+HINDI: रेल मंत्री सुरेश प्रभु ने दुर्घटना की जांच के आदेश दिये हैं. प्रभु ने ट्वीट किया, ‘‘इस दुर्घटना के बाद राहत कार्य संचालित किए जा रहे हैं. मेडिकल और अन्य मदद पहुंचाई गई है. जांच के आदेश दिए गए हैं.’’
+OUTPUT: रेलवे मंत्री सुरेश प्रभु ने अाइस्केंड की जांच की आयी.
+BLEU Score: 0.009163801705346999
+Average BLEU Score: 0.08124025705469287
+
+ENGLISH: Many present - day Witnesses of Jehovah have suffered such great persecution and hardship that they have been near death.
+HINDI: यहोवा के अनेक आधुनिक - दिन गवाहों ने ऐसी बड़ी सताहट और कष्ट सहे हैं जिसमें वे मृत्यु के जोखिम में थे ।
+OUTPUT: सभ्यता के समय में जेहवा के सामने आने वाले सदस्य ने उसके सामने में सोचा है कि उन्हें अपने जीवन के अंदर से सुरक्षा की उम्मेदवार हैं.
+BLEU Score: 0.010043468297595231
+Average BLEU Score: 0.0806518538418243
+
+ENGLISH: He suffered amputation of a toe in the accident.
+HINDI: उसे दुर्घटना में एक पंजे की हानि उठानी पड़ी।
+OUTPUT: उसने एक नाक का अंतरिक्ष में एक समास की हतान की.
+BLEU Score: 0.03986357128268015
+Average BLEU Score: 0.08031752365691329
+
+ENGLISH: Shaheen shared the photograph as a story on her Instagram account.
+HINDI: सुहाना ने अपनी ये फोटो अपनी इंस्‍टाग्राम स्‍टोरी पर शेयर की है.
+OUTPUT: शाहीन ने उन्हें एक संवाद के साथ इस्तेमाल किया.
+BLEU Score: 0.01859351593152887
+Average BLEU Score: 0.07981570245589391
+
+ENGLISH: "He was the youngest child to achieve the record."""
+HINDI: वह यह रिकॉर्ड अपने नाम करने वाला सबसे छोटा बच्चा है''.
+OUTPUT: उसका सबसे छोटा बच्चा रécord प्राप्त कराया."
+BLEU Score: 0.0864638926009796
+Average BLEU Score: 0.07986931689254782
+
+ENGLISH: For example main tomb was completed in 1643, but less buildings were frequently build.
+HINDI: उदाहरणतः मुख्य मकबरा 1643 में पूर्ण हुआ था & #44. किंतु शेष समूह इमारतें बनती रहीं।
+OUTPUT: मुख्य तम्ब का पूर्व स्थान 1643 में पूरा किया गया, लेकिन कम से कम बिल्डिंग्स थे आफी समय में construction किया गया.
+BLEU Score: 0.019900763312868126
+Average BLEU Score: 0.07938956846391039
+
+ENGLISH: User Interface
+HINDI: उपयोगकर्ता इंटरफेस
+OUTPUT: ऑर्गानी इंटरफेस
+BLEU Score: 0.1495348781221221
+Average BLEU Score: 0.0799462772707216
+
+ENGLISH: At the top of the board area, choose the numbers and arithmetic operators that give the specified result. You can deselect a number or operator by clicking on it again.
+HINDI: बोर्डपर, विशिष्ट जवाब आने के लिये बीजगणितीय चिन्ह और संख्या चुने. इस संख्या के उपर दोबारा क्लीक कर के आप इसे हटा सकते है.
+OUTPUT: पेश करें चर्चा ठीक से करें समानांतर नंबर और अर्थ में देखें । चुनें चर्चा के पटे में समानांतर नंबर और अर्थ के लिए विभाग का चुनाव करें । इसे दुबारा करें अथ उसे दुबारा करें ।
+BLEU Score: 0.007087648989046159
+Average BLEU Score: 0.07937258728425171
+
+ENGLISH: ( See bound volume) [ Pictures on page 16, 17]
+HINDI: [ पेज 16, 17 पर तसवीर]
+OUTPUT: दृश्य उच्चेशन में ( पृष्ठ 16, 17 में चित्रें)
+BLEU Score: 0.09329460218997072
+Average BLEU Score: 0.07948135302570264
+
+ENGLISH: National Policy on Resettlement & Rehabilitation
+HINDI: राष्ट्री य पुनःस्था & पना और पुनर्वास नीति
+OUTPUT: राष्ट्रीय नीति पर रास्तांतरण एवं सुधारना
+BLEU Score: 0.02925226826055808
+Average BLEU Score: 0.07909198027558524
+
+ENGLISH: However, some do not concur with this view.
+HINDI: हालांकि, कुछ लोग इस बात से इत्तेफ़ाक नहीं रखते.
+OUTPUT: हtheless, some do not agree with this view.
+BLEU Score: 0.022710171642664416
+Average BLEU Score: 0.078658274055332
+
+ENGLISH: The City Beautiful
+HINDI: नगर की सुंदरता
+OUTPUT: स्ट्री सुनियों के स्थान
+BLEU Score: 0
+Average BLEU Score: 0.07805782921521497
+
+ENGLISH: So for example, in Seattle, where I live, when in 2014 we passed our nation's first 15 dollar minimum wage, the neoliberals freaked out over their precious equilibrium.
+HINDI: उदाहरण के लिए, सिएटल में, जहां मैं रहता हूं, जब 2014 में हमने अपने देश का पहला न्यूनतम वेतन 15 डॉलर पारित किया, तो नवउदारवादी अपने अमूल्य संतुलन पर उत्तेजित हो गए।
+OUTPUT: सो, उधार में मैं रहता हूँ, 2014 में हमारे देश का पहला 15 डालर मांगी मिनिमुम वाग्दान का पार किया गया, नेोलिबेरल्स ने उनके प्रिय एक्वाल्यम्प पर हार करना पड़ा.
+BLEU Score: 0.04465541607614766
+Average BLEU Score: 0.0778047806308281
+
+ENGLISH: Deserves promotion
+HINDI: पदोन्नति पाने योग्य
+OUTPUT: कर्मचारी प्रौद्योग करें
+BLEU Score: 0
+Average BLEU Score: 0.07721978228022036
+
+ENGLISH: PM: This is a national-level disaster.
+HINDI: यह राष्ट्रीय स्तर की आपदा है।
+OUTPUT: प्रधानमंत्री: इसका राष्ट्रीय स्तर का नाश है।
+BLEU Score: 0.06500593260343691
+Average BLEU Score: 0.07712863414830408
+
+ENGLISH: Catalonia had some industry, but Castile remained the political and cultural center, and was not interested in promoting industry.
+HINDI: टाल्सटाय भी राज्य और व्यक्तिगत संपत्ति का विरोधी था, परंतु वह हिंसात्मक तथा क्रांतिकारी मार्ग का पोषक नहीं वरन् ईसाई और अंहिसात्मक तरीकों का समर्थक था।
+OUTPUT: काटलonia में कुछ उद्योग थे, लेकिन कास्तिल में राजनीति और संस्कृतिक केन्द्र थे, और उधार नहीं करते थे उद्योग की प्रोत्साहन.
+BLEU Score: 0.009876041910810221
+Average BLEU Score: 0.07663046679839672
+
+ENGLISH: This is provided by the BJP.
+HINDI: इस सेवा की सामग्रियां भाजपा मुहैया कराती है।
+OUTPUT: इसका प्रदान करता है BJP.
+BLEU Score: 0
+Average BLEU Score: 0.07606700748370263
+
+ENGLISH: Besides, certificates to all the participants will also be given.
+HINDI: साथ ही साथ सभी प्रतिभागियों को ऑनलाइन सर्टिफिकेट भी उपलब्ध कराया जाएगा।
+OUTPUT: संपादन के साथ, सभी भारतीयों को भी प्रतिज्ञा दी जाएगी.
+BLEU Score: 0.024088562704853513
+Average BLEU Score: 0.07568760277728767
+
+ENGLISH: _Dual (Even pages left)
+HINDI: दोहरा (सम पृष्ठ छोड़ा दिया)
+OUTPUT: द्विल (Dwil)
+BLEU Score: 0.045131921809482646
+Average BLEU Score: 0.07546618479926011
+
+ENGLISH: His father wasn't on the set.
+HINDI: उसके पिता उसके साथ नहीं थे |
+OUTPUT: उसके पिता सेत नहीं था.
+BLEU Score: 0.0808764862779457
+Average BLEU Score: 0.07550510783148087
+
+ENGLISH: When quizzed had Mahendra Singh Dhoni been the captain of the current Indian side then the situation would have been quite different, Gilchrist said that the issue about who should lead India had ended a long time ago.
+HINDI: गिलक्रिस्ट से जब पूछा गया कि अगर इस मैच में महेंद्र सिंह धोनी भारतीय टीम के कप्तान होते तो हालात अलग होते?
+OUTPUT: महेंद्र सिंह धोनी थे भारतीय साधन के कप्तान थे तो सтуаATION का अलग-अलग हो सकता है, गिलचर्स्ट ने कहा कि भारत में कप्तान की याद थी अलग-अलग समय पहले ही समय पहले ही समय पहले ही समय पहले ही समय पहले ही समय पहले ही समय पहले ही समय पहले ही समय पहले ही
+BLEU Score: 0.0239652533986352
+Average BLEU Score: 0.0751369660141034
+
+ENGLISH: The two-day long preparatory meeting of the Shanghai Cooperation Organization Joint Exercise on Urban Earthquake Search & Rescue- 2019 began here today
+HINDI: """""""शंघाई सहयोग संगठन शहरी भूकंप खोज और बचाव-2019 पर संयुक्त अभ्यास"""" की प्रारंभिक बैठक नई दिल्ली में आज शुरू हुई"""
+OUTPUT: दुनिया के सांच में शANGHAI कॉर्पोरेशन ऑर्गानाइजेशन की दो दिन का प्रारंभ संख्या में शहर से भरोसा की उत्तराधिकार संसाधना 2019 की तैयारी शाम से शुरु की गई
+BLEU Score: 0.006446672494240213
+Average BLEU Score: 0.07464980081183487
+
+ENGLISH: Copy image address % s
+HINDI: छवि पता “% s” प्रतिलिपि करें
+OUTPUT: कpy image से कopy द्aw % s
+BLEU Score: 0.0605543865104477
+Average BLEU Score: 0.07455053733083919
+
+ENGLISH: So, what did he do?
+HINDI: खैर, यह तो बताएं उसने क्या किया?
+OUTPUT: उसने क्या करा?
+BLEU Score: 0.053871541262825985
+Average BLEU Score: 0.07440592896672721
+
+ENGLISH: We wronged them not, but they were the Zalimun (polytheists, wrong-doers, etc.).
+HINDI: और हमने उन पर कोई ज़ुल्म नहीं किया बल्कि वह लोग ख़ुद अपने ऊपर ज़ुल्म कर रहे हैं
+OUTPUT: हमने उन्हें नहीं ठेका, उन्हें जलिमुन थे (We did not wrong them, they were the Zalimun).
+BLEU Score: 0.010862721615727716
+Average BLEU Score: 0.07396465669345638
+
+ENGLISH: When progestin - only inserts are used, pregnancy possibly is prevented by abortive means.
+HINDI: जब मात्र - प्रोजेस्टिन निवेशों का प्रयोग किया जाता है, संभव है कि निषेचित डिम्ब के गर्भपात द्वारा गर्भ रोका जाता है ।
+OUTPUT: जब प्रोजेस्टिन - अलONE इंजेक्शन्स का 사용 किया जाता है, सौभाग्य का राशन द्वारा प्रेग्नेंसी से प्रतिर्रित करने का माध्यम उपयोगी कर सकता है.
+BLEU Score: 0.1137168193487524
+Average BLEU Score: 0.07423880953935498
+
+ENGLISH: On seeing a team of the Forest Department personnel, the smugglers fled from the spot carrying timber with them.
+HINDI: वन विभाग की टीम को आता देख खैर तस्कर लकड़ी से भरे कैंटर को मौके पर छोड़कर फरार हो गए।
+OUTPUT: जंगल विभाग के टीम द्वारा देखे जाने पर चौकाने वाले समुदायें उसे संपूर्ण उपलब्ध हो गaye, उन्हें उपलब्ध कार्य करने के साथ उसे उत्पाद करना चाहते थे.
+BLEU Score: 0.009152541620698935
+Average BLEU Score: 0.07379301318374774
+
+ENGLISH: "This government is a government of common masses and thus we have decided to abolish the VIP culture of beacon lights and sirens,"" he said."
+HINDI: मंत्री ने कहा कि यह सरकार आम लोगों की सरकार है इसलिए उसने लाल-बत्ती और सायरन की वीआईपी संस्कृति समाप्त करने का फैसला किया है।
+OUTPUT: सरकार इस समस्या से संबंधित समाज का संस्थान है और इसलिए हमने विप संस्थान के साथ चरम पर सफल क्रम का निर्माण करना चाहते हैं।"
+BLEU Score: 0.010864991539917157
+Average BLEU Score: 0.07336493140385773
+
+ENGLISH: Submerged - Arc Welded (SAW) Pipes: -
+HINDI: निमज्जित आर्क वेल्ड पाइप:-
+OUTPUT: नितर्ण सांझ स्वेप (Nitran Sajh Swap)
+BLEU Score: 0
+Average BLEU Score: 0.07286922240788572
+
+ENGLISH: I remember discussing my dress code with my sister Rangoli when I first thought of turning director, and when I actually took over the reins, I dont recall what I pulled out of the cupboard or what shoes I wore.
+HINDI: मुझे याद है कि जब मैंने पहली बार डायरेक्‍टर बनने के बारे में सोचा तो मैं अपनी बहन रंगोली से ड्रेस कोड के बारे में चर्चा करती थी और जब मैं इस फील्‍ड में आ गई तो मुझे याद भी नहीं कि मैंने क्‍या कपड़े पहने, कौन सा जूता पहना।
+OUTPUT: मैं रंगोली से मेरा ध्यान रखते हुए मेरा ड्रेस कोड चर्चा करते थे, और जब मैं ने अपने संन्यास की हालत में संन्यास की, तब मैं क्या चाबी निकाला था या क्या चausses मेरे झुर्रे पहने थे.
+BLEU Score: 0.029214727989184803
+Average BLEU Score: 0.0725762392238676
+
+ENGLISH: That too on...
+HINDI: ये भी पड़े .
+OUTPUT: उसके साथ ।
+BLEU Score: 0
+Average BLEU Score: 0.07209239762904182
+
+ENGLISH: People participated in it in large numbers.
+HINDI: इसमें लोगों ने बढ़-चढ़ कर हिस्सा लिया.
+OUTPUT: लोगों ने इसमें बड़ी संख्या में 参加 किया.
+BLEU Score: 0.06030725360407769
+Average BLEU Score: 10.87416689796035
+
+ENGLISH: Following these allegations, Mumbai Police have decided to appoint a team of financial forensic experts to ascertain if any dubious transactions had taken place.
+HINDI: इन आरोपों के बाद मुंबई पुलिस ने यह पता लगाने के लिए फाइनेंशियल फोरेंसिक एक्सपर्ट्स की एक टीम नियुक्त करने का फैसला किया है।
+OUTPUT: मुम्बई पोलीस ने अपने अंतर्गत करार के साथ एक फांसी फर्नेसिक टीम का नियामक किया है कि किसी भी अवैध परिवेश हुआ था।
+BLEU Score: 0.012410963317921997
+Average BLEU Score: 5.443288930639136
+
+ENGLISH: But the data show something different.
+HINDI: लेकिन आंकड़े कुछ और ही बयां कर रहे हैं।
+OUTPUT: लेखा में संख्या का अलग ख़याल है.
+BLEU Score: 0
+Average BLEU Score: 3.6288592870927574
+
+ENGLISH: Yet, there is constant pressure on you to lose your clean standing with God.
+HINDI: फिर भी, परमेश्‍वर के साथ अपनी विशुद्ध स्थिति खो देने के लिए आप पर सतत दबाव है ।
+OUTPUT: अब तक, आपके सामने का संतोष कम नहीं है, और आपके साथ संतोष कम नहीं है.
+BLEU Score: 0.01340082578177889
+Average BLEU Score: 2.724994671765013
+
+ENGLISH: Every one knew him.
+HINDI: वहां उसे सब जानने वाले थे।
+OUTPUT: सभी ने उन्हें जाना था.
+BLEU Score: 0
+Average BLEU Score: 2.1799957374120105
+
+ENGLISH: India beat England by...
+HINDI: इंग्लैंड के खिलाफ भारत ने दर्ज की शानदार जीत, प्रशंसकों ने बांधे .
+OUTPUT: इंडिया ईंग्लैंड पर जाने के साथ किस साल में जीत प्राप्त कराया.
+BLEU Score: 0.01893405895135384
+Average BLEU Score: 1.819818791001901
+
+ENGLISH: He sustained injuries in the head during the scuffle.
+HINDI: पिटाई के दौरान उसके सिर में चोट आ गई।
+OUTPUT: उसने हेड में छानबीन हाथ लगाए.
+BLEU Score: 0.024822529802838878
+Average BLEU Score: 1.5633907536877492
+
+ENGLISH: Facebook CEO Mark Zuckerberg had started a website called FaceMash during his time at Harvard.
+HINDI: फेसबुक विकसित करने से पहले हार्वर्ड यूनिवर्सिटी में पढ़ाई करते हुए मार्क जुकरबर्ग ने ‘फेसमैश’ नाम की वेबसाइट शुरू की थी।
+OUTPUT: फेसबुक CEO मार्क जुकर्बेख ने हार्वार्द के समय में किया था एक साइट का नाम FaceMash.
+BLEU Score: 0.012085511779959531
+Average BLEU Score: 1.3694775984492755
+
+ENGLISH: Ministry of Drinking Water & Sanitation
+HINDI: कौशल विकास एवं उद्यमिता मंत्रालय
+OUTPUT: जल विभाग
+BLEU Score: 0
+Average BLEU Score: 1.2173134208438006
+
+ENGLISH: The case will be heard on February 12
+HINDI: इस मामले की अगली सुनवाई 12 अप्रैल को होगी।
+OUTPUT: 12 फरवरी के समय में सुनवाई की जायगी
+BLEU Score: 0.03226013518927287
+Average BLEU Score: 1.0988080922783476
+
+ENGLISH: "The company stated that they have ""determined that only a very small percentage of gears in vehicles built during this period were manufactured improperly."""
+HINDI: कंपनी ने कहा है कि इस अवधि के दौरान बनाए गए वाहनों में गियर का केवल बहुत ही छोटा प्रतिशत अनुचित तरीके से निर्मित किया गया था।
+OUTPUT: कंपनी ने कहा कि वे एक  very small percentage of gears in vehicles built during this period were manufactured improperly के लिए एक small percentage of gears in vehicles built during this period were manufactured improperly कहा गया हैं.
+BLEU Score: 0.027196801514995272
+Average BLEU Score: 1.0013888840271337
+
+ENGLISH: Air marshal Anil Khosla takes over as Director General Air Operations
+HINDI: एयर मार्शल अनिल खोसला ने एयर ऑपरेशन्स में महानिदेशक का पदभार संभाला
+OUTPUT: वाir मार्शल अनिल खोसल ने दीकांक से डायरेक्टर  Générál ऑपरेशन का नए पद प्राप्त किया
+BLEU Score: 0.033241378434410024
+Average BLEU Score: 0.9207099252277401
+
+ENGLISH: In the case of disk failure, redundancy of data has some disk arrays which provides fault tolerance through which all or part of the data stored in the array can be recovered.
+HINDI: डिस्क त्रुटि के समय, आँकड़ा अतिरेकता में कुछ डिस्क सरणियां होती हैं, जो त्रुटि सहन सीमा उपलब्ध कराती हैं, जिसके माध्यम से सरणी में संग्रहित सारा डाटा वापस लिया जा सकता है।
+OUTPUT: अगर डिस्क की गति हो तो, डेटा की  redundancy के साथ कुछ डिस्क अरे जहाज हैं जहाज के लिए फालत संबंधी ता है जहाज में स्थानीय समावेश की ता है जहाज में स्थानीय समावेश की ता है जहाज में स्थानीय समावेश की ता है जहाज में स्थानीय समावेश की ता है.
+BLEU Score: 0.010329222874429908
+Average BLEU Score: 0.8506806404313316
+
+ENGLISH: Robert Rubin, co-chairman of Goldman Sachs serves as treasury secretary under Clinton, and when he leaves he becomes chairman
+HINDI: रॉबर्ट रुबिन, क्लिंटन के तहत, और वह छोड़ देता है जब वह अध्यक्ष बन जाता है गोल्डमैन सैक्स की सह अध्यक्ष राजकोष सचिव के रूप में कार्य करता है एनएफ की जॉन Corzine, नई जर्सी के गवर्नर, सिर ग्लोबल...
+OUTPUT: रॉबर्ट रुबिन को गोल्डमान सैक्स के साथ-साथ चाIR बनाता है, और उसके अंतरिम समय में वह चेयरमेन बन जाता है।
+BLEU Score: 0.013021282907502303
+Average BLEU Score: 0.7908478291796295
+
+ENGLISH: Cabinet Secretary, Secretary Home Affairs, Secretary External Affairs, Secretary Defence , Secretary Health and Family Welfare, Secretary Civil Aviation and several other top officials attended the meeting.
+HINDI: कैबिनेट सचिव (Cabinet Secretary), गृह सचिव, विदेश मामलों के सचिव, रक्षा सचिव, स्वास्थ्य और परिवार कल्याण सचिव, नागरिक उड्डयन मंत्रालय में सचिव और अन्य कई प्रमुख अधिकारियों ने इस बैठक में हिस्सा लिया.
+OUTPUT: कैबिनेट सecretary, सेक्रेटारी हाउस अफेयर्स, सेक्रेटारी ऑसियेंट अफेयर्स, सेक्रेटारी देफेंस, सेक्रेटारी सिलेंस एवं सेक्रेटारी ओफ एवं काँ साँस और काँ साँस और काँ साँस और काँ साँस और काँ साँस और काँ साँस
+BLEU Score: 0.007316627729209994
+Average BLEU Score: 0.7386124157496016
+
+ENGLISH: The Jammu and Kashmir Reorganisation Bill was passed in Rajya Sabha
+HINDI: सदन में पास हुआ जम्मू कश्मीर पुनर्गठन बिल
+OUTPUT: जम्मू और कश्मीर के राज्य का राज्य सभा में पास कराया गया था बिल
+BLEU Score: 0.03798229226827674
+Average BLEU Score: 0.6948230330320188
+
+ENGLISH: By saying something surprising about your hope, you may be able to get people to express their view.
+HINDI: क्या आप भी ऐसा होते देखना चाहते हैं? ”
+OUTPUT: कहना सुरprise अपने प्रेरणा, आपको लोगों का विचार कराना में सकता है.
+BLEU Score: 0
+Average BLEU Score: 0.6539510899124883
+
+ENGLISH: There were in all 14 members.
+HINDI: इसमें 14 सदस्य थे.
+OUTPUT: उन्हें से सभ 14 सदस्य थे.
+BLEU Score: 0.41113361690051975
+Average BLEU Score: 0.6404612303007122
+
+ENGLISH: Three judges in the sessions court had heard the case.
+HINDI: मामले में सुप्रीम कोर्ट में तीन जजों की बेंच ने सुनवाई की।
+OUTPUT: तीन जज सessions कourt में सुने थे समाया.
+BLEU Score: 0.02043370997308395
+Average BLEU Score: 0.6078282029150476
+
+ENGLISH: But, we want to do it in a way that the snow on Kilimanjaro does not disappear, the glacier that feeds the River Ganges does not retreat and our islands are not doomed.
+HINDI: लेकिन यह काम हम इस तरीके से करना चाहते हैं कि किलिमंजारो की बर्फ न पिघले, गंगा का पोषण करने वाले हिमनद न खिसकें और हमारे टापू न डूबें।
+OUTPUT: किलिमानजरों का स्नो우 नहीं 消失 होता, गंगा जल की ऊर्जा नहीं चले जाता और उन्नत्त अंडा हमारे समुदायों को नहीं ख़ारिज करता.
+BLEU Score: 0.017152164326621384
+Average BLEU Score: 0.5782944009856262
+
+ENGLISH: Two persons were killed in separate road accidents in the district.
+HINDI: जिले में हुए अलग-अलग सड़क हादसों में दो व्यक्तियों की मौत हो गई।
+OUTPUT: दुसरे लोग राज्य में अपने सम्मान के साथ दस्तावेज़ से सांस हार सuffered कर दिया गया.
+BLEU Score: 0.011502783619900045
+Average BLEU Score: 0.5513043239682107
+
+ENGLISH: """They had the human space capability, which we did not have, but once we have a successful Gaganyaan project by 2022, we will be equal to them in all aspects,"" Sivan said."
+HINDI: शिवन ने कहा, 'उनके पास मानव-अंतरिक्ष अभियान की क्षमता थी, लेकिन हमारे पास यह क्षमता नहीं थी लेकिन 2022 तक गगनयान परियोजना के सफल होने के बाद हम सभी लिहाज से एक-दूसरे के बराबर होंगे।
+OUTPUT: इसे हमारी क्षमता थी, जब तक कि हम सौ गागानान प्रोजेक्ट को 2022 के समय पर सफलतापूर्वक करें, तब हम उन्हें सम्मान की समझ में आएंगे.
+BLEU Score: 0.03199185823258922
+Average BLEU Score: 0.5276992118893188
+
+ENGLISH: On the other...
+HINDI: वहीं, दूसरे .
+OUTPUT: अन्याय पर...
+BLEU Score: 0
+Average BLEU Score: 0.504755767894131
+
+ENGLISH: Cows are respected like mothers.
+HINDI: गायों को माता की तरह सम्मान दिया जाता है ।
+OUTPUT: कों पिता या माँ माना जाता है.
+BLEU Score: 0.04574636154673318
+Average BLEU Score: 0.4856303759629894
+
+ENGLISH: There was no immediate claim of responsibility for the blasts but a market, bus station and stadium in the city of Gombe, the capital of Gombe state, have all in recent months been targeted by bomb and suicide attacks.
+HINDI: फिलहाल किसी ने इन विस्फोटों की जिम्मेदारी नहीं ली है लेकिन गोम्बे शहर में एक बाजार, बस अड्डे और स्टेडियम को हालिया महीनों में निशाना बनाकर वहां विस्फोट और आत्मघाती हमले किए गए हैं।
+OUTPUT: संख्या से अलग से बॉम से संरक्षण के साथ गोम्बे समास में आगामी क्लास की तैयारी कर रहे हैं।
+BLEU Score: 0.006203611270809164
+Average BLEU Score: 0.4664533053753022
+
+ENGLISH: The Government's decision has several gains for farmers, traders, labourers, who are the economic backbone of our nation.
+HINDI: सरकार के निर्णय से किसान, व्‍यापारियों, मजदूरों के लिए कई फायदे हैं, जो हमारे राष्‍ट्र की अर्थव्‍यवस्‍था की रीढ़ हैं।
+OUTPUT: सarkार का निर्णय फर्मर्स, ट्रेडर्स और लाभार्थीओं के लिए नाम का प्रभाव है।
+BLEU Score: 0.018887059924361526
+Average BLEU Score: 0.4492392190118045
+
+ENGLISH: Step 3: A PDF will be opened on the screen.
+HINDI: चरण 3: आपकी स्क्रीन पर एक पीडीएफ खुल जाएगा।
+OUTPUT: उपाधा 3: एक PDF संकET की ओर खड़ा होगा.
+BLEU Score: 0.04411629359322707
+Average BLEU Score: 0.43423466621852386
+
+ENGLISH: Australia announce 17-man squad
+HINDI: ऑस्ट्रेलिया ने एशेज के लिए घोषित की 17 सदस्यीय टेस्ट टीम
+OUTPUT: ऑस्ट्रेलिया ने 17-मन सQUAD का उज्ज्वला किया
+BLEU Score: 0.039447492477737316
+Average BLEU Score: 0.42013512429921007
+
+ENGLISH: Good Reading Habit
+HINDI: पढ़ने की अच्छी आदतें
+OUTPUT: अच्छे पढ़ाना धारणा
+BLEU Score: 0
+Average BLEU Score: 0.40564770621992696
+
+ENGLISH: The incident had caused nationwide outrage after its video had gone viral.
+HINDI: इस घटना का वीडियो वायरल होने के बाद पूरे देश में काफ़ी बवाल हुआ था.
+OUTPUT: संदर्भ का एक देशभर से लेकर संशय करना था । वीडियो का वायरल हो गया था ।
+BLEU Score: 0.01626739260030573
+Average BLEU Score: 0.3926683624326062
+
+ENGLISH: In such situations, counselling is one of the best ways to deal with them.
+HINDI: ऐसी स्थितियों में परामर्श सर्वोत्तम तरीकों में से एक है।
+OUTPUT: ऐसे में कौनसी है, कौनसा विचार करें उन्हें देखा है ।
+BLEU Score: 0.017033186037639283
+Average BLEU Score: 0.3805510986779299
+
+ENGLISH: Investigations in the case have begun.
+HINDI: मामले को लेकर आरोप-प्रत्यारोप शुरू हो गए हैं।
+OUTPUT: मामला की खारिज शुरू कर दी गई हैं.
+BLEU Score: 0.023980296761827107
+Average BLEU Score: 0.3694082611180517
+
+ENGLISH: On the issue of compressed biogas, the minister said that CGD network being set up in over 400 districts will give a big fillip to it, and already 300 letter of intents have been signed with entrepreneurs for setting up CBG plants.
+HINDI: कंप्रेस्ड बॉयोगैस के मुद्दे पर मंत्री ने कहा कि 400 से अधिक जिलों में स्थापित किया जा रहा सीजीडी नेटवर्क इसे काफी प्रोत्साहन देगा और सीबीजी संयंत्रों की स्थापना के लिए उद्यमियों के साथ पहले ही 300 से अधिक आशय पत्रों पर हस्ताक्षर किए जा चुके हैं।
+OUTPUT: इस समसामयिक मामले में मंिंिसर ने कहा कि सीजीडी नेटवर्क के साथ 400 से अधिक जिलाएं पर स्थापित की जाएगी, और तब तक 300 लेटर ऑफ इंत सigned हुए हैं उम्मेदवारों के साथ सीबीजी प्लांट्स की स्थापना करने की योजना की रखा
+BLEU Score: 0.04988046850531109
+Average BLEU Score: 0.3597256007358474
+
+ENGLISH: A Delhi court today sent former Finance Minister P Chidambaram for custodial interrogation by the Enforcement Directorate till October 24th in the INX Media money laundering case.
+HINDI: दिल्ली की एक अदालत ने आईएनएक्स मीडिया धनशोधन मामले में प्रवर्तन निदेशालय को पूर्व वित्त मंत्री पी चिदंबरम से 24 अक्तूबर तक हिरासत में पूछताछ की अनुमति दे दी है।
+OUTPUT: दिल्ली की तहाना अदालत आज प्रांख फ़िनान्स मिनिस्टर पी. चिदंबरम को एनएक्स मीडिया का मONEY लाUNDERING कास में कुलदीप से संपर्क कराने के साथ 24 अक्टोबर तक के संकेत से संपर्क कराने के साथ 24 अक्टोबर तक के संकेत से संपर्क कराने के साथ इस केस म
+BLEU Score: 0.012388559502462976
+Average BLEU Score: 0.3495098054054538
+
+ENGLISH: "Then they will cry to Yahweh, but he will not answer them. Yes, he will hide his face from them at that time, because they made their deeds evil."""
+HINDI: वे उस समय यहोवा की दोहाई देंगे, परन्तु वह उनकी न सुनेगा, वरन उस समय वह उनके बुरे कामों के कारण उन से मुंह फेल लेगा।।
+OUTPUT: उन्हें तो प्रार्थना करें यह्वे क्योंकि वे अपने काम बAD करते हैं।
+BLEU Score: 0.0044898990925144695
+Average BLEU Score: 0.3396520937965126
+
+ENGLISH: Mohammad Shami has the ball in his hand.
+HINDI: मोहम्मद शमी के हाथों में गेंदबाजी सौंपी गई है
+OUTPUT: मोहम्मद शामी का हाथ में बल है.
+BLEU Score: 0.03226013518927287
+Average BLEU Score: 0.33111342827964485
+
+ENGLISH: India squad: Virat Kohli (captain), MS Dhoni, Shikhar Dhawan, Murali Vijay, Lokesh Rahul, Cheteshwar Pujara, Ajinkya Rahane, Rohit Sharma, Suresh Raina, Wriddhiman Saha, Naman Ojha, Ravichandran Ashwin, Karn Sharma, Ravindra Jadeja, Bhuvneshwar Kumar, Mohammad Shami, Ishant Sharma, Umesh Yadav, Varun Aaron
+HINDI: भारत : महेंद्र सिंह धौनी (कप्तान), रोहित शर्मा, शिखर धवन, अंजिक्य रहाणे, विराट कोहली, सुरेश रैना, अंबाती रायडू, संजू सैमसन, रवींद्र जडेजा, रविचंद्रन अश्विन, स्टुअर्ट बिन्नी, धवल कुलकर्णी, भुवनेश्वर कुमार, मोहम्मद समी, कर्ण शर्मा, मोहित शर्मा, उमेश यादव।
+OUTPUT: भारत सQUAD: विरात कोहली (कप्तान), म्स धोनी, शिखर धवन, मुरली विजय, लोकेश राहुल, चेतेश्वर पुजार, अजिंक्या राहेणे, रोहित शर्मा, सुरेश रायना, व्रीद्धिमन साहा, नमन उ
+BLEU Score: 0.13383371848099188
+Average BLEU Score: 0.3257815442310326
+
+ENGLISH: IN ONE way or another, all of us resemble our parents.
+HINDI: किसी - न - किसी तरह हम सब अपने माता - पिता के जैसे होते हैं ।
+OUTPUT: हमारे माता-पिता से क्या अंतर नहीं है, उन्हें कभी भी अपने माँ-पिता के साथ सम्बंध नहीं करना चाहिए.
+BLEU Score: 0.011451997463067555
+Average BLEU Score: 0.31750971405292827
+
+ENGLISH: NO - SCALPEL VASECTOMY No - Scalpel Vasectomy NSV is one of the most effective contraceptive methods available for males.
+HINDI: बिना चीरे के नसबंदी पुरूषों के लिए सबसे प्रभावशाली गर्भनिरोधक उपायों में शुमार है।
+OUTPUT: नो - स्काल्पल वासेक्टोमी No - Scalpel Vasectomy NSV है मालेज के सबसे उत्तम कन्त्राक्त तत्व के लिए उपलब्ध हैं.
+BLEU Score: 0.02297185935845028
+Average BLEU Score: 0.3099574613684545
+
+ENGLISH: A sensory organ present as a pore in the posterior part of certain worms.
+HINDI: एक संवेदी अंग जो विभिन्न कृमियों के पश्चवर्ती भाग में रन्ध्र के रूप में विद्यमान होता है.
+OUTPUT: एक संस्कृति अंग जिसका पोर में पश्चिम भाग में कुछ नematodes में शामल है.
+BLEU Score: 0.03722520852859804
+Average BLEU Score: 0.3031391550474581
+
+ENGLISH: capital of Cuba
+HINDI: हवाना
+OUTPUT: काबल ऑफ क्युबा
+BLEU Score: 0
+Average BLEU Score: 0.2957455171194713
+
+ENGLISH: I wanted to tell them about the hope of Paradise and the resurrection, but they did not understand my language.
+HINDI: उनमें से एक लड़का अँग्रेज़ी के कुछ शब्द जानता था ।
+OUTPUT: मैं उन्हें परदेश और उधारण की आशा कहना चाहता था, लेकिन उन्हें मेरा भाषा समझ नहीं आया.
+BLEU Score: 0.010182425646195498
+Average BLEU Score: 0.28894639589391713
+
+ENGLISH: It offers term loans to renewable energy projects at rates slightly more favorable than general commercial lending rates.
+HINDI: यह नवीकरणीय ऊर्जा परियोजनाओं के लिए सामान्‍य व्‍यावसायिक ऋण दरों से कुछ अधिक लाभकारी दरों पर लोन प्रदान करता है ।
+OUTPUT: यह रेनवेबल एनर्जी परोजेक्ट्स के लिए टर्म लोन्स देता है, जिसे  generalk कमेरियल लेंडिंग राते से सlightly उच्च है.
+BLEU Score: 0.024289783953423513
+Average BLEU Score: 0.2827915909650684
+
+ENGLISH: "My sons! Go and try to find out about Joseph and his brother and do not despair of Allah's mercy. Verily only the unbelievers despair of Allah's mercy."""
+HINDI: ऐ मेरी फरज़न्द (एक बार फिर मिस्र) जाओ और यूसुफ और उसके भाई को (जिस तरह बने) ढूँढ के ले आओ और ख़ुदा की रहमत से ना उम्मीद न हो क्योंकि ख़ुदा की रहमत से काफिर लोगो के सिवा और कोई ना उम्मीद नहीं हुआ करता
+OUTPUT: मेरे बेटे! आप चाहें तो जाँगे जोसेफ़ और उसके भाई की जानकारी के साथ नहीं उतारें उनकी अलlah की मौजood के साथ नहीं उतारें उनकी अलlah की मौजood के साथ नहीं उतारें उनकी अलlah की मौजood के साथ नहीं उतारें उनकी अलlah की मौजood
+BLEU Score: 0.023143514978409278
+Average BLEU Score: 0.276890498329008
+
+ENGLISH: The terrible battle took place between Karna and Arjun involving various different arms and weapons, which beat even the Deva - Asura war.
+HINDI: कर्ण और अर्जुन में भाँति-भाँति के अस्त्र-शस्त्रों से युक्त महाभयानक युद्ध हुआ जो देवासुर-संग्राम को भी मात करने वाला था।
+OUTPUT: कर्णा और अर्जुन का ख़तरनाक लड़ाई हुई, जिसे देव-असुर का लड़ाई से ज़्यादा उत्तर रखा.
+BLEU Score: 0.022565401296922416
+Average BLEU Score: 0.27123882950607275
+
+ENGLISH: Sh Pradhan briefed his Russian counterpart on the issues related to Mineral Extraction Tax being contemplated by the Russian government and its effects on Indian investments.
+HINDI: श्री प्रधान ने रूसी मंत्री को रूस सरकार द्वारा अपेक्षित खनिज निष्‍कर्षण कर और भारतीय निवेशों पर पड़ने वाले उसके प्रभाव की जानकारी दी।
+OUTPUT: श्री प्रधान ने रसियां के संयुक्त counterpart से मिनरल एक्सट्रक्शन टैक्स की समस्याओं के संबंध में समझाया, जहां यह राज्य के निर्यात पर राष्ट्रीय निर्यात की प्रभाव पड़ती है.
+BLEU Score: 0.03550467708240432
+Average BLEU Score: 0.2661141740186017
+
+ENGLISH: Nitin Patel taking oath as deputy chief minister of Gujarat.
+HINDI: नितिन पटेल ने गुजरात के उपमुख्यमंत्री पद के रूप में शपथ ली
+OUTPUT: नितिन पATEल का चief minister के साथी पद का शाबान अर्थ.
+BLEU Score: 0.022416933501922302
+Average BLEU Score: 0.26092912634803406
+
+ENGLISH: Here H by S refers to the head developed per stage, where H is the total head developed by the pump and S is the number of stages.
+HINDI: यहाँ प्रति चरण विकसित हैड को संदर्भित करता है, जहाँ H पंप द्वारा विकसित कुल हैड है और S चरणों की संख्या है।
+OUTPUT: जहां H द्वारा S समझ कर रहा है, जहां H है समान पंक्ति में पम्प के साथ कुल हेड विकास किया गया है, और S समझ कर रहा है समान पंक्ति में पम्प के साथ कुल हेड विकास किया गया है.
+BLEU Score: 0.014886459693587576
+Average BLEU Score: 0.25580323745939976
+
+ENGLISH: But they help.
+HINDI: लेकिन उनकी मदद कीजिए।
+OUTPUT: लोग काम करते हैं.
+BLEU Score: 0
+Average BLEU Score: 0.2505827632255344
+
+ENGLISH: Power generation during the 2015-16 (April-November, 2015) is 739.915 BU showing a growth rate of 4.55% over the previous year same period.
+HINDI: वर्ष 2015-16 (अप्रैल-नवंबर, 2015) के दौरान के 739.915 बीयू विद्युत उत्‍पादन हुआ है, जो में पिछले वर्ष की इसी अवधि की तुलना में हुए उत्‍पादन से 4.55 प्रतिशत वृद्धि दर दर्शाता है।
+OUTPUT: पावर जन्ता 2015-16 के अप्रैल-नवंबर में 739.915 BU था, वर्तमान साल की गिरजांस 4.55% की ओर देखा गया था.
+BLEU Score: 0.007963152237939303
+Average BLEU Score: 0.24573037100578254
+
+ENGLISH: As for those who dispute about God after having answered His call, their argument is invalid with their Lord. and upon them falls wrath. and a grievous torment awaits them.
+HINDI: और उसी की तरफ लौट कर जाना है और जो लोग उसके मान लिए जाने के बाद ख़ुदा के बारे में (ख्वाहमख्वाह) झगड़ा करते हैं उनके परवरदिगार के नज़दीक उनकी दलील लग़ो बातिल है और उन पर (ख़ुदा का) ग़ज़ब और उनके लिए सख्त अज़ाब है
+OUTPUT: उनके सामने अपने लड़के का कृत हमेशा नहीं होता है, उन्हें अपने सामने का कार्य नहीं करता, उन्हें अपने सामने के निशान नहीं देता, उन्हें अपने सामने का नाश नहीं देता.
+BLEU Score: 0.004893122307177828
+Average BLEU Score: 0.24100807201169228
+
+ENGLISH: The Asian Development Bank (ADB) and the Government of lndia today signed a $346 million loan to finance improvement of over 400 kilometers of state highways that will enhance connectivity and access to economic centers across 12 districts in Kamataka.
+HINDI: भारत सरकार और एशियाई विकास बैंक के बीच मध्य प्रदेश में सिंचाई की कार्यदक्षता सुधारने के लिये 375 मिलियन डॉलर के कर्ज के समझौते पर हस्ताक्षर हो गये हैं ताकि सिंचाई के नेटवर्क का विस्तार कर और कार्यकुशलता बढ़ाकर कृषि आय को दोगुना किया जा सके
+OUTPUT: दक्षिण अзія संर्क्षण बанक (ADB) और इंडिया सरकार के साथ कामताकां में $346 मिलियन दलन लोन को संपर्क कर दिया गया है, जिसमें 400 किलोमीटर से अधिक राज्य मार्गों की सुधार की जाएगी, जिससे कामताकां के 12 जिलों में अर्थव्यापार के
+BLEU Score: 0.007108486297836999
+Average BLEU Score: 0.2365100030556566
+
+ENGLISH: All major Hindu festivals are celebrated in this temple.
+HINDI: यहाँ पर हिन्दू धर्म के मुख्य त्यौहार मनाये जाते है ।
+OUTPUT: सभ्यता से हर महत्वाकांक हिन्दू उत्सव का उत्साह करता है इस मन्दिर में.
+BLEU Score: 0.0169861974906263
+Average BLEU Score: 0.23236804446008996
+
+ENGLISH: Deriving its lineage fromCheriyal village near Warangal,Telangana, the costumes and settings provide an authentic glimpse of the rich culture of Telangana
+HINDI: वो दिल्ली के पटपड़गंज, मयूर विहार, गाज़ियाबाद, इन्द्रापुरम, वैशाली और नोएडा के लोगों को भली भांति पता है
+OUTPUT: देरिंग अस्तित्व से चेरियल विलास near Warangal, तेलंगाना, संस्कृति और स्थल द्वारा एक सच्चे दर्शन देखा जाता है संज्ञानी संस्कृति के लिए
+BLEU Score: 0.011833064662823948
+Average BLEU Score: 0.22828406335273319
+
+ENGLISH: Ministry of Finance 99 MSMEs to gain by Tax Incentives provided in General Budget 2018-19 Government to Forego Rs 7,000 Crores due to this incentive The Union Minister for Finance and Corporate Affairs, Shri Arun Jaitley has proposed a reduced rate of 25 to companies that have reported turnover up to Rs 250 crores in financial year 2016-17.
+HINDI: वित्त मंत्रालय आम बजट 2018-19 में कर-राहत से 99 प्रतिशत छोटे उद्यमों को फायदा होगा कर-राहत से सरकार को 7000 करोड़ रुपये की राजस्व-हानि केन्द्रीय वित्त एवं कॉरपोरेट मामलों के मंत्री श्री अरुण जेटली ने उन कंपनियों के लिए 25 प्रतिशत के घटे हुए दर का प्रस्ताव किया है, जिनका वित्त वर्ष 2016-17 के दौरान टर्नओवर 250 करोड़ रुपए तक है।
+OUTPUT: मिनिस्ट्री ऑफ फ़िनेंस 99 MSMEs को लाभ होगा द्वारा एक्सचेंज प्रदान किया गया बजाये सरकार 7,000 करोड़ रुपये का उत्साह करेगी The Union Minister for Finance and Corporate Affairs, Shri Arun Jaitley ने प्रस्ताव किया कि 25 प्रतिशत
+BLEU Score: 0.011689761696528609
+Average BLEU Score: 0.2243459851408022
+
+ENGLISH: George and I became good friends, and we were married in April 1960.
+HINDI: हम दोनों अच्छे दोस्त बन गए और फिर अप्रैल 1960 में हमने शादी कर ली ।
+OUTPUT: जॉर्ज और मैं ने अच्छे फ्रेंड्स बनाए और अप्रैल 1960 में विवाह किया गया.
+BLEU Score: 0.0695362172133984
+Average BLEU Score: 0.2215815249992414
+
+ENGLISH: INITIATION OF MOBILE APP FOR FARMERS:
+HINDI: किसानों के लिए मोबाइल एप की शुरुआत:
+OUTPUT: फ़रमर्स के मोबाइल ऐप की शुरुआत
+BLEU Score: 0.07356556000975763
+Average BLEU Score: 0.21898475368363643
+
+ENGLISH: Apart from these, several important projects have been taken up in the Delhi NCR areas around Haryana
+HINDI: इनके अलावा हरियाणा के आसपास दिल्ली एनसीआर क्षेत्रों में कई अहम परियोजनाएं शुरू की गई हैं
+OUTPUT: आपarte से ये अन्य 重要 परियों का लेना है दिल्ली NCR के साथ हरियाणा के साथ कई 重要 कार्य की गई हैं
+BLEU Score: 0.05880962777751932
+Average BLEU Score: 0.21622311358180682
+
+ENGLISH: One of the noted trekking routes of the region lies between Raison and Manali, which is situated just 26 km away
+HINDI: मनाली से रायसन मार्ग पर ट्रैकिंग का लुत्‍फ उठाया जा सकता है जो रायसन से 26 किमी
+OUTPUT: राइसन और मनाली का एक नामांकित चलान रास्ता है, जो 26 किलोमीटर दista
+BLEU Score: 0.017239238102071234
+Average BLEU Score: 0.21285050552282825
+
+ENGLISH: Microsofts India-born Chief Executive Officer Satya Nadella.
+HINDI: माइक्रोसॉफ्ट के भारतीय मूल के मुख्य कार्यकारी सत्य नडेला ने यह बात कही।
+OUTPUT: मिक्रोफ्रोफ़ का भारत निर्माता सत्या नदेला.
+BLEU Score: 0
+Average BLEU Score: 0.2093029970974478
+
+ENGLISH: On the occasion of Eid-ul-Azha,I extend my greetings and good wishes to all fellow citizens and,in particular,to my Muslim brothers and sisters, Mukherjee said.
+HINDI: उन्होंने कहा, ''ईद के मौके पर सभी देशवासियों विशेषकर हमारे मुस्लिम भाइयों और बहनों को बधाई और शुभकामनाएं.
+OUTPUT: ईद-ुल-अज्जा पर उपलब्ध हैं मेरे द्वारा सभी नामो के सम्मानियों के साथ अपने साथ उपलब्ध हैं, मुखर्जी ने कहा.
+BLEU Score: 0.014296145628396562
+Average BLEU Score: 0.2061061634668076
+
+ENGLISH: The visit was in preparation to the upcoming visit of Honble Prime Minister Shri Narendra Modi to Vladivostok where on the invitation of Russian President Vladimir Putin, he will participate in the 5th Eastern Economic Forum as the Chief Guest.
+HINDI: प्रधानमंत्री नरेन्‍द्र मोदी रूसी राष्ट्रपति व्लादीमीर पुतिन के निमंत्रण पर मुख्य अतिथि के रूप में 5 वें पूर्वी आर्थिक मंच में भाग लेंगे।
+OUTPUT: प्रेजिडेंस विजित थे व्लादिवस्तोक में हंबल प्राइम मिनिस्टर श्री नरेन्द्र मोदी का आनंद लें, जहां रूसी राष्ट्रपति वładímir Putin ने उन्हें अपने अंतर्गत के संबंध में आशा की हैं.
+BLEU Score: 0.016789125215525624
+Average BLEU Score: 0.20305266284985143
+
+ENGLISH: Happy Dhanteras!
+HINDI: शुभ धनतेरस !
+OUTPUT: खुश धन्तेरस!
+BLEU Score: 0.11362193664674995
+Average BLEU Score: 0.20163312751329426
+
+ENGLISH: in new and enlightening ways.
+HINDI: से समझने में मदद करता है।
+OUTPUT: नए और ऐतिहासिक तरीक़े से निर्माता हैं.
+BLEU Score: 0.02777619034011792
+Average BLEU Score: 0.1989166128699634
+
+ENGLISH: They shall not control intercession, save he who has made a covenant with the Beneficent Allah.
+HINDI: उन्हें सिफ़ारिश का अधिकार प्राप्त न होगा। सिवाय उसके, जिसने रहमान के यहाँ से अनुमोदन प्राप्त कर लिया हो
+OUTPUT: वे नहीं निर्वान करें इच्छासाँ, उसे कभी न करें जो दिनांक अल्लाह के सेवक हैं.
+BLEU Score: 0.012689457668763376
+Average BLEU Score: 0.19605157971302187
+
+ENGLISH: The plant is spread out in 536 acres.
+HINDI: ये प्लांट 536 एकड़ में फैला होगा।
+OUTPUT: पौधा 536 एक किलोमeters पर फैला हुआ है.
+BLEU Score: 0.028517539529041507
+Average BLEU Score: 0.19351318516477972
+
+ENGLISH: Users can find out how many people have subscribed to their feeds and with what service/program they subscribed.
+HINDI: उपयोगकर्ता यह पता लगा सकते हैं कि कितने लोग उनके फीड्स के सदस्य हैं और कौन-सी सेवा/प्रोग्राम को सब्सक्राइब्ड करते हैं।
+OUTPUT: उ用र्स कर सकते हैं कि उनके फीड्स पर कितने लोगों ने सुब्सक्राइब किया है और क्या सेवा/प्रोग्राम में उन्हें सुब्सक्राइब किया गया है.
+BLEU Score: 0.05538696232597745
+Average BLEU Score: 0.19145159974927523
+
+ENGLISH: I will not hesitate to admit that we have been good friends for a long time.
+HINDI: ठाकरे ने कहा, ‘‘मुझे यह स्वीकार करने में कोई संकोच नहीं होगा कि हम लंबे समय से अच्छे मित्र हैं।
+OUTPUT: मैं उनके साथ सुधार्‍मिक फ्रेंड्स थे कठोर समय से.
+BLEU Score: 0.012163737473833695
+Average BLEU Score: 0.18881501353934227
+
+ENGLISH: Prime Minister, Shri Narendra Modi, has written to the Prime Minister of Japan, Mr. Shinzo Abe, condemning the killing of Japanese citizens by the ISIS.
+HINDI: प्रधानमंत्री श्री नरेन्द्र मोदी ने जापान के प्रधानमंत्री श्री शिंजो आबे को पत्र लिखकर आईएस द्वारा जापानी नागरिकों की हत्‍या किए जाने की भर्त्‍सना की है।
+OUTPUT: प्रधानमंत्री, श्री नरेन्द्र मोदी, जापान के प्रधानमंत्री, Mr. Shinzo Abe को कहा है, ISIS ने जापानी citoyens के हत्यारे के बाद की है.
+BLEU Score: 0.06505218374091319
+Average BLEU Score: 0.18702134933936504
+
+ENGLISH: I should have acted more quickly than I did.
+HINDI: “ मुझे ज़्यादा जल्दी कार्य करना चाहिए था ।
+OUTPUT: मैं समय पहले था क्या कर सकता था
+BLEU Score: 0.024512401940754224
+Average BLEU Score: 0.1846997929479563
+
+ENGLISH: "It gives an opportunity to a new player."""
+HINDI: इससे नए खिलाड़ी को मौका मिलेगा।
+OUTPUT: नए खिलाड़ी को एक अवसर देता है।
+BLEU Score: 0.16348126556655487
+Average BLEU Score: 0.1844009404496267
+
+ENGLISH: This project which is to be inaugurated was sanctioned by the Ministry of Tourism in February 2016 for Rs.99.21 Crores
+HINDI: पर्यटन मंत्रालय ने फरवरी 2016 में 99.21 करोड़ रु. की लागत की इस परियोजना को मंजूरी दी थी
+OUTPUT: इस परियोजना को उधारण करने की क्षमता 20 फरवरी 2016 में मंत्रिमंडल के साथ 99.21 करोड़ रुपये का समman किया गया था
+BLEU Score: 0.08461633959345022
+Average BLEU Score: 0.18301504321551315
+
+ENGLISH: In its chargesheet filed before a special court in New Delhi, the NIA named four JeM terrorists who were involved in the Pulwama attack conspiracy.
+HINDI: यहां की एक विशेष अदालत के समक्ष दायर याचिका में एनआईए ने जेईएम के चार आतंकवादियों के नाम लिए जो पुलवामा हमले की साजिश में शामिल थे।
+OUTPUT: नIA ने न्यू डेली की विशेष समीदान में पुलवामा की सचिवालय की सचिवालय की सचिवालय के साथ एक साथ चार जेएम terre तerrorists की जांच में शामिल किये गए हैं, जिन्हें पुलवामा की सचिवालय की सचिवालय की सचिवालय के साथ एक साथ चार जेएम terre तerrorists की जांच में शामिल किये
+BLEU Score: 0.011657633846595293
+Average BLEU Score: 0.1806676814433362
+
+ENGLISH: THE GROUND'S MAIN ATTRACTION IS IN THE CENTRE AREA WHICH IS CALLED AS PITCH .IN BOTH SIDES OF PITCH THERE ARE WICKETS
+HINDI: मुख्य आकर्षण मैदान के विशेष रूप से तैयार किए गए क्षेत्र में होता है (आमतौर पर केन्द्र में) जो पिच कहलाता है. पिच के दोनों और विकेट लगाए जाते हैं।
+OUTPUT: खेला के मुख्य आत्मा ध्युन्दा केन्द्र एक स्थल के नाम से पिच में है। पिच के दोनों सides में विकेट्स हैं
+BLEU Score: 0.03449612988879278
+Average BLEU Score: 0.17869239020611263
+
+ENGLISH: Heres a recent example.
+HINDI: इसका एक उदाहरण हाल ही में देखा गया है।
+OUTPUT: यहां का 最近 उदाहरण है.
+BLEU Score: 0.024761510494160165
+Average BLEU Score: 0.17663997847661994
+
+ENGLISH: There is a situation of fear in area after the incident.
+HINDI: घटना के बाद क्षेत्र में दहशत का माहौल बना हुआ है।
+OUTPUT: सामने में एक संकट है, जहां एक भयानक स्थिति है।
+BLEU Score: 0.022416933501922302
+Average BLEU Score: 0.1746107278848476
+
+ENGLISH: In the social novel Prem Ki Bhent Gift of love he portrays the tragedy of a young widow.
+HINDI: एक अन्य सामाजिक उपन्यास 'प्रेम की भेंट' में वर्मा जी एक बाल-विधवा की त्रासदी से परिचित कराते हैं।
+OUTPUT: प्रेम की भेंट गेफ़्ट ऑफ लव में सामाजिक नवीन प्रकाशित करता है युवा वाइद की त्राडेजी का दर्शन.
+BLEU Score: 0.05685765640252835
+Average BLEU Score: 0.17308146721624604
+
+ENGLISH: It stands at 60.73% today
+HINDI: यह आज 60.73 प्रतिशत है।
+OUTPUT: इसे 60.73% के साथ है आज
+BLEU Score: 0.039281465090051315
+Average BLEU Score: 0.17136608257360253
+
+ENGLISH: I will not harm her by forcing a mission upon her that she does not consent to.
+HINDI: मैं ज़बरन इसे ऐसे मिशन पर नहीं डाल सकता जिसके लिए यह रज़ामंद न हो।
+OUTPUT: मैं उसे संघर्ष के साथ संघर्ष करने से भी नहीं करूँगी, जहां वह संघर्ष के साथ नहीं सहमति करती हैं.
+BLEU Score: 0.010331208012220438
+Average BLEU Score: 0.16932766643991412
+
+ENGLISH: ERGO Group is one of the largest German insurance companies.
+HINDI: प्युमा कंपनी एक प्रमुख जर्मन बहुराष्ट्रीय कंपनी है।
+OUTPUT: एर्गो ग्रुप हैं देश के सामझानी से एक सबसे बड़ा निशान हिंदुस्तान का एक सबसे बड़ा निशान हैं.
+BLEU Score: 0.010182425646195498
+Average BLEU Score: 0.16733835092999266
+
+ENGLISH: Watch this video to find out.
+HINDI: इन्हें जानने के लिए देखें ये वीडियो।
+OUTPUT: देखिये इस वीडियो के साथ.
+BLEU Score: 0.03455747170954952
+Average BLEU Score: 0.16569908081616003
+
+ENGLISH: Then We have made you follow a course in the affair, therefore follow it, and do not follow the low desires of those who do not know.
+HINDI: फिर हमने तुम्हें इस मामलें में एक खुले मार्ग (शरीअत) पर कर दिया। अतः तुम उसी पर चलो और उन लोगों की इच्छाओं का अनुपालन न करना जो जानते नहीं
+OUTPUT: तो हमने आपके संबंध में काम कराया, और उसे पursue करें और न कभी समझ नहीं करें उसके नीचे की छानबीनों का इलजाम करें।
+BLEU Score: 0.009313150330122724
+Average BLEU Score: 0.16379193532242786
+
+ENGLISH: BJP Received Rs 705 Crore, Congress Rs 198 Crore From Corporate Donors
+HINDI: भाजपा को 705 करोड़, कांग्रेस को 198 करोड़ रुपये का कॉर्पोरेट चंदा
+OUTPUT: बीजेपी को 705 करोड़ रुपये में दान प्राप्त हुआ, कंगनेस को 198 करोड़ रुपये में दान प्राप्त हुआ
+BLEU Score: 0.18951629567590741
+Average BLEU Score: 0.16410186737487942
+
+ENGLISH: The police have also seized the knife used in the crime.
+HINDI: पुलिस ने मौके से वारदात में इस्तेमाल हुआ चाकू भी बरामद कर लिया है.
+OUTPUT: पुलिस ने also की गई है गायक का पाला.
+BLEU Score: 0.03219290164685344
+Average BLEU Score: 0.16253152254478387
+
+ENGLISH: The meeting was presided over by Thakur Randhir Singh, president of the NCP.
+HINDI: बैठक की अध्यक्षता मंडलाध्यक्ष कृष्ण सिंह ठाकुर ने की।
+OUTPUT: मात्र कॉन्फ्रेंस की मीटिंग थकुर रान्धीर सिंह के अध्यक्ष के साथ चली गई.
+BLEU Score: 0.0169861974906263
+Average BLEU Score: 0.16081922460297024
+
+ENGLISH: Verily those who have purchased infidelity for belief shall not hurt Allah at all, and theirs shall be a torment afflictive.
+HINDI: बेशक जिन लोगों ने ईमान के एवज़ कुफ़्र ख़रीद किया वह हरगिज़ खुदा का कुछ भी नहीं बिगाड़ेंगे (बल्कि आप अपना) और उनके लिए दर्दनाक अज़ाब है
+OUTPUT: सURELY उसे जहाज़ के साथ उपाय करवाने वाले उम्मीद की ख़ाना नहीं देखा है, और उनके लिए होगा अपमान का हार ।
+BLEU Score: 0.03902903778912444
+Average BLEU Score: 0.15940305964001855
+
+ENGLISH: In most of the constituencies there is a straight fight between the Congress and the BJP.
+HINDI: इन अधिकांश वार्डों में भाजपा व कांग्रेस के बीच ही टक्कर भी मानी जा रही है।
+OUTPUT: कांग्रेस और बीजेपी के साथ की जीत है क्षेत्रीय संघ में.
+BLEU Score: 0.01606243474117787
+Average BLEU Score: 0.1577554662503767
+
+ENGLISH: Authentication error from% (service) s for account% (account) s
+HINDI: प्राधिकृत त्रुटि% (service) s से खाता% (account) s हेतु
+OUTPUT: प्रवेश ऐरेड समस्या से सेवी % (service) से खाता% (account) से परेशान
+BLEU Score: 0.42818185319516083
+Average BLEU Score: 0.16082849337474925
+
+ENGLISH: Swiss Start-up ecosystem is equally impressive.
+HINDI: स्विस स्टार्ट-अप इकोसिस्टम भी उतना ही प्रभावशाली है।
+OUTPUT: स्विस सター्ट-अप इकोसystem से समझ करें एक्वाल्य भी impressive है.
+BLEU Score: 0.022416933501922302
+Average BLEU Score: 0.15927330730876244
+
+ENGLISH: You can see this stress -- Masood Azhar designation as terrorists, the NSG (Nuclear Suppliers Group), I mean, I do not need to list all this.
+HINDI: आप यह तनाव देख सकते हैं, मसूद अजहर को आतंकवादी का दर्जा देना, एनएसजी :परमाणु आपूर्तिकर्ता समूह:, मेरा मतलब है कि मुझे यह सब गिनाने की जरूरत नहीं है।
+OUTPUT: आपका देखा जा सकता है इसे स्ट्रेस -- मasoद ऐजार नामक तerrorists, न्यूस सी जे (Nuclear Suppliers Group), मैं, मैं नहीं लिस्ट करना चाहता हूँ.
+BLEU Score: 0.00818849820927114
+Average BLEU Score: 0.15759458720765698
+
+ENGLISH: Similar conclusions were reached by Michael McElroy and Steven Wofsy at Harvard University.
+HINDI: इसी तरह के निष्कर्ष माइकल McElroy और स्टीवन Wofsy द्वारा हार्वर्ड विश्वविद्यालय में दिए गए।
+OUTPUT: मिचाल मेक्रिक और स्ティ्वेन्ट वॉफ्सी के साथ Harvard विश्वविद्यालय में  soort समान समान के साथ प्राप्त किए गए.
+BLEU Score: 0.02560744480557418
+Average BLEU Score: 0.15614417904939235
+
+ENGLISH: He has closed his eyes.
+HINDI: उसने आंखें बंद कर ली है।
+OUTPUT: उसने हाथ बनाया था.
+BLEU Score: 0.0439891724758422
+Average BLEU Score: 0.15492510289098418
+
+ENGLISH: """Treasury is targeting the private planes, yacht, and associated front companies of Yevgeniy Prigozhin, the Russian financier behind the Internet Research Agency and its attempts to subvert American democratic processes,"" US Treasury Secretary Steven Mnuchin said in a statement."
+HINDI: अमेरिकी वित्त मंत्री स्टीवन म्नूचिन एक बयान में कहा कि वित्त मंत्रालय इंटरनेट रिसर्च एजेंसी के लिए जिम्मेदार रूसी कारोबारी इवगेनी प्रिगोझिन के निजी विमानों, नौकाओं और कंपनियों तथा अमेरिकी लोकतांत्रिक प्रक्रिया को पलटने की साजिशों के लिए उन्हें निशाना बनाया है।
+OUTPUT: येव्गेनिय प्रिगफ़िन का प्रान्त लगाने के लिए ट्रेसरी का उत्तर कर रहा है, जहां उनके साथ प्रान्त, याच्ट और संघर्ष के संपादक संपर्क हैं.
+BLEU Score: 0.010262678347502956
+Average BLEU Score: 0.15336959294965644
+
+ENGLISH: Their language is Marathi.
+HINDI: इनकी भाषा संस्कृतनिष्ठ खड़ीबोली है।
+OUTPUT: वे भाषा मराठी हैं.
+BLEU Score: 0.05372849659117709
+Average BLEU Score: 0.15230958128626834
+
+ENGLISH: The college administration has been asked to identify the accused and give their details, the SSP added.
+HINDI: कॉलेज प्रशासन को आरोपियों की पहचान करने और उनका विवरण देने के लिए कहा गया है।
+OUTPUT: क Collège प्रांत ने आरोपी  identificati और अंतर्गत संस्करण देने की अनुरोध की गई है, SSP ने कहा.
+BLEU Score: 0.013618796864073041
+Average BLEU Score: 0.1508496782923505
+
+ENGLISH: They should make an effort to understand the childs family background and minimise disparity among the students of a class.
+HINDI: उन्हें बच्चों को पारिवारिक पृष्ठभूमि को समझने और कक्षा के विद्यार्थियों के बीच असमानता कम करने का प्रयास करना चाहिए।
+OUTPUT: उन्हें कids 家庭 背景 समझना चाहिए और कक्षा में students से संतान कम करना चाहिए.
+BLEU Score: 0.025474063272944283
+Average BLEU Score: 0.149543682302565
+
+ENGLISH: The Classic 150 offering will only be available in a black paint scheme
+HINDI: क्लासिक 150 को सिर्फ एक रंग में बेचा जाएगा।
+OUTPUT: क्लासिक 150 ऑज़रिंग के लिए केसार के लिए ही होंगे, एक साढ़े से काल पेंट स्CHEME में हाँ
+BLEU Score: 0.02560744480557418
+Average BLEU Score: 0.14826598913249295
+
+ENGLISH: The military says that up to 1,800 militants were killed in the offensive.
+HINDI: सेना के अनुसार इस लड़ाई में कुल 1800 तालिबानी लड़ाके मारे जा चुके हैं.
+OUTPUT: सैन्य से कहा कि अप्रैल से तक 1800 मिलिटेंट हमारे साथ संख्या में हत्या हुईं.
+BLEU Score: 0.01618861356572822
+Average BLEU Score: 0.14691826081038312
+
+ENGLISH: In this case, northeast India might take the opportunity to become independent.
+HINDI: इस मामले में पूर्वोत्तर भारत अवसर का इस्तेमाल आजाद होने के लिए कर सकता है.
+OUTPUT: इस मामले में नortheast इंडिया में अपनी सुरक्षा की संभावना दिखाई देगा.
+BLEU Score: 0.06560264840246194
+Average BLEU Score: 0.14609689098808087
+
+ENGLISH: Floods in Moradabad
+HINDI: मुरादाबाद में हड़कंप
+OUTPUT: मोरादाबाद में सीमा से सम्बंधित लहान
+BLEU Score: 0.040824829046386304
+Average BLEU Score: 0.14504417036866393
+
+ENGLISH: The police investigated the matter and arrested all accused.
+HINDI: पुलिस आरोपियों को गिरफ्तार कर पूरे मामले की जांच पड़ताल में जुटी है.
+OUTPUT: पOLICE ने मामला जाँच कराया और सभी घेरे गए.
+BLEU Score: 0.01414733290395472
+Average BLEU Score: 0.14374816207693414
+
+ENGLISH: The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, has approved providing financial support to the JCI, it has been decided to provide subsidy to Jute Corporation of India (JCI) on a continuous basis to off-set the losses on account of Minimum Support Price (MSP) operations by JCI.
+HINDI: भारतीय जूट निगम (जेसीआई) को वित्‍तीय मदद मुहैया कराने के लिए इस निगम को निरंतर सब्सिडी देने का निर्णय लिया गया है, ताकि उसके एमएसपी (न्‍यूनतम समर्थन मूल्‍य) परिचालन के कारण होने वाले नुकसान की भरपाई हो सके।
+OUTPUT: कैबिनेट कमmittee on आर्थik क्रियाओं का निर्देशालय, प्रधानमंत्री Shri Narendra Modi के पद पर समझा है, कि जस्ट कॉर्पोरेशन ऑफ इंडिया (JCI) के लिए और सुधार के लिए एक संतुष्टि प्रदान करना चाहिए, जिसे एक समय-सम
+BLEU Score: 0.01525533981505719
+Average BLEU Score: 0.1424884285253471
+
+ENGLISH: Sharing experiences in making polices, regulation and standards in planning, implementation and development of tourism policy
+HINDI: पर्यटन नीति की योजना, कार्यान्वयन और विकास के मद्देनजर नीति-निर्धारण, नियमन और मानकीकरण के संबंध में अनुभवों को साझा करना।
+OUTPUT: शेयर करना है पर्यटन पOLICY, रेज़ और स्टेंडर्ड्स के विकास में अनुभव के साथ तकनीकी विकास का निर्माता
+BLEU Score: 0.014143371354519225
+Average BLEU Score: 0.1412423600091255
+
+ENGLISH: The Conclave will provide an effective platform to showcase the recent policy initiatives by the Government of India and enable intensive discussion on the issues, challenges and opportunities in the mining sector to realize its optimum potential for the sustainable development of the country
+HINDI: संबंधित सम्‍मेलन भारत सरकार की हालिया नीतिगत पहलों को प्रदर्शित करने के लिए एक कारगर प्‍लेटफॉर्म उपलब्‍ध कराएगा और खनन क्षेत्र से जुड़े विभिन्‍न मुद्दों, चुनौतियों और अवसरों पर व्‍यापक परिचर्चाएं सुनिश्चित करेगा, ताकि सतत विकास के लिए इसकी इष्‍टतम संभावनाओं का उपयोग किया जा सके
+OUTPUT: संसद का पラसार का संविधान समारोह द्वारा संख्या से संख्या तक संकल्प का निर्वाण करेगा, जहां संसद का निर्वाण समाज के लिए संकल्प का निर्वाण करेगा, जहां संकल्प का निर्वाण समाज के लिए संकल्प का निर्वाण करेगा, जहां संकल्प का निर्वाण
+BLEU Score: 0.015492483943164657
+Average BLEU Score: 0.1400332265854143
+
+ENGLISH: President Kovind presents Padma Vibhushan to Dr Teejan Bai for Arts.
+HINDI: ' (कला क्षेत्र में योगदान के लिए राष्ट्रपति कोविंद ने डॉक्टर तीजन बाई को पद्म विभूषण से सम्मानित किया.
+OUTPUT: प्रेजिडेंट कोविंद द्र. तीजन बाई को पदमा विभुषण पुरस्कार देता है कला.
+BLEU Score: 0.050990202976183285
+Average BLEU Score: 0.13918519778913593
+
+ENGLISH: If your skin is oily then use soap-free cleaner.
+HINDI: अगर आपकी स्किन ऑयली है तो ऑयल-फ्री मॉइश्चराइजर का इस्तेमाल करें।
+OUTPUT: अगर आपके स्कीन ओयल है तो सॉप-फ्रे क्लीनर का उपयोग करें.
+BLEU Score: 0.0428361950754725
+Average BLEU Score: 0.13827624493334664
+
+ENGLISH: Now therefore take twelve men out of the tribes of Israel, for every tribe a man.
+HINDI: इसलिये अब इस्राएल के गात्रों में से बारह पुरूषों को चुन लो, वे एक एक गोत्रा में से एक पुरूष हो।
+OUTPUT: अब hora करें 12 मन इस्रेल  tribes से एक  tribe में एक मन चुनाव करें.
+BLEU Score: 0.02248078193461733
+Average BLEU Score: 0.13719404434457347
+
+ENGLISH: The woman filed the complaint at the Bajghera police station.
+HINDI: युवती ने बहादुरगढ़ के महिला थाने में इस संबंध में शिकायत दी है.
+OUTPUT: महिला ने बाजगेरा पुलिस स्टेशन में चुनाव की.
+BLEU Score: 0.019457849455649996
+Average BLEU Score: 0.13610389439189824
+
+ENGLISH: Another OTP will be sent to his/her mobile/email linked with Aadhaar.
+HINDI: एक और ओटीपी उसके मोबाइल/ईमेल को आधार से लिंक करके भेजा जाएगा।
+OUTPUT: एक और OTP की संभावना उनके मोबाइल/ईमेल से संलिंक कराएगी.
+BLEU Score: 0.04328649145305472
+Average BLEU Score: 0.13525235858511986
+
+ENGLISH: Israeli's unstable political landscape
+HINDI: इस्राएल में राजनैतिक गतिरोध क़ायम
+OUTPUT: इस्राइल का unstable राजनीतियाँ लैंडसका
+BLEU Score: 0
+Average BLEU Score: 0.1340227916888915
+
+ENGLISH: You see that couple?
+HINDI: आपने वह जोड़ा देखा?
+OUTPUT: तुम्हें कहाँ देखा है?
+BLEU Score: 0.06389431042462725
+Average BLEU Score: 0.13339100356939362
+
+ENGLISH: Everyone has their own path in life.
+HINDI: हर कोई अपनी जिन्दगी को अपने ढंग से जीता है।
+OUTPUT: each one has their own path in life.
+BLEU Score: 0
+Average BLEU Score: 0.13220001246609547
+
+ENGLISH: "The former Congress president took to Twitter as he posted a video and said, ""Further confirmation that BJP-RSS control Facebook in India."""
+HINDI: "पूर्व कांग्रेस अध्यक्ष ने ट्विटर पर एक वीडियो पोस्ट करते हुए और कहा, ""एक बार फिर साबित हो गया है कि भारत में फेसबुक भारतीय जनता पार्टी और राष्ट्रीय स्वयंसेवक संघ के नियंत्रण में है।"
+OUTPUT: फ़र्मर कांग्रेस प्रेजिडेंट तुक्रे चाँद पर उत्पादन करते हुए वीडियो उपलब्ध कराया, "further confirmation that BJP-RSS control Facebook in India."
+BLEU Score: 0.014449575139835526
+Average BLEU Score: 0.1311579731977215
+
+ENGLISH: We continue the legacy of our corporate towards sponsorship of events for social causes.
+HINDI: हम सामाजिक कारणों के लिए आयोजित कार्यक्रमों की प्रायोजक के रुप में हमारी कंपनी दायित्व निभा रही है।
+OUTPUT: हमारा कौर्पोरेट के नए प्रवरण में सामाजिक कार्यों के लिए संपत्ति की सम्पादन करता रहे हैं.
+BLEU Score: 0.030185197980400025
+Average BLEU Score: 0.13027224709932392
+
+ENGLISH: At the same time, Jesus left out nonessential details that might get in the way of our grasping the meaning of the illustrations.
+HINDI: दूसरी तरफ, यीशु ने ऐसी गैर - ज़रूरी बातें नहीं बतायीं जिनसे दृष्टांतों का असली मुद्दा समझने में मुश्‍किल पैदा हो ।
+OUTPUT: समझ में अपने साथ, ईसाइयां निर्धारित अनेक असम्भावनाओं को छोटे-से बताया गया, जिन्हें अनुभव के साथ समझ करना पड़ता है।
+BLEU Score: 0.009872120496476587
+Average BLEU Score: 0.12922528947669046
+
+ENGLISH: India around the world
+HINDI: पूरी दुनिया में भारत की जय-जयकार
+OUTPUT: भारत के साथ दुनिया में
+BLEU Score: 0.10294994188297393
+Average BLEU Score: 0.12899877785950326
+
+ENGLISH: That's being investigated.
+HINDI: जिस पर जांच की जा रही है।
+OUTPUT: ऐसा खांसा खाली है.
+BLEU Score: 0
+Average BLEU Score: 0.12789622420258442
+
+ENGLISH: Within South Asia, Air India transported around 9 tons of supplies on 7th April 2020 and 4 tons on 8th April 2020 to Colombo
+HINDI: एयर इंडिया ने 7 अप्रैल, 2020 को दक्षिण एशिया में 9 टन सामान और 8 अप्रैल, 2020 को कोलंबो के लिए 4 टन सामान की ढुलाई की गई
+OUTPUT: सुदढ़ एशिया में Air India ने 8 अप्रैल 2020 को 4 टन तथा 7 अप्रैल 2020 को 9 टन साझा कराया था कोलम्बो में.
+BLEU Score: 0.03530717633542467
+Average BLEU Score: 0.12711157125455766
+
+ENGLISH: Ive always done everything I could to represent my country.
+HINDI: मैंने हमेशा अपने देश का प्रतिनिधित्व करने का प्रयास किया है।
+OUTPUT: मेरा देश को समझा रहा हूँ । (Mera desh ko samajhaya raha hoon)
+BLEU Score: 0.013217947626377298
+Average BLEU Score: 0.12615448198037124
+
+ENGLISH: I'm a model.
+HINDI: मुझे मॉडल बना रही है.
+OUTPUT: मैं एक मॉडल हूँ.
+BLEU Score: 0.05231223689135342
+Average BLEU Score: 0.12553912993796276
+
+ENGLISH: The 8GB RAM and 128GB model is priced at Rs 19,999.
+HINDI: इसके 8GB रैम और 128GB स्टोरेज वाले वेरिएंट की कीमत 19,999 रुपये है।
+OUTPUT: 8 ग्राम रेम और 128 ग्राम मांक मोDEल की पrices की राशि 19,999 रुपये हैं।
+BLEU Score: 0.033241378434410024
+Average BLEU Score: 0.12477633860322265
+
+ENGLISH: The official routinely forwarded this to a junior police officer for investigation, and nothing happened during the intervening period because of weekend holidays.
+HINDI: अधिकारी ने इसे एक रूटीन के तौर पर जूनियर पुलिस अधिकारी के पास जांच के लिए भेज दिया और सप्ताहांत छुट्टियों की वजह से इस अवधि में कुछ नहीं हुआ।
+OUTPUT: उfficiale का रूते से एक जनरल पुलिस अझ से जांच करने का प्रयास करता था, लेकिन सप्ताह के दौरान का किसी काम नहीं हुआ।
+BLEU Score: 0.01794073254089892
+Average BLEU Score: 0.1239006369141872
+
+ENGLISH: State Electricity Regulatory Commissions (SERCs) of twenty States have notified regulatory framework on net-metering and feed-in-tariff to encourage rooftop solar plants.
+HINDI: बीस राज्यों के राज्य विद्युत नियामक आयोगों (एसईआरसी) ने छत पर सौर संयंत्र को प्रोत्साहन देने के लिए नेट-मीटरिंग और फीड-इन-टैरिफ पर नियामक को अधिसूचित किया है।
+OUTPUT: संघ लाइन परिसमापना आयोग (SERCs) का twenty राज्य में न्यूट मिटरिंग और फीड-इन टार्फ का न्यायालय स्थल सोलर प्लांट के लिए प्रोत्साहन करना चाहते हैं.
+BLEU Score: 0.01874585289964774
+Average BLEU Score: 0.12304571997097957
+
+ENGLISH: Directed Delhi Police to take all possible steps in coordination with JNU Administration to maintain law and order&take action against the perpetrators of violence.
+HINDI: दिल्ली पुलिस को कानून व्यवस्था बनाये रखने तथा हिंसा के खिलाफ कार्रवाई करने के लिए जेएनयू प्रशासन के साथ मिलकर हरसंभव कदम उठाने का निर्देश दिया।
+OUTPUT: दिरेक्त दिल्ली पुलिस को सभ्यता से संपर्क करें और JNU अधिकारपरिषद से संपर्क करें और निर्देशकों के विоलेंस के साथ लाव और कार्य करें।
+BLEU Score: 0.047422195449693935
+Average BLEU Score: 0.1224358528377434
+
+ENGLISH: Cut it into four pieces.
+HINDI: इसके चार भाग करो.
+OUTPUT: चुटकाल करें चार प्रकार में.
+BLEU Score: 0.048549177170732344
+Average BLEU Score: 0.12184475943240732
+
+ENGLISH: God does not impose on any soul a responsibility beyond its ability. Every soul receives whatever it gains and is liable for whatever it does. Lord, do not hold us responsible for our forgetfulness and mistakes. Lord, do not lay upon us the burden that You laid on those who lived before us. Lord, do not lay on us what we cannot afford. Ignore and forgive our sins. Have mercy on us. You are our Lord. Help us against the unbelievers.
+HINDI: और मान लिया परवरदिगार हमें तेरी ही मग़फ़िरत की (ख्वाहिश है) और तेरी ही तरफ़ लौट कर जाना है ख़ुदा किसी को उसकी ताक़त से ज्यादा तकलीफ़ नहीं देता उसने अच्छा काम किया तो अपने नफ़े के लिए और बुरा काम किया तो (उसका वबाल) उसी पर पडेग़ा ऐ हमारे परवरदिगार अगर हम भूल जाऐं या ग़लती करें तो हमारी गिरफ्त न कर ऐ हमारे परवरदिगार हम पर वैसा बोझ न डाल जैसा हमसे अगले लोगों पर बोझा डाला था, और ऐ हमारे परवरदिगार इतना बोझ जिसके उठाने की हमें ताक़त न हो हमसे न उठवा और हमारे कुसूरों से दरगुज़र कर और हमारे गुनाहों को बख्श दे और हम पर रहम फ़रमा तू ही हमारा मालिक है तू ही काफ़िरों के मुक़ाबले में हमारी मदद कर
+OUTPUT: भगवन नहीं किसी नौका के लिए कर्तव्य बेतुका करता है। कृपया नहीं हमारे भ्रमान और गलतियों के सम्पादन करते हैं। भगवन, हमारे सामने की उतार नहीं करें, जो पिछले समय में रहे थ
+BLEU Score: 0.0010999588949849289
+Average BLEU Score: 0.12088646736464999
+
+ENGLISH: Trade and investment must benefit all and countries must jointly address both the opportunities and challenges of globalization, innovation and technological advancements
+HINDI: व्‍यापार और निवेश सभी के लिए फायदेमंद होना चाहिए और देशों को वैश्‍वीकरण, नवाचार और प्रौद्योगिकी बढ़त के अवसरों और चुनौतियों दोनों का मिलकर समाधान निकालना होगा
+OUTPUT: व्यापार और 投資 must benefit all और देश must jointly address both the opportunities and challenges of globalization, उत्कृष्टता और संसार की प्रगति
+BLEU Score: 0.009472995278817151
+Average BLEU Score: 0.12000919593090327
+
+ENGLISH: This is indeed the noble Quran.
+HINDI: निश्चय ही यह प्रतिष्ठित क़ुरआन है
+OUTPUT: इसका है नौना करान का उपन्यास. (Isaka hai nauna karaan ka upnayas)
+BLEU Score: 0.013217947626377298
+Average BLEU Score: 0.11917488930352416
+
+ENGLISH: This notification comes days after top Iranian Commander General Qassem Soleimani was killed in a US drone attack.
+HINDI: अमेरिकी ड्रोन हमले में शीर्ष ईरानी जनरल कासिम सुलेमानी के मारे जाने के कुछ दिन बाद यह कदम उठाया गया है।
+OUTPUT: इस सम्मेलन के बाद तब तक हुआ जहान पाकिस्तानी कमांडर जनरल कास्म सोलेमानी को अमेरिका का ड्रोन आत्महत्या से मारा गया था.
+BLEU Score: 0.012384901282810543
+Average BLEU Score: 0.1183470599390225
+
+ENGLISH: Pickles are considered very beneficial for health.
+HINDI: खीरा खीरा हेल्थ के लिए काफी लाभकारी माना जाता है।
+OUTPUT: चिकने का स्वास्थ्य के लिए अहम केसाध हैं.
+BLEU Score: 0.04537922867531812
+Average BLEU Score: 0.11778576892930169
+
+ENGLISH: These parameters include ease of starting a business, construction permits, getting electricity, getting credit, paying taxes, trade across borders, enforcing contracts and resolving insolvency.
+HINDI: इन मानदंडों में कारोबार शुरू करना, निर्माण परमिट, बिजली की सुविधा प्राप्त करना, कर्ज प्राप्त करना, करों का भुगतान, सीमापार व्यापार, अनुबंधों को लागू करना और दिवाला प्रक्रिया से निपटना शामिल है।
+OUTPUT: ये पारामेटर्स  include उत्साह की एक बिज़नेस की शुरुआत, पहले में परवाना परमेंट्स, इलेक्ट्रिक्स के लिए प्राप्त करना, टैक्स देना, विकास के साथ व्यापार करना, अनुप्रेषन के साथ संपत्ति का निवेश करना और संपत्ति का निवेश करना.
+BLEU Score: 0.03772657799190421
+Average BLEU Score: 0.11717463006718416
+
+ENGLISH: This means, too, that each year yields a population increase of over 90 million people, the equivalent of three Canadas or another Mexico.
+HINDI: लेकिन सरकारें क्यों परिवार नियोजन के द्वारा जनसंख्या वृद्धि को सीमित करने के लिए उत्सुक हैं?
